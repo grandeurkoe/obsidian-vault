@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "360e1f057ac43fe0",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a72f244d556692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87755233b9d13a32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ee0cdfe1c78d605",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0f1030e99dce64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b0184cc8ead6c2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68b0ef6996ebb6e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dc284d9bf558dd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f479e276279d4a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a5fb3049460424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9fa3f962826a7b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2043f388be9162a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61840586fe6c4034",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ff0498e7f961865",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "87755233b9d13a32",
+  "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
+    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
+    "Attachments/Pasted image 20231010175845.png",
+    "Attachments/Pasted image 20231010175816.png",
+    "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
+    "Attachments/Pasted image 20231010174543.png",
+    "Attachments/Pasted image 20231010174525.png",
+    "Data Structure and Algorithms/Algorithms/Sorting.md",
+    "Data Structure and Algorithms/Algorithms/Recursion.md",
+    "Data Structure and Algorithms/Algorithms/Algorithms.md",
+    "Data Structure and Algorithms/Data Structure/Array.md",
+    "Data Structure and Algorithms/Data Structure/Graphs.md",
+    "Data Structure and Algorithms/Algorithms",
+    "Attachments/Pasted image 20231010153028.png",
+    "Attachments/Pasted image 20231010152924.png",
+    "Attachments/Pasted image 20231010152830.png",
+    "Attachments/Pasted image 20231010152731.png",
+    "Attachments/Pasted image 20231010152550.png",
+    "Data Structure and Algorithms/Data Structure/Trees.md",
+    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
+    "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
+    "Data Structure and Algorithms/Data Structure/Linked List.md",
+    "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
+    "Data Structure and Algorithms/Big O/What is Big O.md",
+    "Data Structure and Algorithms/Data Structure/Array/Untitled.md",
+    "Data Structure and Algorithms/Data Structure/Array",
+    "Attachments/ClassificationofDataStructure-660x347.jpg",
+    "Data Structure and Algorithms/Data Structure",
+    "Data Structure and Algorithms/Data Structure.md",
+    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
+    "Data Structure and Algorithms/Big O/Big O Exercise.md",
+    "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
+    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+    "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
+    "Data Structure and Algorithms/Big O",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Smoothing out Time-Series Data.md",
+    "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
+    "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
+    "Data Structure and Algorithms/Miscellaneous",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
+    "Attachments/Untitled.canvas"
+  ]
+}
