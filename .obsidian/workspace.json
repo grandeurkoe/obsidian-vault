@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
+                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
+                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
+                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md"
+                "file": "Data Structure and Algorithms/Data Structure/Linked List.md"
               }
             }
           }
@@ -152,6 +152,10 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
+    "Data Structure and Algorithms/Data Structure/Graphs.md",
+    "Data Structure and Algorithms/Data Structure/Array.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
@@ -166,8 +170,6 @@
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Algorithms/Algorithms.md",
-    "Data Structure and Algorithms/Data Structure/Array.md",
-    "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Algorithms",
     "Attachments/Pasted image 20231010153028.png",
     "Attachments/Pasted image 20231010152924.png",
@@ -176,7 +178,6 @@
     "Attachments/Pasted image 20231010152550.png",
     "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
-    "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
     "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "Data Structure and Algorithms/Big O/What is Big O.md",
@@ -197,7 +198,6 @@
     "Data Structure and Algorithms/Miscellaneous",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
     "Attachments/Untitled.canvas"
   ]
 }

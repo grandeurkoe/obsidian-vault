@@ -34,6 +34,6 @@ There are a lot of methods to resolve hash collision like Cuckoo hashing, Hopsco
 
 ## Implementation
 
-1. First Recurring Character - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/6e9bf0a3106f2bb503bf1ec28e4f20b900595d4f/data-structures/hash-tables-or-dictionaries/first-recurring-character)
-2. Hash Table or Dictionaries - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/6e9bf0a3106f2bb503bf1ec28e4f20b900595d4f/data-structures/hash-tables-or-dictionaries/hash-tables-or-dictionaries)
-3. Implementing a Hash Table - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/6e9bf0a3106f2bb503bf1ec28e4f20b900595d4f/data-structures/hash-tables-or-dictionaries/implementing-a-hash-table)
+1. First Recurring Character - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/hash-tables-or-dictionaries/first-recurring-character)
+2. Hash Table or Dictionaries - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/hash-tables-or-dictionaries/hash-tables-or-dictionaries)
+3. Implementing a Hash Table - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/hash-tables-or-dictionaries/implementing-a-hash-table)
