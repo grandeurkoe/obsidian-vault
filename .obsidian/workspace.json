@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md"
               }
             }
           },
@@ -160,6 +160,23 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 069 - Blog Capstone Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 064 - My Top 10 Movie Website/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLAlchemy.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 062 - Coffee and Wi-Fi Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 060 - Make POST Requests with Flask and Forms/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 059 - Building A Better Blog Using Bootstrap/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 056 - Rendering HTML Files and using templates/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 055 - HTML and URL Parsing in Flask/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Implementation.md",
@@ -169,23 +186,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 052 - Instagram Follower Bot/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 051 - Internet Speed Twitter Complaint Bot/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 050 - Automated Tinder Swiping Bot/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 049 - Automated Job Application on LinkedIn/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 048 - Selenium Webdriver and Game Playing Bot/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 047 - Automated Amazon Price Tracker/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 046 - Musical Time Machine/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 040 - Flight Club/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 039 - Flight Deal Finder/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 038 - Workout Tracking using Google Sheets/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 037 - API Post Requests and Headers/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 036 - Stock Trading News Alert Project/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 035 - Keys, Authentication and Environmental Variables/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 034 - Creating a GUI Quiz App/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 033 -  API Endpoints and API Parameters/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 031 - The Flash Card App Capstone Project/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 030 - Errors, Exceptions and JSON/Implementation.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
     "Attachments/Pasted image 20231010174543.png",
