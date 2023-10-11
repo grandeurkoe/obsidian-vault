@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md"
               }
             }
           },
@@ -160,14 +160,17 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "Attachments/2020-10-10_10-15-47-b8bc9bc843254bc8e27d2f36adee1560.png",
+    "Attachments/2020-10-10_10-11-58-4e895c1ac91304e77d46237783c84c9b.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Visualization with Matplotlib.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Manipulation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Accessing Columns and Individual Cells in a Dataframe.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Preliminary Data Exploration and Data Cleaning with Pandas.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
     "Attachments/2020-10-10_10-10-58-e17b80c3fdd70b4474a4d7dec275eacf.png",
     "Attachments/2020-10-10_10-10-43-589f6106c0887901abd3163e08d6244c.png",
@@ -193,10 +196,7 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 064 - My Top 10 Movie Website/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLAlchemy.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 062 - Coffee and Wi-Fi Project/Implementation.md",
     "Attachments/Pasted image 20231010175845.png",
-    "Attachments/Pasted image 20231010175816.png",
     "Data Structure and Algorithms/Algorithms",
     "Data Structure and Algorithms/Data Structure/Array",
     "Data Structure and Algorithms/Data Structure",
