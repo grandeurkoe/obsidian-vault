@@ -15,3 +15,15 @@ We need to be able to configure and plot our data on two separate axes on the sa
 ```
 
 We then create another axis object: `ax2`. The key thing is that by using the `.twinx()` method allows `ax1` and `ax2` to share the same x-axis. When we plot our data on the axes objects we get this:
+
+![[2020-10-10_10-10-43-589f6106c0887901abd3163e08d6244c.png|500]]
+
+That's very nice! But there's one problem: we can't tell the lines apart because they have the same color! Let's add some styling. Let's:
+
+- color in the lines
+- color in the axes and
+- add some labels
+
+so that we can see what's going on. Here's what we get:
+
+![[2020-10-10_10-10-58-e17b80c3fdd70b4474a4d7dec275eacf.png|500]]
