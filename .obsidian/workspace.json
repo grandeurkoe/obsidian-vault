@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 74 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 74 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 74 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 74 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md"
               }
             }
           },
@@ -158,8 +158,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "Attachments/2020-09-25_10-14-15-c15e650ccb641c468c9421a8ffc77a68.gif",
+    "Attachments/2020-09-25_09-56-39-cc4a596c8ee0a5edf4219832b57f1809.gif",
+    "Attachments/2020-09-25_09-53-23-3145663bff8202a0d6c743347770c287.gif",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 74 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 74 - Aggregate and  Merge Data with Pandas",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Implementation.md",
@@ -184,8 +189,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Python Decorators.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Understanding the Command Line.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 053 - Data Entry Job Automation/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 052 - Instagram Follower Bot/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 051 - Internet Speed Twitter Complaint Bot/Implementation.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
     "Attachments/Pasted image 20231010174543.png",
@@ -195,9 +198,7 @@
     "Attachments/Pasted image 20231010152924.png",
     "Attachments/Pasted image 20231010152830.png",
     "Attachments/Pasted image 20231010152731.png",
-    "Attachments/Pasted image 20231010152550.png",
     "Data Structure and Algorithms/Data Structure/Array",
-    "Attachments/ClassificationofDataStructure-660x347.jpg",
     "Data Structure and Algorithms/Data Structure",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
@@ -205,7 +206,6 @@
     "Data Structure and Algorithms/Big O",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
-    "Data Structure and Algorithms/Miscellaneous",
     "Attachments/Untitled.canvas"
   ]
 }
