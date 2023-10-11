@@ -128,14 +128,21 @@
                 "file": "Data Structure and Algorithms/Algorithms/Sorting.md"
               }
             }
+          },
+          {
+            "id": "ca14253c45e25a5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
