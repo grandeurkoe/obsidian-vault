@@ -14,3 +14,8 @@ We have no idea what our themes are actually called! 🤨 Ok, we can see that th
 
 What is a database schema? A schema is just how the database is organized. Many relational databases, such as our LEGO data, is split into individual tables. We have separate tables for the colors, the sets and the themes. With a relational database, the tables are linked to each other through their keys.
 
+### Understand the theme.csv file
+
+The themes.csv file has the actual theme names. How is this table linked to the others tables? Well, the sets .csv has `theme_ids` which match the `id` column in the themes.csv.
+
+This means that the `theme_id` is the **foreign key** inside the sets.csv. Many different sets can be part of the same theme. But _inside_ the themes.csv, each `theme_id`, which is just called `id` is unique. This uniqueness makes the `id` column the **primary key** inside the themes.csv. To see this in action, explore the themes.csv.
