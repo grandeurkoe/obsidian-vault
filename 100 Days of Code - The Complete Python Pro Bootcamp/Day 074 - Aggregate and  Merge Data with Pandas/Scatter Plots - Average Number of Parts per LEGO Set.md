@@ -8,7 +8,7 @@ Create a Pandas Series called `parts_per_set` that has the year as the index and
 
 ![[2020-10-10_10-11-58-4e895c1ac91304e77d46237783c84c9b.png|200]]
 
-Once again, we're going to use the `.groupby()` and the `.agg()` function together to work this one out. However, this time we pass a dictionary to the `.agg()` function so that we will target the num_parts column with the `mean()` function. That way, we group our data by year and then we average the number of parts for that year.
+Once again, we're going to use the `.groupby()` and the `.agg()` function together to work this one out. However, this time we pass a dictionary to the `.agg()` function so that we will target the `num_parts` column with the `mean()` function. That way, we group our data by year and then we average the number of parts for that year.
 
 ```python
 1. parts_per_set = sets.groupby('year').agg({'num_parts': pd.Series.mean})
