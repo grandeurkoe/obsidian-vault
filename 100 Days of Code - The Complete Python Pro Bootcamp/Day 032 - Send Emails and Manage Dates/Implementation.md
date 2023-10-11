@@ -1,5 +1,5 @@
 # Implementation
 
-Automated Birthday Wisher - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/130f7c5a1ddd4250bfea7953cb5a677c248efaf9/day-032-send-email-and-manage-dates/automated-birthday-wisher)
+Automated Birthday Wisher - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-032-send-email-and-manage-dates/automated-birthday-wisher)
 
-Send Motivational Quotes - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/130f7c5a1ddd4250bfea7953cb5a677c248efaf9/day-032-send-email-and-manage-dates/send-motivational-quotes)
+Send Motivational Quotes - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-032-send-email-and-manage-dates/send-motivational-quotes)

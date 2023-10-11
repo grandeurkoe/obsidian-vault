@@ -1,3 +1,3 @@
 # Implementation
 
-Rain Alert - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/aecd6e6619281390627dbfc9e5fbf5e49d995560/day-035-sms-keys-authentication-and-env/rain-alert)
+Rain Alert - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-035-sms-keys-authentication-and-env/rain-alert)
