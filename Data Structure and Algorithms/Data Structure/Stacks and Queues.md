@@ -33,8 +33,8 @@ The limitation of using Array to build stacks is that they can only hold so many
 
 ### Implementation
 
-1. Implementing a Stack using Array - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/5574a3fbc53fbd1f60d20164d45311d5b9c07029/data-structures/stacks-and-queues/implementing-a-stack-using-array)
-2. Implementing a Stack using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/5574a3fbc53fbd1f60d20164d45311d5b9c07029/data-structures/stacks-and-queues/implementing-a-stack-using-linked-list)
+1. Implementing a Stack using Array - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/stacks-and-queues/implementing-a-stack-using-array)
+2. Implementing a Stack using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/stacks-and-queues/implementing-a-stack-using-linked-list)
 
 ## Queues
 
@@ -57,7 +57,7 @@ In contrast, the time complexity of removing the last element in Linked List is 
 
 ### Implementation
 
-Implementing a Queue using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/5574a3fbc53fbd1f60d20164d45311d5b9c07029/data-structures/stacks-and-queues/implementing-a-queue-using-linked-list)
+Implementing a Queue using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/stacks-and-queues/implementing-a-queue-using-linked-list)
 
 ## What are Stacks + Queues good for?
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
+                "file": "Data Structure and Algorithms/Algorithms/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
+                "file": "Data Structure and Algorithms/Algorithms/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
+                "file": "Data Structure and Algorithms/Algorithms/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md"
+                "file": "Data Structure and Algorithms/Algorithms/Recursion.md"
               }
             }
           }
@@ -152,6 +152,11 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
+    "Data Structure and Algorithms/Algorithms/Algorithms.md",
+    "Data Structure and Algorithms/Data Structure/Trees.md",
+    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
+    "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Data Structure/Array.md",
@@ -161,7 +166,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
-    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
@@ -169,16 +173,12 @@
     "Attachments/Pasted image 20231010174525.png",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
-    "Data Structure and Algorithms/Algorithms/Algorithms.md",
     "Data Structure and Algorithms/Algorithms",
     "Attachments/Pasted image 20231010153028.png",
     "Attachments/Pasted image 20231010152924.png",
     "Attachments/Pasted image 20231010152830.png",
     "Attachments/Pasted image 20231010152731.png",
     "Attachments/Pasted image 20231010152550.png",
-    "Data Structure and Algorithms/Data Structure/Trees.md",
-    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
-    "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Data Structure/Array/Untitled.md",

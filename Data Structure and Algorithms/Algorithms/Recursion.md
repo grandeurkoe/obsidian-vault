@@ -64,7 +64,7 @@ In interviews, complex question can be solved by divide and conquer method that 
 
 ## Implementation
 
-1. Fibonacci Sequence Iterative and Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/98614c4d069be67ceae473822ef677e4b3245223/algorithms/recursion/fibonacci-sequence-iterative-and-recursive)
-2. Factorial Iterative and Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/98614c4d069be67ceae473822ef677e4b3245223/algorithms/recursion/find-factorial-iterative-and-recursive)
+1. Fibonacci Sequence Iterative and Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/recursion/fibonacci-sequence-iterative-and-recursive)
+2. Factorial Iterative and Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/recursion/find-factorial-iterative-and-recursive)
 3. Recursion - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/98614c4d069be67ceae473822ef677e4b3245223/algorithms/recursion/recursion)
 4. Reverse a String Iterative and Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/98614c4d069be67ceae473822ef677e4b3245223/algorithms/recursion/reverse-a-string-iterative-and-recursive)

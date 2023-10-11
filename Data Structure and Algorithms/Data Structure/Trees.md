@@ -118,7 +118,7 @@ B[5] --- C[6]
 
 #### Implementation
 
-1. Implementing a Binary Search Tree - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/8a15949330686ceab0c2043024bfaa4d9b3ac8c5/data-structures/trees/implementing-a-binary-search-tree)
+1. Implementing a Binary Search Tree - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/trees/implementing-a-binary-search-tree)
 
 ## Binary Heap
 

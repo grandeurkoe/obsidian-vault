@@ -24,7 +24,7 @@ Caching important values can speed up the program.
 
 ### Implementation
 
-1. Fibonacci Dynamic Bottom Up - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/c0e5a62ca0ad4549efcdc04d2d5eeb482a794f27/algorithms/dynamic-programming/fibonacci-dynamic-bottom-up)
-2. Fibonacci Dynamic Programming - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/c0e5a62ca0ad4549efcdc04d2d5eeb482a794f27/algorithms/dynamic-programming/fibonacci-dynamic-programming)
-3. Memoization Closure - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/c0e5a62ca0ad4549efcdc04d2d5eeb482a794f27/algorithms/dynamic-programming/memoization-closure)
-4. Memoization - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/c0e5a62ca0ad4549efcdc04d2d5eeb482a794f27/algorithms/dynamic-programming/memoization)
+1. Fibonacci Dynamic Bottom Up - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/dynamic-programming/fibonacci-dynamic-bottom-up)
+2. Fibonacci Dynamic Programming - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/dynamic-programming/fibonacci-dynamic-programming)
+3. Memoization Closure - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/dynamic-programming/memoization-closure)
+4. Memoization - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/dynamic-programming/memoization)
