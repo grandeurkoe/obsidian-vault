@@ -19,3 +19,19 @@ What is a database schema? A schema is just how the database is organized. Many
 The themes.csv file has the actual theme names. How is this table linked to the others tables? Well, the sets .csv has `theme_ids` which match the `id` column in the themes.csv.
 
 This means that the `theme_id` is the **foreign key** inside the sets.csv. Many different sets can be part of the same theme. But _inside_ the themes.csv, each `theme_id`, which is just called `id` is unique. This uniqueness makes the `id` column the **primary key** inside the themes.csv. To see this in action, explore the themes.csv.
+
+Looking at the first 5 rows, we see the column names. Each value in the id column is unique (this is the primary key for the themes table). The theme names are not unique. If we search for the name "Star Wars", we see that 4 different ids correspond to that name.
+
+![[2020-10-10_10-20-17-7a41efe0fd36de47692c93fd25cac833.png|500]]
+
+Why would Star Wars have so many different themes? We can check which products corresponded to those themes in the sets.csv:
+
+![](https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b.png)
+
+Star Wars is a really long-running franchise. Theme number 18 was running from 2000 to 2002 and seems to be comprised of several of the show's characters. What about, say theme 209?
+
+![[2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b.png|500]]
+
+Here we see that all of the Star Wars Advent Calendars share the same `theme_id`. That makes sense.
+
+![[2020-10-10_10-20-45-635c014ae055a295c7e605acb5cd3bc1.jpg|500]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md"
               }
             }
           },
@@ -160,9 +160,14 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "Attachments/2020-10-10_10-22-32-26ca451e68832f127ca7c6cb4608af04.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
+    "Attachments/2020-10-10_10-20-45-635c014ae055a295c7e605acb5cd3bc1.jpg",
+    "Attachments/2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b.png",
+    "Attachments/2020-10-10_10-20-17-7a41efe0fd36de47692c93fd25cac833.png",
     "Attachments/2020-10-10_10-18-04-9bbb260d201de1b104afa814b9e6b1ca.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
     "Attachments/2020-10-10_10-15-47-b8bc9bc843254bc8e27d2f36adee1560.png",
     "Attachments/2020-10-10_10-11-58-4e895c1ac91304e77d46237783c84c9b.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
@@ -178,15 +183,11 @@
     "Attachments/2020-10-10_10-10-43-589f6106c0887901abd3163e08d6244c.png",
     "Attachments/2020-10-10_10-09-52-88792d77cb4c28acc03af46a6b2d56ae.png",
     "Attachments/2020-10-10_10-08-30-8c14d024f59494861a599bf138da8319.png",
-    "Attachments/2020-10-10_10-08-17-3130eee0444d4983a649a7af0213bf17.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Smoothing out Time-Series Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Upload the Data and Read the .csv File.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md",
-    "Attachments/2020-09-25_10-14-15-c15e650ccb641c468c9421a8ffc77a68.gif",
-    "Attachments/2020-09-25_09-56-39-cc4a596c8ee0a5edf4219832b57f1809.gif",
-    "Attachments/2020-09-25_09-53-23-3145663bff8202a0d6c743347770c287.gif",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Implementation.md",
@@ -196,7 +197,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 064 - My Top 10 Movie Website/Implementation.md",
     "Data Structure and Algorithms/Algorithms",
     "Data Structure and Algorithms/Data Structure/Array",
     "Data Structure and Algorithms/Data Structure",
