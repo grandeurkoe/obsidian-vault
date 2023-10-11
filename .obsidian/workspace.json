@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 025 - CSV Data and the Pandas Library/Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 025 - CSV Data and the Pandas Library/Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 025 - CSV Data and the Pandas Library/Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 025 - CSV Data and the Pandas Library/Implementation.md"
               }
             }
           },
@@ -160,6 +160,19 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 024 - Files, Directories and Paths/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 023 - The Turtle Crossing Capstone Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 022 - The Pong Game/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 021 - Class Inheritance/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 020 - Time Module/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 019 - Higher Order Functions and Event Listener/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 018 - Turtle Graphics and the GUI/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 016 - Object Oriented Programming/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 015 - The Coffee Machine Capstone Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 014 - Higher Lower Game Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Function with Outputs and Docstrings.md",
@@ -173,19 +186,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
-    "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
-    "Data Structure and Algorithms/Algorithms/Recursion.md",
-    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
-    "Data Structure and Algorithms/Algorithms/Algorithms.md",
-    "Data Structure and Algorithms/Data Structure/Trees.md",
-    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
-    "Data Structure and Algorithms/Data Structure/Linked List.md",
-    "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
-    "Data Structure and Algorithms/Data Structure/Graphs.md",
-    "Data Structure and Algorithms/Data Structure/Array.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
     "Attachments/Pasted image 20231010174543.png",
