@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md"
               }
             }
           },
@@ -160,11 +160,12 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
     "Attachments/2020-10-10_10-10-58-e17b80c3fdd70b4474a4d7dec275eacf.png",
     "Attachments/2020-10-10_10-10-43-589f6106c0887901abd3163e08d6244c.png",
     "Attachments/2020-10-10_10-09-52-88792d77cb4c28acc03af46a6b2d56ae.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
     "Attachments/2020-10-10_10-08-30-8c14d024f59494861a599bf138da8319.png",
     "Attachments/2020-10-10_10-08-17-3130eee0444d4983a649a7af0213bf17.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Smoothing out Time-Series Data.md",
@@ -196,7 +197,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 062 - Coffee and Wi-Fi Project/Implementation.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
-    "Attachments/Pasted image 20231010174543.png",
     "Data Structure and Algorithms/Algorithms",
     "Data Structure and Algorithms/Data Structure/Array",
     "Data Structure and Algorithms/Data Structure",
