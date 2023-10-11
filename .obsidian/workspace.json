@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Implementation.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +160,19 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Function with Outputs and Docstrings.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
+    "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
@@ -172,39 +186,26 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
     "Attachments/Pasted image 20231010174543.png",
     "Attachments/Pasted image 20231010174525.png",
-    "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms",
     "Attachments/Pasted image 20231010153028.png",
     "Attachments/Pasted image 20231010152924.png",
     "Attachments/Pasted image 20231010152830.png",
     "Attachments/Pasted image 20231010152731.png",
     "Attachments/Pasted image 20231010152550.png",
-    "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
-    "Data Structure and Algorithms/Big O/What is Big O.md",
-    "Data Structure and Algorithms/Data Structure/Array/Untitled.md",
     "Data Structure and Algorithms/Data Structure/Array",
     "Attachments/ClassificationofDataStructure-660x347.jpg",
     "Data Structure and Algorithms/Data Structure",
-    "Data Structure and Algorithms/Data Structure.md",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Big O/Big O Exercise.md",
-    "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Smoothing out Time-Series Data.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Data Structure and Algorithms/Miscellaneous",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
     "Attachments/Untitled.canvas"
   ]
 }

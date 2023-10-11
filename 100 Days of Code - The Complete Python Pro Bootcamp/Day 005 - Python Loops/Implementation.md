@@ -1,5 +1,5 @@
 # Implementation
 
-Loops - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/e09c13beb18642a1084906b0c224100d9beb0167/day-005-python-loops/loops)
+Loops - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-005-python-loops/loops)
 
-Password Generator - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/e09c13beb18642a1084906b0c224100d9beb0167/day-005-python-loops/password-generator)
+Password Generator - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-005-python-loops/password-generator)
