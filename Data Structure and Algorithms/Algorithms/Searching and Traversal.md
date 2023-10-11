@@ -45,8 +45,8 @@ Time complexity of an already sorted binary search tree is O(log n) because it u
 
 ### Implementation
 
-1. Breadth First Search - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/77d96504d472b825e0babd21134dfa2cca7a94c6/algorithms/searching/breadth-first-search)
-2. Breadth First Search Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/77d96504d472b825e0babd21134dfa2cca7a94c6/algorithms/searching/breadth-first-search-recursive)
+1. Breadth First Search - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search)
+2. Breadth First Search Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search-recursive)
 
 ## Depth First Search (DFS)
 
@@ -65,7 +65,7 @@ DFS can be implemented in three different ways -
 
 ### Implementation
 
-Depth First Search - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/77d96504d472b825e0babd21134dfa2cca7a94c6/algorithms/searching/depth-first-search)
+Depth First Search - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/depth-first-search)
 
 ## Breadth First Search(BFS) vs Depth First Search (DFS)
 

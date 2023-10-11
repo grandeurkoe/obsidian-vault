@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Recursion.md",
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Recursion.md",
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Recursion.md",
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Recursion.md"
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
+    "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Data Structure and Algorithms/Algorithms/Algorithms.md",
     "Data Structure and Algorithms/Data Structure/Trees.md",
@@ -168,11 +170,9 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "Attachments/Pasted image 20231010175845.png",
     "Attachments/Pasted image 20231010175816.png",
-    "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Attachments/Pasted image 20231010174543.png",
     "Attachments/Pasted image 20231010174525.png",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
-    "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Algorithms",
     "Attachments/Pasted image 20231010153028.png",
     "Attachments/Pasted image 20231010152924.png",

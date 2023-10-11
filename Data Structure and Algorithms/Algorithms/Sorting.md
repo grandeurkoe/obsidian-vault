@@ -8,7 +8,7 @@ The time complexity of the built-in `sort(`) function in various languages can b
 
 Time complexity of built-in `sort()` function in python is O(N log N).
 
-Built-in Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/751f2af2b4ef455ee403382c4f68f05fbb611e94/algorithms/sorting/builtin-sort)
+Built-in Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/builtin-sort)
 
 ## Stable vs Unstable Algorithms
 
@@ -52,7 +52,7 @@ Time complexity for bubble sort is O(n^2).
 
 ### Implementation
 
-Bubble Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/751f2af2b4ef455ee403382c4f68f05fbb611e94/algorithms/sorting/bubble-sort)
+Bubble Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/bubble-sort)
 
 ## Selection Sort
 
@@ -66,7 +66,7 @@ Time complexity for selection sort is O(n^2).
 
 ### Implementation
 
-Selection Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/751f2af2b4ef455ee403382c4f68f05fbb611e94/algorithms/sorting/selection-sort)
+Selection Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/selection-sort)
 
 ## Insertion Sort
 
@@ -80,7 +80,7 @@ In the best-case scenario you can get a time complexity of O(n).
 
 ### Implementation
 
-Insertion Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/751f2af2b4ef455ee403382c4f68f05fbb611e94/algorithms/sorting/insertion-sort)
+Insertion Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/insertion-sort)
 
 ## Merge Sort
 
@@ -94,7 +94,7 @@ Merge sort utilizes a divide and conquer approach i.e., recursion.
 
 ### Implementation
 
-Merge Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/751f2af2b4ef455ee403382c4f68f05fbb611e94/algorithms/sorting/merge-sort)
+Merge Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/merge-sort)
 
 ## Quick Sort
 
@@ -116,7 +116,7 @@ If the pivot is the largest element in the list then the time complexity will be
 
 ### Implementation
 
-Quick Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/751f2af2b4ef455ee403382c4f68f05fbb611e94/algorithms/sorting/quick-sort)
+Quick Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/quick-sort)
 
 ## Counting and Radix Sort
 
