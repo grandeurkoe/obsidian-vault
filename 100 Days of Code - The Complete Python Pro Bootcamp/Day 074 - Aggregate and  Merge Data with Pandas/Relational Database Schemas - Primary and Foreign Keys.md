@@ -26,7 +26,7 @@ Looking at the first 5 rows, we see the column names. Each value in the id colum
 
 Why would Star Wars have so many different themes? We can check which products corresponded to those themes in the sets.csv:
 
-![](https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b.png)
+![[2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b 1.png|500]]
 
 Star Wars is a really long-running franchise. Theme number 18 was running from 2000 to 2002 and seems to be comprised of several of the show's characters. What about, say theme 209?
 
