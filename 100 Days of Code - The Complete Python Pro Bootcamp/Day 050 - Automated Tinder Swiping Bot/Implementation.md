@@ -1,3 +1,3 @@
 # Implementation
 
-Automated Tinder Swiping Bot - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/a29acc65856890846906961e8323458f53396b1c/day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)
+Automated Tinder Swiping Bot - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-050-auto-tinder-swiping-bot/auto-tinder-swiping-bot)

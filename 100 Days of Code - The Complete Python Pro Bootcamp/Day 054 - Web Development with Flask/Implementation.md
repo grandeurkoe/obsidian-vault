@@ -1,5 +1,5 @@
 # Implementation
 
-Introduction To Flask - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/c46691af55c7d6331898c619249a26361bf9a66a/day-054-introduction-to-web-development-with-flask/introduction-to-flask)
+Introduction To Flask - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-054-introduction-to-web-development-with-flask/introduction-to-flask)
 
-Introduction To Web Development With Flask - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/c46691af55c7d6331898c619249a26361bf9a66a/day-054-introduction-to-web-development-with-flask/python-decorators)
+Python Decorators - [Github Link](https://github.com/grandeurkoe/100-days-of-code-the-complete-python-pro-bootcamp/tree/3c4448a729e674d11d413563af467bd1496e9a2c/day-054-introduction-to-web-development-with-flask/python-decorators)
