@@ -30,3 +30,7 @@ Now we can go back to our chart and format where the major and minor ticks shoul
 ```
 
 The final outcome should now look like this:
+
+![[2020-10-10_10-58-35-642437e970a5169c0b449567597a762e.png|500]]
+
+When we take a look at our chart, we can see the tick marks nicely. The tick marks also allow us to visually date that spike of interest in the middle of the chart - March 2016. This was when the Tesla Model 3 was unveiled. Also, we can clearly see that the most recent spikes in search coincide, not with the release of a new car, but the roaring stock price for the company!
