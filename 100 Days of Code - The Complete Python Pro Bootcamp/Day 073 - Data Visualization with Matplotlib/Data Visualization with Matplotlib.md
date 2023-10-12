@@ -43,7 +43,7 @@ plt.figure(figsize=(16,10))
 plt.plot(reshaped_df.index, reshaped_df.java)
 ```
 
-This will make our chart easier to see. But when we increase the size of the chart, we should also increase the fontsize of the ticks on our axes so that they remain easy to read:
+This will make our chart easier to see. But when we increase the size of the chart, we should also increase the `fontsize` of the ticks on our axes so that they remain easy to read:
 
 ![[2020-09-23_15-22-03-5e3878721c6ef654b50130ee8825c22e.png|500]]
 
