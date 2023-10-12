@@ -48,3 +48,16 @@ Here's the full code for the cell:
 ```
 
 The search volume moves around quite a bit - month on month. Perhaps we can smooth out the search volumes to get a slightly different picture (pun intended!).
+
+## Rolling Average
+
+You can create a rolling average using `.rolling()` and `.mean()` functions together.
+
+```python
+1. roll_df = df_unemployment[['UE_BENEFITS_WEB_SEARCH', 'UNRATE']].rolling(window=6).mean()
+```
+
+Your plot should look something like this:
+
+![[2020-10-10_11-12-00-c00bc3f0680cf5782b5ca473f1beced6.png|500]]
+
