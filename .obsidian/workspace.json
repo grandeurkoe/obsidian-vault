@@ -138,11 +138,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,6 +160,7 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series",
     "Attachments/2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b 1.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Implementation.md",
@@ -178,7 +180,6 @@
     "Attachments/2020-10-10_10-20-45-635c014ae055a295c7e605acb5cd3bc1.jpg",
     "Attachments/2020-10-10_10-20-26-e9094eb0b1ab6154493c48b700afd79b.png",
     "Attachments/2020-10-10_10-20-17-7a41efe0fd36de47692c93fd25cac833.png",
-    "Attachments/2020-10-10_10-18-04-9bbb260d201de1b104afa814b9e6b1ca.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Visualization with Matplotlib.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Manipulation.md",
