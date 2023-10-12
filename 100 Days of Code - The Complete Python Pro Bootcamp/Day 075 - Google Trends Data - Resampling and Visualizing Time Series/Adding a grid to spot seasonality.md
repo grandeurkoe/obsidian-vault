@@ -61,3 +61,36 @@ Your plot should look something like this:
 
 ![[2020-10-10_11-12-00-c00bc3f0680cf5782b5ca473f1beced6.png|500]]
 
+What is this telling us? We see that searches for "Unemployment Benefits" happen before the actual official unemployment rate goes up. Similarly, the search popularity for the term goes down before the unemployment rate decreases. In other words, these searches seem to act as a leading economic indicator for the unemployment rate (which is a lagging indicator).
+
+![[2020-10-10_11-12-13-66757e8b039624b51ee60e4f8b4670a3.png|500]]
+
+Here's the full code for the cell:
+
+```python
+1. plt.figure(figsize=(14,8), dpi=120)
+2. plt.title('Rolling Monthly US "Unemployment Benefits" Web Searches vs UNRATE', fontsize=18)
+3. plt.yticks(fontsize=14)
+4. plt.xticks(fontsize=14, rotation=45)
+
+6. ax1 = plt.gca()
+7. ax2 = ax1.twinx()
+
+9. ax1.xaxis.set_major_locator(years)
+10. ax1.xaxis.set_major_formatter(years_fmt)
+11. ax1.xaxis.set_minor_locator(months)
+
+13. ax1.set_ylabel('FRED U/E Rate', color='purple', fontsize=16)
+14. ax2.set_ylabel('Search Trend', color='skyblue', fontsize=16)
+
+16. ax1.set_ylim(bottom=3, top=10.5)
+17. ax1.set_xlim([df_unemployment.MONTH[0], df_unemployment.MONTH.max()])
+
+19. # Calculate the rolling average over a 6 month window
+20. roll_df = df_unemployment[['UE_BENEFITS_WEB_SEARCH', 'UNRATE']].rolling(window=6).mean()
+
+22. ax1.plot(df_unemployment.MONTH, roll_df.UNRATE, 'purple', linewidth=3, linestyle='-.')
+23. ax2.plot(df_unemployment.MONTH, roll_df.UE_BENEFITS_WEB_SEARCH, 'skyblue', linewidth=3)
+
+25. plt.show()
+```
