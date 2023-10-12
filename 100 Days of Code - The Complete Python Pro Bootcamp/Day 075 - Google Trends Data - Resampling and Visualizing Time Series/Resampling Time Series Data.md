@@ -56,3 +56,7 @@ If we wanted the average price over the course of the month, we could use someth
 ```
 
 This is what our data looks like now:
+
+![[2020-10-10_10-40-46-fb7f0593d8a82bf84479c5f1a4615b9a.png|500]]
+
+We have 73 rows in our price data - the same as our search data. Nice! 😎
