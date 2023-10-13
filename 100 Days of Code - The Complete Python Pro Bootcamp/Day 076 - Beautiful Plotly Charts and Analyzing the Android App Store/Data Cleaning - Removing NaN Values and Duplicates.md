@@ -23,3 +23,6 @@ The `.sample(n)` method will give us n random rows. This is another handy way to
 To remove the unwanted columns, we simply provide a list of the column names `['Last_Updated', ‘Android_Ver']` to the `.drop()` method. By setting `axis=1` we are specifying that we want to drop certain columns.
 
 ![[2020-10-10_11-46-45-e0bba8ef961e0d55342aa3015415781f.png|500]]
+
+To find and remove the rows with the NaN values we can create a subset of the DataFrame based on where `.isna()` evaluates to `True`. We see that NaN values in ratings are associated with no reviews (and no installs). That makes sense.
+
