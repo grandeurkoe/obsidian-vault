@@ -34,7 +34,7 @@ You should get something like this:
 
 ![[2020-09-23_14-27-55-8546c808e45a701c9bdeda01a143b6ee.png|500]]
 
-**Solution**
+### Solution
 
 Here's how you pivot our existing DataFrame to get the outcome above:
 
