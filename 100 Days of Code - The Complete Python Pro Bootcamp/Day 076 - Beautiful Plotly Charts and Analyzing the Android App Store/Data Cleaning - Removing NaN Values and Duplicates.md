@@ -26,3 +26,13 @@ To remove the unwanted columns, we simply provide a list of the column names `['
 
 To find and remove the rows with the NaN values we can create a subset of the DataFrame based on where `.isna()` evaluates to `True`. We see that NaN values in ratings are associated with no reviews (and no installs). That makes sense.
 
+![[2020-10-10_11-46-58-0b80c76b8e494af654b061e730950323.png|500]]
+
+We can drop the NaN values with `.dropna()`:
+
+```python
+1. df_apps_clean = df_apps.dropna()
+2. df_apps_clean.shape
+```
+
+This leaves us with 9,367 entries in our DataFrame.
