@@ -1,4 +1,4 @@
-# Tesla Line Charts in Matplotlib
+# Data Visualisation - Tesla Line Charts in Matplotlib
 
 ## Creating a basic chart
 

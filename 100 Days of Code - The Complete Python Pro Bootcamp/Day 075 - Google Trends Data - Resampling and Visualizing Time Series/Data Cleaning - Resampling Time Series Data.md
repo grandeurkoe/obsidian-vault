@@ -1,4 +1,4 @@
-# Resampling Time Series Data
+# Data Cleaning - Resampling Time Series Data
 
 ## Finding the missing values
 
@@ -23,6 +23,8 @@ To remove a missing value we can use `.dropna()`. The `inplace` argument allows 
 ```python
 1. df_btc_price = df_btc_price.dropna()
 ```
+
+![[2020-10-10_10-39-50-e1b4a0083a8499a5fe530202b1a60bd0.png|500]]
 
 ## Converting Strings to DateTime Objects
 
