@@ -1,16 +1,30 @@
-# Adding a grid to spot seasonality
+# Data Visualization - Unemployment: How to use Grids
 
-```python
-1. ax1.grid(color='grey', linestyle='--')
-```
+For the next challenge, carry over your existing code once again (by copy-pasting the entire cell) and make some modifications.
+
+## Challenge
+
+Plot the search for "unemployment benefits" against the official unemployment rate.
+
+1. Change the title to: Monthly Search of "Unemployment Benefits" in the U.S. vs the U/E Rate
+2. Change the y-axis label to: FRED U/E Rate
+3. Change the axis limits
+4. Add a grey [grid](https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.grid.html) to the chart to better see the years and the U/E rate values. Use dashed lines for the line style.
+5. Can you discern any seasonality in the searches? Is there a pattern?
+
+## Solution
+
+Ok, so there are relatively few changes you had to make here. Just the labels and the dataset we're using. The line of code I wanted you to figure out from the documentation was this one:
+
+`1. ax1.grid(color='grey', linestyle='--')`
 
 This overlays a grid of dashed lines, so that we get the following look:
 
-![[2020-10-10_11-11-06-9c85aa7e72108f10775949e685585d3e.png|500]]
+![[2020-10-10_11-11-06-9c85aa7e72108f10775949e685585d3e 1.png|500]]
 
 Notice how we can now clearly see the vertical dashed lines line up with spikes in searches for "Unemployment benefits". Many of the spikes are at year-end - in December. This clearly shows that there is seasonality in the job market. What else do we see? We see that the financial crisis in 2007/2008 caused a massive spike in unemployment. It took around 10 years (2007-2017) for the unemployment to reach the same level it had before the crisis.
 
-![[2020-10-10_11-11-32-f521501ab3715056f21ed2265f229e3b.png|500]]
+![[2020-10-10_11-11-32-f521501ab3715056f21ed2265f229e3b 1.png|500]]
 
 Interestingly the big spike in searches for Unemployment benefits at the end of 2013 was not accompanied by a big increase in the unemployment rate. Something else must have been going on around that time.
 
@@ -49,7 +63,13 @@ Here's the full code for the cell:
 
 The search volume moves around quite a bit - month on month. Perhaps we can smooth out the search volumes to get a slightly different picture (pun intended!).
 
-## Rolling Average
+## Challenge
+
+Calculate the 3-month or 6-month rolling average for the web searches. Plot the 6-month rolling average search data against the actual unemployment. What do you see? Which line moves first?
+
+_Hint_: Take a look at our prior lesson on Programming Languages where we smoothed out time-series data.
+
+## Solution
 
 You can create a rolling average using `.rolling()` and `.mean()` functions together.
 
@@ -59,11 +79,11 @@ You can create a rolling average using `.rolling()` and `.mean()` functions toge
 
 Your plot should look something like this:
 
-![[2020-10-10_11-12-00-c00bc3f0680cf5782b5ca473f1beced6.png|500]]
+![[2020-10-10_11-12-00-c00bc3f0680cf5782b5ca473f1beced6 1.png|500]]
 
 What is this telling us? We see that searches for "Unemployment Benefits" happen before the actual official unemployment rate goes up. Similarly, the search popularity for the term goes down before the unemployment rate decreases. In other words, these searches seem to act as a leading economic indicator for the unemployment rate (which is a lagging indicator).
 
-![[2020-10-10_11-12-13-66757e8b039624b51ee60e4f8b4670a3.png|500]]
+![[2020-10-10_11-12-13-66757e8b039624b51ee60e4f8b4670a3 1.png|500]]
 
 Here's the full code for the cell:
 
