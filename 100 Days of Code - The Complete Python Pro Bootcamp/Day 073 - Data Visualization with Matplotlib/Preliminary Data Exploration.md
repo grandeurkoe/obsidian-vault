@@ -14,4 +14,8 @@ Next, we use `.head()` and `.tail()` to look at the first and last 5 rows. This 
 
 To check the dimensions of the DataFrame, we use our old friend `.shape`. This tells us we have 1991 rows and 3 columns.
 
-![[2020-09-23_11-28-30-83282ebe527d6a76e74dbd146590e92e.png]]
+![[2020-09-23_11-28-30-83282ebe527d6a76e74dbd146590e92e.png|500]]
+
+To count the number of entries in each column we can use `.count()`. Note that .count() will actually tell us the number of non-NaN values in each column.
+
+![[2020-09-23_11-31-30-7c4268199f047e73cb68fe948024d9f2.png|500]]

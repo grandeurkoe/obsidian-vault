@@ -22,6 +22,31 @@ pivoted_df
 
 However, there's one very important thing to notice. What happens if a value is missing? In the example above there's no value for old Sylvester. In this case, the .pivot() method will insert a NaN value.
 
+**Mini-Challenge**
+
+- Can you pivot the `df` DataFrame so that each row is a date and each column is a programming language? Store the result under a variable called `reshaped_df`. 
+- Examine the dimensions of the reshaped DataFrame. How many rows does it have? How many columns?
+- Examine the head and the tail of the DataFrame. What does it look like?
+- Print out the column names.
+- Count the number of entries per column.
+
+You should get something like this:
+
+![[2020-09-23_14-27-55-8546c808e45a701c9bdeda01a143b6ee.png|500]]
+
+**Solution**
+
+Here's how you pivot our existing DataFrame to get the outcome above:
+
+`1. reshaped_df = df.pivot(index='DATE', columns='TAG', values='POSTS')`
+
+![[2020-09-23_14-31-18-670a7feecfbf419b590b726011272d6b.png|500]]
+
+We have 145 rows and 14 columns in the new DataFrame. Each programming language became a column and our date column became the new index (i.e., the label for the rows).
+
+When we count the number of entries per column we see that not all languages are the same. The reason is that the .count() method excludes NaN values. When we pivoted the DataFrame the NaN values were inserted when there were no posts for a language in that month (e.g., Swift in July, 2008).
+
+![[2020-09-23_14-34-29-8c9748278d5ebf22fe5c302f168b2374.png|500]]
 ## Dealing with NaN Values
 
 In this case, we don't want to drop the rows that have a NaN value. Instead, we want to substitute the number 0 for each NaN value in the DataFrame. We can do this with the `.fillna()` method.
