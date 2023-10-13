@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md"
               }
             }
           },
@@ -160,19 +160,25 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
+    "Attachments/2020-10-10_10-18-49-1748f6889ed0e6b0565269b40f279453.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
+    "Attachments/2020-10-10_10-08-56-931b5f190a914aae2db436a019b694c3.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
+    "Attachments/2020-10-10_10-06-43-b657ffe5b3d7feb7ce6ffc4b910b2830.png",
+    "Attachments/2020-10-10_10-06-25-14a269ee27054a41394bbe99d62e3b73.png",
+    "Attachments/2020-10-10_10-05-25-812d7e5f957add390f4211666f4ea87c.png",
+    "Attachments/2020-10-10_10-05-12-d674a354dd6f26e5c23d3d85c9aac8d1.png",
+    "Attachments/2020-10-10_10-04-52-141876d03b94367866b783a03a6b1ab3.png",
     "Attachments/2020-10-10_10-04-25-4662afd292f45dad36aef7cbcceb27f5.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Find the Oldest and Largest LEGO Sets.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
     "Attachments/2020-10-10_10-02-49-93522b13c73c23d3ed869086ce139e84.png",
     "Attachments/2020-10-10_10-02-21-1a8072e9810feffcc47084f852c42fe2.png",
-    "Attachments/2020-10-10_10-02-11-9144c07c8cd3b0d8c84a8bab2f2ad570.png",
-    "Attachments/2020-10-10_10-02-02-a972bf2ca76f191c7f91524738051393.png",
-    "Attachments/2020-10-10_10-00-46-a944be269cd20332fd94d895450df735.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",
-    "Attachments/2020-10-10_09-59-18-bb72700801f816440f58289b5658841c.png",
-    "Attachments/2020-10-10_09-59-01-72c5f6806993e7aac3b70b004f68cfe9.png",
-    "Attachments/2020-10-10_09-58-28-fcec4fff9f8de20b986d2724fc943ed1.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Smoothing out Time-Series Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Preliminary Data Exploration.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
@@ -190,12 +196,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Accessing Columns and Individual Cells in a Dataframe.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Use HTML Markdown to Make Your Notebook Look Pretty.md",
-    "Attachments/2020-09-23_14-34-29-8c9748278d5ebf22fe5c302f168b2374.png",
-    "Attachments/2020-09-23_14-31-18-670a7feecfbf419b590b726011272d6b.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Superimposing Line Charts with Separate Axes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas",

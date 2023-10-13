@@ -10,6 +10,18 @@ To count the number of sets per Theme we can use the `.value_counts()` method on
 
 We have no idea what our themes are actually called! 🤨 Ok, we can see that the theme with id 158 is the largest theme containing 753 individual sets, but what's that theme called? This is not very helpful. We need to find the names of the themes based on the `theme_id` from the `themes.csv` file.
 
+### Mini-Challenge
+
+Display the database schema (link: `https://i.imgur.com/Sg4lcjx.png`) inside the Notebook. You should see something like this:
+
+![[2020-10-10_10-18-49-1748f6889ed0e6b0565269b40f279453.png|500]]
+
+### Solution
+
+To display an image in a Text (aka Markdown) cell, all you need to do is use the HTML <img> tag.
+
+`1. <img src="https://i.imgur.com/Sg4lcjx.png">`
+
 ## Working with a Relational Database
 
 What is a database schema? A schema is just how the database is organized. Many relational databases, such as our LEGO data, is split into individual tables. We have separate tables for the colors, the sets and the themes. With a relational database, the tables are linked to each other through their keys.
@@ -19,6 +31,8 @@ What is a database schema? A schema is just how the database is organized. Many
 The themes.csv file has the actual theme names. How is this table linked to the others tables? Well, the sets .csv has `theme_ids` which match the `id` column in the themes.csv.
 
 This means that the `theme_id` is the **foreign key** inside the sets.csv. Many different sets can be part of the same theme. But _inside_ the themes.csv, each `theme_id`, which is just called `id` is unique. This uniqueness makes the `id` column the **primary key** inside the themes.csv. To see this in action, explore the themes.csv.
+
+### Exploring the themes.csv
 
 Looking at the first 5 rows, we see the column names. Each value in the id column is unique (this is the primary key for the themes table). The theme names are not unique. If we search for the name "Star Wars", we see that 4 different ids correspond to that name.
 

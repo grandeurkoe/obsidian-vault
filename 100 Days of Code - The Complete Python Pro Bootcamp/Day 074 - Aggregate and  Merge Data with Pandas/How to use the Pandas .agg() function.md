@@ -17,3 +17,17 @@ Let's give our column in `themes_by_year` a more appropriate name and let's take
 ![[2020-10-10_10-08-30-8c14d024f59494861a599bf138da8319.png]]
 
 Here we can see that LEGO only had 2 themes during the first few years, but just like the number of sets the number of themes expanded manifold over the years. Let's plot this on a chart again.
+
+## Challenge
+
+Create a line plot of the number of themes released year-on-year. Only include the full calendar years in the dataset (1949 to 2019).
+
+## Solution
+
+  
+
+`1. plt.plot(themes_by_year.index[:-2], themes_by_year.nr_themes[:-2])`
+
+Again, we're using the same slicing technique as before. In the chart, we can see that LEGO has pretty consistently added more and more themes until the mid-1990s. From then the number of themes has stagnated for around 10 years or so until the early 2010s.
+
+![[2020-10-10_10-08-56-931b5f190a914aae2db436a019b694c3.png|500]]
