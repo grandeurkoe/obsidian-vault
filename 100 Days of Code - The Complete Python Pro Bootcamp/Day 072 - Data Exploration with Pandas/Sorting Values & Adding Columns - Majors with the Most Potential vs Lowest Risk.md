@@ -38,3 +38,27 @@ Does `.sort_values()` sort in ascending or descending order? To find out, check
 You can also bring up the quick documentation with SHIFT + TAB on your keyboard directly in the Python notebook.
 
 ![[2020-09-22_14-24-40-22d0a938ccc70fca5e8f74e0dc194148.gif|500]]
+
+## Challenge
+
+Using the .sort_values() method, can you find the degrees with the highest potential? Find the top 5 degrees with the highest values in the 90th percentile. 
+
+Also, find the degrees with the greatest spread in salaries. Which majors have the largest difference between high and low earners after graduation.
+
+**Majors with the Highest Potential**
+
+```python
+1. highest_potential = clean_df.sort_values('Mid-Career 90th Percentile Salary', ascending=False)
+2. highest_potential[['Undergraduate Major', 'Mid-Career 90th Percentile Salary']].head()
+```
+
+**Majors with the Greatest Spread in Salaries**
+
+```python
+1. highest_spread = clean_df.sort_values('Spread', ascending=False)
+2. highest_spread[['Undergraduate Major', 'Spread']].head()
+```
+
+Notice how 3 of the top 5 are present in both. This means that there are some very high earning Economics degree holders out there, but also some who are not earning as much. It's actually quite interesting to compare these two rankings versus the degrees where the median salary is very high.
+
+![[2020-09-22_14-38-55-99cb7032f8f52f4439897970b72b7bfc.png|500]]

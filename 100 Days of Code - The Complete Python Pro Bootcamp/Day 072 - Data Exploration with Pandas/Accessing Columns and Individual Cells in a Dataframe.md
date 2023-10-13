@@ -1,5 +1,7 @@
 # Accessing Columns and Individual Cells in a Dataframe
 
+## Find College Major with Highest Starting Salaries
+
 To access a particular column from a data frame we can use the square bracket notation, like so:
 
 `clean_df['Starting Median Salary']`
@@ -29,3 +31,36 @@ If you don't specify a particular column you can use the .loc property to retrie
 `clean_df.loc[43]`
 
 ![[2020-09-22_11-58-08-1c59109dc860ad3b4571bc492a16445b.png|500]]
+
+## Challenge
+
+Now that we've found the major with the highest starting salary, can you write the code to find the following:
+
+- What college major has the highest mid-career salary? How much do graduates with this major earn? (Mid-career is defined as having 10+ years of experience).
+- Which college major has the lowest starting salary and how much do graduates earn after university?
+- Which college major has the lowest mid-career salary and how much can people expect to earn with this degree?
+
+**The Highest Mid-Career Salary**
+
+```python
+1. print(clean_df['Mid-Career Median Salary'].max())
+2. print(f"Index for the max mid career salary: {clean_df['Mid-Career Median Salary'].idxmax()}")
+3. clean_df['Undergraduate Major'][8]
+```
+
+If you have multiple lines in the same cell, only the last one will get printed as an output automatically. If you'd like to see more than one thing printed out, then you still have to use a print statement on the lines above.
+
+**The Lowest Starting and Mid-Career Salary**
+
+```python
+1. print(clean_df['Starting Median Salary'].min())
+2. clean_df['Undergraduate Major'].loc[clean_df['Starting Median Salary'].idxmin()]
+```
+
+Here I've nested the code that we've seen in the previous lesson in the same line. We can also use the `.loc` property to access an entire row. Below I've accessed the row at the index of the smallest mid-career salary:
+
+`1. clean_df.loc[clean_df['Mid-Career Median Salary'].idxmin()]`
+
+Sadly, education is actually the degree with the lowest mid-career salary and Spanish is the major with the lowest starting salary.
+
+![[2021-01-20_11-23-21-bdd958d133438e5c99c0a870acb03764.png|500]]
