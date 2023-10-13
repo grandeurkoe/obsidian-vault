@@ -45,14 +45,14 @@ Using the .sort_values() method, can you find the degrees with the highest poten
 
 Also, find the degrees with the greatest spread in salaries. Which majors have the largest difference between high and low earners after graduation.
 
-**Majors with the Highest Potential**
+### Majors with the Highest Potential
 
 ```python
 1. highest_potential = clean_df.sort_values('Mid-Career 90th Percentile Salary', ascending=False)
 2. highest_potential[['Undergraduate Major', 'Mid-Career 90th Percentile Salary']].head()
 ```
 
-**Majors with the Greatest Spread in Salaries**
+### Majors with the Greatest Spread in Salaries
 
 ```python
 1. highest_spread = clean_df.sort_values('Spread', ascending=False)

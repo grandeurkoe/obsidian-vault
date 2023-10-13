@@ -40,7 +40,7 @@ Now that we've found the major with the highest starting salary, can you write t
 - Which college major has the lowest starting salary and how much do graduates earn after university?
 - Which college major has the lowest mid-career salary and how much can people expect to earn with this degree?
 
-**The Highest Mid-Career Salary**
+### The Highest Mid-Career Salary
 
 ```python
 1. print(clean_df['Mid-Career Median Salary'].max())
@@ -50,7 +50,7 @@ Now that we've found the major with the highest starting salary, can you write t
 
 If you have multiple lines in the same cell, only the last one will get printed as an output automatically. If you'd like to see more than one thing printed out, then you still have to use a print statement on the lines above.
 
-**The Lowest Starting and Mid-Career Salary**
+### The Lowest Starting and Mid-Career Salary
 
 ```python
 1. print(clean_df['Starting Median Salary'].min())

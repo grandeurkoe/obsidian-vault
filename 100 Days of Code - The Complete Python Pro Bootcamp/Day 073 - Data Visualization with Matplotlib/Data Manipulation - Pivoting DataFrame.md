@@ -22,7 +22,7 @@ pivoted_df
 
 However, there's one very important thing to notice. What happens if a value is missing? In the example above there's no value for old Sylvester. In this case, the .pivot() method will insert a NaN value.
 
-**Mini-Challenge**
+### Mini-Challenge
 
 - Can you pivot the `df` DataFrame so that each row is a date and each column is a programming language? Store the result under a variable called `reshaped_df`. 
 - Examine the dimensions of the reshaped DataFrame. How many rows does it have? How many columns?
