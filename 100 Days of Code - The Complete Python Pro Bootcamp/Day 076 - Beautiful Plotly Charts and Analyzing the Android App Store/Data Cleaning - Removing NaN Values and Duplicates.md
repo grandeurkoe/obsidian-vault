@@ -36,3 +36,27 @@ We can drop the NaN values with `.dropna()`:
 ```
 
 This leaves us with 9,367 entries in our DataFrame.
+
+## Finding and Removing Duplicates
+
+There are indeed duplicates in the data. We can show them using the `.duplicated()` method, which brings up 476 rows:
+
+```python
+1. duplicated_rows = df_apps_clean[df_apps_clean.duplicated()]
+2. print(duplicated_rows.shape)
+3. duplicated_rows.head()
+```
+
+We can actually check for an individual app like ‘Instagram’ by looking up all the entries with that name in the App column.
+
+![[2020-10-10_11-47-31-8c3f03dbcb7dd1fe7d38c6cc96a69a9a.png|500]]
+
+So how do we get rid of duplicates? Can we simply call `.drop_duplicates()`?
+
+`1. df_apps_clean = df_apps_clean.drop_duplicates()`
+
+Not really. If we do this without specifying how to identify duplicates, we see that 3 copies of Instagram are retained because they have a different number of reviews. We need to provide the column names that should be used in the comparison to identify duplicates. For example:
+
+![[2020-10-10_11-47-48-eb3f1b28243622d449e0958bc57ad4a5.png|500]]
+
+This leaves us with 8,199 entries after removing duplicates. Huzzah! 💪
