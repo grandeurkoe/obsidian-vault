@@ -68,3 +68,33 @@ But how do we get there? This is your challenge.
 Create a box plot that shows the number of Installs for free versus paid apps. How does the median number of installations compare? Is the difference large or small?
 
 Use the [Box Plots Guide](https://plotly.com/python/box-plots/) and the [.box API reference](https://plotly.com/python-api-reference/generated/plotly.express.box.html) to create the chart above.
+
+## Solution
+
+From the hover text in the chart, we see that the median number of downloads for free apps is 500,000, while the median number of downloads for paid apps is around 5,000! This is massively lower.
+
+```python
+1. box = px.box(df_apps_clean,
+2.              y='Installs',
+3.              x='Type',
+4.              color='Type',
+5.              notched=True,
+6.              points='all',
+7.              title='How Many Downloads are Paid Apps Giving Up?')
+8.
+9. box.update_layout(yaxis=dict(type='log'))
+10.
+11. box.show()
+```
+
+But does this mean we should give up on selling a paid app? Let’s see how much revenue we would estimate per category.
+
+## Challenge
+
+See if you can generate the chart below:
+
+![[2020-10-11_13-54-47-0e957e51ecdff5ccaba35b99cdc17a06.png|500]]
+
+Looking at the hover text, how much does the median app earn in the Tools category? [If developing an Android app costs $30,000 or thereabouts](http://howmuchtomakeanapp.com/), does the average photography app recoup its development costs?
+
+Hint: I've used `'min ascending'` to sort the categories.
