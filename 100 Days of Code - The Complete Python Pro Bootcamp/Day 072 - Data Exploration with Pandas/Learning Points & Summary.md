@@ -5,5 +5,5 @@
 - You can access entire columns of a DataFrame using the square bracket notation: `df['column name']` or` df[['column name 1', 'column name 2', 'column name 3']]`
 - You can access individual cells in a DataFrame by chaining square brackets `df['column name'][index]` or using `df['column name'].loc[index]`
 - The largest and smallest values, as well as their positions, can be found with methods like `.max()`, `.min()`, `.idxmax()` and `.idxmin()`.
-- You can sort the DataFrame with .sort_values() and add new columns with` .insert()`.
+- You can sort the DataFrame with `.sort_values()` and add new columns with` .insert()`.
 - To create an Excel Style Pivot Table by grouping entries that belong to a particular category use the `.groupby()` method
