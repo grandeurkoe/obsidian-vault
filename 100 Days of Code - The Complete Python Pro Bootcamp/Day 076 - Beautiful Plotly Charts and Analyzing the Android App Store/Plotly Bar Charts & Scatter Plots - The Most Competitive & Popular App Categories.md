@@ -69,3 +69,37 @@ Create a DataFrame that has the number of apps in one column and the number of i
 Then use the [plotly express examples from the documentation](https://plotly.com/python/line-and-scatter/) alongside the [.scatter() API reference](https://plotly.com/python-api-reference/generated/plotly.express.scatter.html) to create scatter plot that looks like the chart above.
 
 _Hint_: Use the `size`, `hover_name` and `color` parameters in `.scatter()`. To scale the y-axis, call `.update_layout()` and specify that the y-axis should be on a log-scale like so: `yaxis=dict(type='log')`
+
+## Solution
+
+First, we need to work out the number of apps in each category (similar to what we did previously).
+
+`1. cat_number = df_apps_clean.groupby('Category').agg({'App': pd.Series.count})`
+
+Then we can use `.merge()` and combine the two DataFrame.
+
+```python
+1. cat_merged_df = pd.merge(cat_number, category_installs, on='Category', how="inner")
+2. print(f'The dimensions of the DataFrame are: {cat_merged_df.shape}')
+3. cat_merged_df.sort_values('Installs', ascending=False)
+```
+`
+Now we can create the chart. Note that we can pass in an entire DataFrame and specify which columns should be used for the x and y by column name.
+
+```python
+1. scatter = px.scatter(cat_merged_df, # data
+2.                     x='App', # column name
+3.                     y='Installs',
+4.                     title='Category Concentration',
+5.                     size='App',
+6.                     hover_name=cat_merged_df.index,
+7.                     color='Installs')
+
+9. scatter.update_layout(xaxis_title="Number of Apps (Lower=More Concentrated)",
+10.                       yaxis_title="Installs",
+11.                       yaxis=dict(type='log'))
+
+13. scatter.show()
+```
+
+What we see is that the categories like Family, Tools, and Game have many different apps sharing a high number of downloads. But for the categories like video players and entertainment, all the downloads are concentrated in very few apps.
