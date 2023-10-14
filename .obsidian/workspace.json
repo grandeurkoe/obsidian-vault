@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md"
               }
             }
           },
@@ -160,13 +160,18 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Preliminary Exploration - The Highest Ratings, Most Reviews, and Largest Size.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
+    "Attachments/2020-10-10_11-48-18-97ccd1a03fd69d43ea1a1635e1e521d8.png",
+    "Attachments/2020-10-10_11-48-11-f6ba2e6e8c46047d93a8c2d1baaa68d1.png",
     "Attachments/2020-10-10_11-47-48-eb3f1b28243622d449e0958bc57ad4a5.png",
     "Attachments/2020-10-10_11-47-31-8c3f03dbcb7dd1fe7d38c6cc96a69a9a.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Unemployment The Effect of New Data.md",
     "Attachments/2020-10-10_11-14-12-32b356c73fc9f6654195ac97aaf8155e.png",
@@ -180,10 +185,7 @@
     "Attachments/2020-10-10_11-11-32-f521501ab3715056f21ed2265f229e3b 1.png",
     "Attachments/2020-10-10_11-11-06-9c85aa7e72108f10775949e685585d3e 1.png",
     "Attachments/2020-10-10_11-09-40-6f411b90cb8b323b628cec8b171f4f66.png",
-    "Attachments/2020-10-10_11-09-23-859e1afde86b85212030553a87efb08f.png",
-    "Attachments/2020-10-10_11-09-03-5dca1c064a53e55e7aeaf5ff44c77f29.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Using Locators and DateFormatters to generate Tick Marks on a Time Line.md",
-    "Attachments/2020-10-10_10-39-50-e1b4a0083a8499a5fe530202b1a60bd0.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Relational Database Schemas - Primary and Foreign Keys.md",
@@ -194,8 +196,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Find the Oldest and Largest LEGO Sets.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Smoothing out Time-Series Data.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Preliminary Data Exploration.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas",

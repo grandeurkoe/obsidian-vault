@@ -60,3 +60,19 @@ Not really. If we do this without specifying how to identify duplicates, we see 
 ![[2020-10-10_11-47-48-eb3f1b28243622d449e0958bc57ad4a5.png|500]]
 
 This leaves us with 8,199 entries after removing duplicates. Huzzah! 💪
+
+## What else should I know about the data?
+
+So we can see that 13 different features were originally scraped from the Google Play Store.
+
+- Obviously, the data is just a sample out of all the Android apps. It doesn't include all Android apps of which there are millions.
+- I’ll assume that the sample is representative of the App Store as a whole. This is not necessarily the case as, during the web scraping process, this sample was served up based on geographical location and user behavior of the person who scraped it - in our case Lavanya Gupta.
+- The data was compiled around 2017/2018. The pricing data reflect the price in USD Dollars at the time of scraping. (developers can offer promotions and change their app’s pricing).
+- I’ve converted the app’s size to a floating-point number in MBs. If data was missing, it has been replaced by the average size for that category.
+- The installs are not the exact number of installs. If an app has 245,239 installs then Google will simply report an order of magnitude like 100,000+. I’ve removed the '+' and we’ll assume the exact number of installs in that column for simplicity.
+
+Here’s what you would see under an Android app listing if you go to a listing on the Google Play Store:
+
+![[2020-10-10_11-48-11-f6ba2e6e8c46047d93a8c2d1baaa68d1.png|500]]
+
+![[2020-10-10_11-48-18-97ccd1a03fd69d43ea1a1635e1e521d8.png|500]]
