@@ -21,3 +21,9 @@ Only apps with very few reviews (and a low number on installs) have perfect 5 st
 ![[2020-10-10_11-53-57-9721337e76ececb8d5b1d45da3fd250f.png|500]]
 
 Here we can clearly see that there seems to be an upper bound of 100 MB for the size of an app. A quick google search would also have revealed that this limit is imposed by the Google Play Store itself. It’s interesting to see that a number of apps actually hit that limit exactly.
+
+`1. df_apps_clean.sort_values('Reviews', ascending=False).head(50)`
+
+![[2020-10-10_11-54-10-ccc19ad1cc4bef0cc3a74f99b2dcf99a.png|500]]
+
+If you look at the number of reviews, you can find the most popular apps on the Android App Store. These include the usual suspects: Facebook, WhatsApp, Instagram etc. What’s also notable is that the list of the top 50 most reviewed apps does not include a single paid app! 🤔
