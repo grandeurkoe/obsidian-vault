@@ -32,9 +32,9 @@ Can you create this chart with the Series containing the genre data?
 
 ![[2020-10-11_13-20-25-275a5904eaf5ce179f8fc10d1cdb4f2b.png|500]]
 
-Try experimenting with the built-in colour scales in Plotly. You can find a full list [here](https://plotly.com/python/builtin-colorscales/).
+Try experimenting with the built-in color scales in Plotly. You can find a full list [here](https://plotly.com/python/builtin-colorscales/).
 
-- Find a way to set the colour scale using the `color_continuous_scale` parameter.
+- Find a way to set the color scale using the `color_continuous_scale` parameter.
 - Find a way to make the color axis disappear by using `coloraxis_showscale`.
 
 ## Solution

@@ -24,3 +24,25 @@ Use the Plotly express bar [chart examples](https://plotly.com/python/bar-charts
 You'll want to use the `df_free_vs_paid` DataFrame that you created above that has the total number of free and paid apps per category.
 
 See if you can figure out how to get the look above by changing the `categoryorder` to `'total descending'` as outlined in the documentation [here](https://plotly.com/python/categorical-axes/#automatically-sorting-categories-by-name-or-total-value).
+
+## Solution
+
+### Contrasting Free vs. Paid Apps per Category
+
+The key is using the `color` and `barmode` parameters for the `.bar()` method. To get a particular order, you can pass a dictionary to the axis parameter in `.update_layout()`.
+
+```python
+1. g_bar = px.bar(df_free_vs_paid,
+2.                x='Category',
+3.                y='App',
+4.                title='Free vs Paid Apps by Category',
+5.                color='Type',
+6.                barmode='group')
+
+8. g_bar.update_layout(xaxis_title='Category',
+9.                     yaxis_title='Number of Apps',
+10.                     xaxis={'categoryorder':'total descending'},
+11.                     yaxis=dict(type='log'))
+
+13. g_bar.show()
+```
