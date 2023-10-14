@@ -98,3 +98,57 @@ See if you can generate the chart below:
 Looking at the hover text, how much does the median app earn in the Tools category? [If developing an Android app costs $30,000 or thereabouts](http://howmuchtomakeanapp.com/), does the average photography app recoup its development costs?
 
 Hint: I've used `'min ascending'` to sort the categories.
+
+## Solution 
+### App Revenue by Category
+
+If an Android app costs $30,000 to develop, then the average app in very few categories would cover that development cost. The median paid photography app earned about $20,000. Many more app’s revenues were even lower - meaning they would need other sources of revenue like advertising or in-app purchases to make up for their development costs. However, certain app categories seem to contain a large number of outliers that have much higher (estimated) revenue - for example in Medical, Personalization, Tools, Game, and Family.
+
+![[2020-10-11_13-55-50-fba0062772e999739ca28119fd0cecda.png|500]]
+
+So, if you were to list a paid app, how should you price it? To help you decide we can look at how your competitors in the same category price their apps.
+
+```python
+1. df_paid_apps = df_apps_clean[df_apps_clean['Type'] == 'Paid']
+
+1. box = px.box(df_paid_apps, 
+2.              x='Category', 
+3.              y='Revenue_Estimate',
+4.              title='How Much Can Paid Apps Earn?')
+
+6. box.update_layout(xaxis_title='Category',
+7.                   yaxis_title='Paid App Ballpark Revenue',
+8.                   xaxis={'categoryorder':'min ascending'},
+9.                   yaxis=dict(type='log'))
+
+12. box.show()
+```
+
+## Challenge
+
+What is the median price for a paid app? Then compare pricing by category by creating another box plot. But this time examine the prices (instead of the revenue estimates) of the paid apps. I recommend using `{categoryorder':'max descending'}` to sort the categories.
+
+## Solution 
+### App Pricing by Category
+
+The median price for an Android app is $2.99.
+
+`1. df_paid_apps.Price.median()`
+
+However, some categories have higher median prices than others. This time we see that Medical apps have the most expensive apps as well as a median price of $5.49. In contrast, Personalisation apps are quite cheap on average at $1.49. Other categories which higher median prices are Business ($4.99) and Dating ($6.99). It seems like customers who shop in these categories are not so concerned about paying a bit extra for their apps.
+
+```python
+1. box = px.box(df_paid_apps,
+2.              x='Category',
+3.              y="Price",
+4.              title='Price per Category')
+
+6. box.update_layout(xaxis_title='Category',
+7.                   yaxis_title='Paid App Price',
+8.                   xaxis={'categoryorder':'max descending'},
+9.                   yaxis=dict(type='log'))
+
+11. box.show()
+```
+
+![](https://img-c.udemycdn.com/redactor/raw/2020-10-11_13-58-35-1c571e911d585782aabbb42b2bb96baf.png)
