@@ -46,3 +46,8 @@ The key is using the `color` and `barmode` parameters for the `.bar()` method. T
 
 13. g_bar.show()
 ```
+
+What we see is that while there are very few paid apps on the Google Play Store, some categories have relatively more paid apps than others, including Personalization, Medical and Weather. So, depending on the category you are targeting, it might make sense to release a paid-for app.
+
+![[2020-10-11_13-51-08-e81782658c52bf6d2f1b28bff0662808.png|500]]
+
