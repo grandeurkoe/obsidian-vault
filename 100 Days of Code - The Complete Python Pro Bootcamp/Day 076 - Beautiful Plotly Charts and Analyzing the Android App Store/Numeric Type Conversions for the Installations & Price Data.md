@@ -75,7 +75,15 @@ When we look at the top 5 apps now, we see that 4 out of 5 are medical apps.
 
 We can work out the highest grossing paid apps now. All we need to do is multiply the values in the price and the installs column to get the number:
 
+```python
 1. df_apps_clean['Revenue_Estimate'] = df_apps_clean.Installs.mul(df_apps_clean.Price)
 2. df_apps_clean.sort_values('Revenue_Estimate', ascending=False)[:10]
+```
 
-This generously assumes of course that all the installs would have been made at the listed price, which is unlikely, as there are always promotions and free give-aways on the App Stores.
+This generously assumes of course that all the installs would have been made at the listed price, which is unlikely, as there are always promotions and free giveaways on the App Stores.
+
+![[2020-10-11_12-31-03-0188ddd4b7556c427f69ca58b970ced5.png|500]]
+
+The top spot of the highest-grossing paid app goes to … Minecraft at close to $70 million. It’s quite interesting that Minecraft (along with Bloons and Card Wars) is actually listed in the Family category rather than in the Game category. If we include these titles, we see that 7 out the top 10 highest-grossing apps are games. The Google Play Store seems to be quite flexible with its category labels.
+
+![[2020-10-11_12-43-12-4ad2dad147ff2056c53957aadd7fc38f.png|500]]
