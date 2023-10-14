@@ -36,3 +36,20 @@ Try experimenting with the built-in colour scales in Plotly. You can find a full
 
 - Find a way to set the colour scale using the `color_continuous_scale` parameter.
 - Find a way to make the color axis disappear by using `coloraxis_showscale`.
+
+## Solution
+
+```python
+1. bar = px.bar(x = num_genres.index[:15], # index = category name
+2.              y = num_genres.values[:15], # count
+3.              title='Top Genres',
+4.              hover_name=num_genres.index[:15],
+5.              color=num_genres.values[:15],
+6.              color_continuous_scale='Agsunset')
+
+8. bar.update_layout(xaxis_title='Genre',
+9. yaxis_title='Number of Apps',
+10. coloraxis_showscale=False)
+
+12. bar.show()
+```
