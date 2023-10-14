@@ -103,3 +103,5 @@ Now we can create the chart. Note that we can pass in an entire DataFrame and sp
 ```
 
 What we see is that the categories like Family, Tools, and Game have many different apps sharing a high number of downloads. But for the categories like video players and entertainment, all the downloads are concentrated in very few apps.
+
+![[2020-10-11_13-16-11-a310e773b06e1efc0ad4114a12a51e01.png|500]]
