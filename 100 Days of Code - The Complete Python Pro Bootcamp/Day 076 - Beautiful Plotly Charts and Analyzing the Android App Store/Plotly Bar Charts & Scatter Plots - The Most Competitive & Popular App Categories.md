@@ -51,3 +51,21 @@ We can also add a custom title and axis labels like so:
 6. h_bar.update_layout(xaxis_title='Number of Downloads', yaxis_title='Category')
 7. h_bar.show()
 ```
+
+![[2020-10-11_12-51-08-abc65eebc2434504dd6457da4618a9ac.png|500]]
+
+Now we see that Games and Tools are actually the most popular categories. If we plot the popularity of a category next to the number of apps in that category we can get an idea of how concentrated a category is. Do few apps have most of the downloads or are the downloads spread out over many apps?
+
+## Challenge
+
+As a challenge, let’s use Plotly to create a scatter plot that looks like this:
+
+![[2020-10-11_12-51-37-3937d6162a4800714f6fdcbdf2b12870.png|500]]
+
+Create a DataFrame that has the number of apps in one column and the number of installs in another:
+
+![[2020-10-11_13-13-37-047a427b6b3dffb981c19c580f398673.png|500]]
+
+Then use the [plotly express examples from the documentation](https://plotly.com/python/line-and-scatter/) alongside the [.scatter() API reference](https://plotly.com/python-api-reference/generated/plotly.express.scatter.html) to create scatter plot that looks like the chart above.
+
+_Hint_: Use the `size`, `hover_name` and `color` parameters in `.scatter()`. To scale the y-axis, call `.update_layout()` and specify that the y-axis should be on a log-scale like so: `yaxis=dict(type='log')`
