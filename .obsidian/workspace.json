@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "87755233b9d13a32",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md",
     "Attachments/2020-10-11_13-16-11-a310e773b06e1efc0ad4114a12a51e01.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Visualization with Plotly - Create Pie and Donut Charts.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
@@ -175,7 +177,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Upload the Data and Read the .csv File.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
     "Attachments/2020-10-11_13-13-37-047a427b6b3dffb981c19c580f398673.png",
     "Attachments/2020-10-11_12-51-37-3937d6162a4800714f6fdcbdf2b12870.png",
     "Attachments/2020-10-11_12-51-08-abc65eebc2434504dd6457da4618a9ac.png",
@@ -186,7 +187,6 @@
     "Attachments/2020-10-11_12-31-03-0188ddd4b7556c427f69ca58b970ced5.png",
     "Attachments/2020-10-11_12-30-28-ab771a555e152a1f12150951f5cb06b4.png",
     "Attachments/2020-10-11_12-29-36-4a5ef8c85b0be30fd61421016efa78db.png",
-    "Attachments/2020-10-11_12-29-17-bc5f0a4ad2e83b4d4fcf62a84f7f3511.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
