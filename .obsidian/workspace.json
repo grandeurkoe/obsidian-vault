@@ -11,11 +11,9 @@
             "id": "721a31af68de3bbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
-                "mode": "source",
-                "source": false
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf"
               }
             }
           },
@@ -159,8 +157,9 @@
   },
   "active": "721a31af68de3bbc",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "Attachments/2020-10-11_13-55-50-fba0062772e999739ca28119fd0cecda.png",
     "Attachments/2020-10-11_13-54-47-0e957e51ecdff5ccaba35b99cdc17a06.png",
     "Attachments/2020-10-11_13-51-33-b158b5d866b0b6653796e51626017897.png",
@@ -194,7 +193,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Preliminary Exploration - The Highest Ratings, Most Reviews, and Largest Size.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas",
@@ -204,7 +202,6 @@
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Big O",
     "Attachments/Untitled.canvas"
   ]
 }
