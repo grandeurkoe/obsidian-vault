@@ -51,3 +51,20 @@ What we see is that while there are very few paid apps on the Google Play Store,
 
 ![[2020-10-11_13-51-08-e81782658c52bf6d2f1b28bff0662808.png|500]]
 
+But this leads to many more questions:
+
+- How much should you charge? What are other apps charging in that category?
+- How much revenue could you make?
+- And how many downloads are you potentially giving up because your app is paid?
+
+Let’s try and answer these questions with some Box plots. Box plots show us some handy descriptive statistics in a graph - things like the median value, the maximum value, the minimum value, and some quartiles. Here’s what we’re after:
+
+![[2020-10-11_13-51-33-b158b5d866b0b6653796e51626017897.png|500]]
+
+But how do we get there? This is your challenge.
+
+## Challenge
+
+Create a box plot that shows the number of Installs for free versus paid apps. How does the median number of installations compare? Is the difference large or small?
+
+Use the [Box Plots Guide](https://plotly.com/python/box-plots/) and the [.box API reference](https://plotly.com/python-api-reference/generated/plotly.express.box.html) to create the chart above.
