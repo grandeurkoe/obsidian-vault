@@ -11,9 +11,11 @@
             "id": "721a31af68de3bbc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md"
               }
             }
           },
@@ -156,10 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ff0498e7f961865",
+  "active": "721a31af68de3bbc",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Hacking Password 101.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Encryption and Hashing.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "Attachments/2020-10-11_13-55-50-fba0062772e999739ca28119fd0cecda.png",
     "Attachments/2020-10-11_13-54-47-0e957e51ecdff5ccaba35b99cdc17a06.png",
@@ -191,9 +197,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Visualise the Number of Sets Published over Time.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Preliminary Exploration - The Highest Ratings, Most Reviews, and Largest Size.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Multi-Line Charts with Matplotib.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas",
