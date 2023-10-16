@@ -33,3 +33,15 @@ We can now clearly see that we're dealing with a ndarray. And it's a 3 dimension
 ![[2020-10-12_17-42-09-192012f781f92f80a849dc1ea3212494.png|500]]
 
 There are three matrices stacked on top of each other - one for the red values, one for the green values and one for the blue values. Each matrix has a 768 rows and 1024 columns, which makes sense since 768x1024 is the resolution of the image.
+
+## Challenge
+
+Now can you try and convert the image to black and white? All you need need to do is use a [formula](https://en.wikipedia.org/wiki/Grayscale#Colorimetric_(perceptual_luminance-preserving)_conversion_to_grayscale).
+
+![](https://img-c.udemycdn.com/redactor/raw/2020-10-12_17-56-16-aff5999394e88abae2995c6d700a8cb1.png)
+
+`Y_linear` is what we're after - our black and white image. However, this formula only works if our red, green and blue values are between 0 and 1 - namely in sRGB format. Currently the values in our `img` range from 0 to 255. So:
+
+- Divide all the values by 255 to convert them to sRGB.
+- Multiply the sRGB array by the `grey_vals` array (provided) to convert the image to grayscale.
+- Finally use Matplotlib's [`.imshow()`](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.imshow.html) with the colormap parameter set to gray `cmap=gray` to display the result.
