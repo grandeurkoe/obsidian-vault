@@ -16,3 +16,23 @@ And **n-dimensional** means that we can work with everything from a single colum
 
 ## 1-Dimension
 
+Let’s create a 1-dimensional array (i.e., a “vector”)
+
+`1. my_array = np.array([1.1, 9.2, 8.1, 4.7])`
+
+We can see `my_array` is 1 dimensional by looking at its shape
+
+`1. my_array.shape`
+
+We access an element in a ndarray similar to how we work with a Python List, namely by that element's index:
+
+`1. my_array[2]`
+
+Let’s check the dimensions of `my_array` with the `ndim` attribute:
+
+`1. my_array.ndim`
+
+![[2020-10-12_09-45-49-516f9f87a63a881bad1f7d13a190b2a5.png|500]]
+
+## 2-Dimension
+
