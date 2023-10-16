@@ -16,3 +16,20 @@ and display it using Matplotlib's `.imshow()`
 
 ![[2020-10-12_17-33-27-9e2e3bb61614dd8f814429f9f7dd6b50.png|500]]
 
+## Challenge
+
+What is the data type of `img`? Also, what is the shape of `img` and how many dimensions does it have? What is the resolution of the image?
+
+## Solution
+
+### An image as a ndarray
+
+Let us question the nature of our reality and take a look under the surface. Here's what our **"image"** actually looks like:
+
+![[2020-10-13_09-28-44-6f41078c913d2304ad5e606add8704e2.png|500]]
+
+We can now clearly see that we're dealing with a ndarray. And it's a 3 dimensional array at that.
+
+![[2020-10-12_17-42-09-192012f781f92f80a849dc1ea3212494.png|500]]
+
+There are three matrices stacked on top of each other - one for the red values, one for the green values and one for the blue values. Each matrix has a 768 rows and 1024 columns, which makes sense since 768x1024 is the resolution of the image.
