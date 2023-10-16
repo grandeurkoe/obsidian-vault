@@ -89,3 +89,41 @@ Invert (i.e., solarize) the colour image. To do this you need to convert all the
 
 ![[2020-10-13_09-48-54-e30020abc219020c9a4c214cc55a6da1.png|500]]
 
+## Solution: Manipulating the ndarray to change the image
+
+For the first challenge, all you need to do is reverse the order of the rows and the columns in the NumPy array with the `.flip()` function:
+
+![[2020-10-13_09-55-11-fefab18ee7919d2c38c006905c90db86.png|500]]
+
+You can display the upside down image in a single line of code:
+
+`1. plt.imshow(np.flip(img_gray), cmap='gray')`
+
+To rotate the image, all you need to do is rotate the array with `.rot90()`
+
+![[2020-10-13_10-00-59-8f4764f22d74c4902ad3e1a9929330d1.png|500]]
+
+This will rotate our image too:
+
+![[2020-10-13_09-59-10-1110e3ba5c7aceb8342d0fb66228dcb0.png|500]]
+
+Inverting the color image is a bit more tricky. It involved making use of NumPy's ability to broadcast when doing operations with a scalar. In this case, our scalar is 255 - the maximum value for a pixel in RGB (see gif at the very top). If we subtract the values of our `img` from 255, then we get the opposite value for each pixel:
+
+```python
+1. solar_img = 255 - img
+2. plt.imshow(solar_img)
+```
+
+## Use Your Own Images
+
+I've provided a .jpg file in the starting .zip file, so you can try your code out with an image that isn't a racoon 🦝. The key is that your image should have 3 channels (red-green-blue). If you use a `.png` file with 4 channels there are additional pre-processing steps involved to replicate what we're doing here.
+
+How do you open an image and put it into a NumPy array?
+
+![[2020-10-13_10-29-27-3a3e2d19291e4b76effc62168f2023cd.png|500]]
+
+First, make sure you've added the image to your project. All you need to do is use the PIL library to open the image and then create the ndarray using the image. You should see that your ndarray has 3 dimensions. The shape will be the resolution of your image.
+
+![[2020-10-13_10-31-07-65d5d16e9295629db82713dc42220031.png|500]]
+
+![[2020-10-13_10-34-04-6e3c1ebc7c0899aefd0d78ad8e899634.png|500]]
