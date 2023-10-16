@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md"
               }
             }
           },
@@ -138,12 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +157,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aca5f6f690d7a5f",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md",
     "Attachments/2020-10-13_10-34-04-6e3c1ebc7c0899aefd0d78ad8e899634.png",
     "Attachments/2020-10-13_10-31-07-65d5d16e9295629db82713dc42220031.png",
     "Attachments/2020-10-13_10-29-27-3a3e2d19291e4b76effc62168f2023cd.png",
@@ -170,9 +171,7 @@
     "Attachments/2020-10-13_09-48-48-618965070981a8096f73de791f750b21.png",
     "Attachments/2020-10-13_09-48-42-6da00043154d3fd57f2b979b692125c1.png",
     "Attachments/2020-10-12_18-03-51-46b947197834216ff69717fd4ac7dd58.png",
-    "Attachments/2020-10-12_17-42-09-192012f781f92f80a849dc1ea3212494.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Numeric Type Conversions for the Installations & Price Data.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
