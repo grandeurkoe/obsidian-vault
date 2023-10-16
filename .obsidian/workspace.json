@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md"
               }
             }
           },
@@ -160,13 +160,18 @@
   },
   "active": "86f18309edc96f43",
   "lastOpenFiles": [
+    "Attachments/2020-10-12_17-33-27-9e2e3bb61614dd8f814429f9f7dd6b50.png",
+    "Attachments/2020-10-12_17-19-35-d1bcbb657bc7436583140c99856b1347.png",
+    "Attachments/2020-10-12_17-25-44-d5854190572f3330c9e306fbf2933923.gif",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+    "Attachments/2020-10-12_17-09-52-f6340c29d54b49927078ab4c2c105441.png",
     "Attachments/2020-10-12_17-01-09-7243f82f4dd88bec877e3206fb9d9add.png",
     "Attachments/2020-10-12_16-07-56-fbba1b975a8b7e2ad2cc5323ebe4d771.png",
     "Attachments/2020-10-12_16-13-09-11f207876f5bb5d4a1e542da2558d4e9.png",
     "Attachments/2020-10-12_16-01-36-b9c2fefd91ad6764599526cd883cc721.gif",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md",
     "Attachments/2020-10-12_12-40-16-da843a603fcf40f2e8174a34a2372065.png",
     "Attachments/2020-10-12_12-37-35-35a78b50d27214178a2c78ac55057d1f.png",
@@ -175,10 +180,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 026 - List and Dictionary Comprehension/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 026 - List and Dictionary Comprehension/List and Dictionary Comprehension.md",
     "Attachments/2020-10-12_10-05-16-0b2602de044a3b75e9e084c6f329d39c.png",
-    "Attachments/2020-10-12_09-56-06-a843401b2d459f4afabfcb8979e0b5ae.png",
-    "Attachments/2020-10-12_09-45-49-516f9f87a63a881bad1f7d13a190b2a5.png",
-    "Attachments/2020-10-12_15-34-45-6fdebf22c1ab4c51fd82687144c0f215.gif",
-    "Attachments/2020-10-12_09-41-31-067a30d8e9bda1db2f2e5752632a0da3.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
     "100 Days of Code - The Complete Python Pro Bootcamp/Untitled.md",
@@ -197,7 +198,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to Merge DataFrames and Create Bar Charts.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas",

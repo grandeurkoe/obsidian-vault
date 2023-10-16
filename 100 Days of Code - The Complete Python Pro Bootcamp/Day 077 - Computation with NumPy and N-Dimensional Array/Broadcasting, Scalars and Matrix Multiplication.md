@@ -67,3 +67,28 @@ But what if we're not multiplying our ndarray by a single number? What if we mu
 
 ![[2020-10-12_17-01-09-7243f82f4dd88bec877e3206fb9d9add.png|500]]
 
+```python
+1. a1 = np.array([[1, 3],
+2.                [0, 1],
+3.                [6, 2],
+4.                [9, 7]])
+
+6. b1 = np.array([[4, 1, 3],
+7.                [5, 8, 5]])
+```
+
+### Challenge
+
+Let's multiply `a1` with `b1`. Looking at the Wikipedia example above, work out the values for c12 and c33 on paper. Then use the [`.matmul()`](https://numpy.org/doc/stable/reference/generated/numpy.matmul.html) function or the @ operator to check your work.
+
+## Solution: Matrix multiplication with NumPy
+
+The solution code is pretty straightforward.
+
+![[2020-10-12_17-09-52-f6340c29d54b49927078ab4c2c105441.png|500]]
+
+But how did the calculations arrive at 25 for c12 and 28 for c33? Substituting the number into the formula we get:
+
+`c12 = 1*1 + 3*8 = 1 + 24 = 25`
+
+`c33 = 6*3 + 2*5 = 18 + 10 = 28`
