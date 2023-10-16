@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "727c4d122aa04ca8",
+        "id": "22d0d3583a55503e",
         "type": "tabs",
         "children": [
           {
-            "id": "86f18309edc96f43",
+            "id": "9aca5f6f690d7a5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Numeric Type Conversions for the Installations & Price Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "datat type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Numeric Type Conversions for the Installations & Price Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Numeric Type Conversions for the Installations & Price Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Numeric Type Conversions for the Installations & Price Data.md"
               }
             }
           },
@@ -158,13 +159,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86f18309edc96f43",
+  "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "Attachments/2020-10-12_17-33-27-9e2e3bb61614dd8f814429f9f7dd6b50.png",
     "Attachments/2020-10-12_17-19-35-d1bcbb657bc7436583140c99856b1347.png",
     "Attachments/2020-10-12_17-25-44-d5854190572f3330c9e306fbf2933923.gif",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Manipulating Images as ndarrays.md",
     "Attachments/2020-10-12_17-09-52-f6340c29d54b49927078ab4c2c105441.png",
     "Attachments/2020-10-12_17-01-09-7243f82f4dd88bec877e3206fb9d9add.png",
     "Attachments/2020-10-12_16-07-56-fbba1b975a8b7e2ad2cc5323ebe4d771.png",
@@ -179,7 +181,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Manipulation - Pivoting DataFrame.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 026 - List and Dictionary Comprehension/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 026 - List and Dictionary Comprehension/List and Dictionary Comprehension.md",
-    "Attachments/2020-10-12_10-05-16-0b2602de044a3b75e9e084c6f329d39c.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
     "100 Days of Code - The Complete Python Pro Bootcamp/Untitled.md",
@@ -187,7 +188,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Hacking Password 101.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Encryption and Hashing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md",

@@ -1,6 +1,6 @@
 # Manipulating Images as ndarrays
 
-Images are nothing other than a collection of pixels. And each pixel is nothing other than value for a colour. And any color can be represented as a combination of red, green, and blue (RGB).
+Images are nothing other than a collection of pixels. And each pixel is nothing other than value for a color. And any color can be represented as a combination of red, green, and blue (RGB).
 
 ![[2020-10-12_17-25-44-d5854190572f3330c9e306fbf2933923.gif|500]]
 
