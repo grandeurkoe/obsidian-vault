@@ -105,7 +105,74 @@ If you did a quick Google search, chances are you discovered the built-in `.nonz
 ```
 
 ## Solution 5
+
+The .random() function is another way to quickly create a ndarray, just like `.arange()`. The .random() function lives under `np.random` so you'll either have to import random
+
+```python
+1. from numpy.random import random
+2. z = random((3,3,3))
+3. z
+```
+
+or use the full path to call it.
+
+```python
+1. z = np.random.random((3,3,3)) # without an import statement
+2. print(z.shape)
+3. z
+```
+
+OR
+
+```python
+1. # default_rng is the recommended constructor for the random number class Generator.
+2. # Here we specify a seed so that we have reproducible results.
+3. rng= np.random.default_rng(seed=42)
+4. random_num_array = rng.random((3,3,3))
+5. print(random_num_array)
+```
+
 ## Solution 6
+
+The `.linspace()` function is very similar to `.arange()` and great for generating evenly spaced numbers over an interval. To generate the vector use:
+
+```python
+1. x = np.linspace(0, 100, num=9)
+2. print(x)
+3. x.shape
+```
+
 ## Solution 7
 
+A common use-case for `.linspace()` is to generate the points that you'd like to plot on a chart.
+
+```python
+1. y = np.linspace(start=-3, stop=3, num=9)
+2. plt.plot(x, y)
+3. plt.show()
+```
+
+![[2020-10-12_12-37-35-35a78b50d27214178a2c78ac55057d1f.png|500]]
+
 ## Solution 8
+
+When you have a 3-dimensional array with values between 0 and 1, we can use Matplotlib to interpret these values as the red-green-blue (RGB) values for a pixel.
+
+```python
+1. noise = np.random.random((128,128,3))
+2. print(noise.shape)
+3. plt.imshow(noise)
+```
+
+OR 
+
+```python
+1. # Use NumPy to generate an array called noise with shape 128x128x3 that has random values.
+2. rng= np.random.default_rng(seed=42)
+3. noise = rng.random((128, 128, 3))
+4. 
+5. # Use Matplotlib's .imshow() to display the array as an image.
+6. plt.imshow(noise)
+```
+
+![[2020-10-12_12-40-16-da843a603fcf40f2e8174a34a2372065.png|500]]
