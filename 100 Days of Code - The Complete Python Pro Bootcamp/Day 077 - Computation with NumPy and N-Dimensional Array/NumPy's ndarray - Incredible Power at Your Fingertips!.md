@@ -86,3 +86,31 @@ An array of 3 dimensions (or higher) is often referred to as a ”tensor”. Yes
 
 ### Working with Higher Dimensions
 
+This is really where we have to start to wrap our heads around how ndarrays work because it takes some getting used to the notation.
+
+The `ndim` and `shape` attributes show us the number of dimensions and the length of the axes respectively.
+
+```python
+1. print(f'We have {mystery_array.ndim} dimensions')
+2. print(f'The shape is {mystery_array.shape}')
+```
+
+The shape is (3, 2, 4), so we have 3 elements along axis #0, 2 elements along axis #1 and 4 elements along axis #3.
+
+To access the value `18` we, therefore, have to provide three different indices - one for each axis. As such, we locate the number at index 2 for the first axis, index number 1 for the second axis, and index number 3 for the third axis.
+
+`1. mystery_array[2, 1, 3]`
+
+The values [97, 0, 27, 18] live on the 3rd axis and are on position 2 for the first axis and position 1 on the second axis. Hence we can retrieve them like so:
+
+  
+
+`1. mystery_array[2, 1, :]`
+
+Finally, to retrieve all the first elements on the third axis, we can use the colon operator for the other two dimensions.
+
+`1. mystery_array[:, :, 0]`
+
+With the square brackets serving as your guide, the ndarray is quite difficult to visualise for 3 or more dimensions. So if any of this was unclear or confusing. Pause on this lesson for a minute and play around with the array above. Try selecting different subsets from the array. That way you can get comfortable thinking along the different dimensions of the ndarray.
+
+![[2020-10-12_10-05-16-0b2602de044a3b75e9e084c6f329d39c.png|500]]

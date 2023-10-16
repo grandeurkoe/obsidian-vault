@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md"
               }
             }
           },
@@ -160,12 +160,14 @@
   },
   "active": "721a31af68de3bbc",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md",
+    "Attachments/2020-10-12_10-05-16-0b2602de044a3b75e9e084c6f329d39c.png",
     "Attachments/2020-10-12_09-56-06-a843401b2d459f4afabfcb8979e0b5ae.png",
     "Attachments/2020-10-12_09-45-49-516f9f87a63a881bad1f7d13a190b2a5.png",
     "Attachments/2020-10-12_15-34-45-6fdebf22c1ab4c51fd82687144c0f215.gif",
     "Attachments/2020-10-12_09-41-31-067a30d8e9bda1db2f2e5752632a0da3.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy's ndarray - Incredible Power at Your Fingertips!.md",
     "Attachments/2020-10-12_10-22-08-b0c1d1c029ea910a79ae216ff161c1c1.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
@@ -182,8 +184,6 @@
     "Attachments/2020-10-11_13-51-33-b158b5d866b0b6653796e51626017897.png",
     "Attachments/2020-10-11_13-51-08-e81782658c52bf6d2f1b28bff0662808.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Extracting Nested Column Data using .stack().md",
-    "Attachments/2020-10-11_13-46-44-c19715fca6ba4ca0dcaedfccb9725f83.png",
-    "Attachments/2020-10-11_13-46-00-2dc5178caf548bb86a9ad238e7dc671a.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Numeric Type Conversions for the Installations & Price Data.md",
