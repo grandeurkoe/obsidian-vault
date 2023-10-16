@@ -34,5 +34,29 @@ Let’s check the dimensions of `my_array` with the `ndim` attribute:
 
 ![[2020-10-12_09-45-49-516f9f87a63a881bad1f7d13a190b2a5.png|500]]
 
-## 2-Dimension
+## 2-Dimensions
 
+Now, let’s create a 2-dimensional array (i.e., a “matrix”)
+
+``1. array_2d = np.array([[1, 2, 3, 9], [5, 6, 7, 8]])``
+
+Note we have two pairs of square brackets. This array has 2 rows and 4 columns. NumPy refers to the dimensions as **axes**, so the first axis has length 2 and the second axis has length 4.
+
+```python
+1. print(f'array_2d has {array_2d.ndim} dimensions')
+2. print(f'Its shape is {array_2d.shape}')
+3. print(f'It has {array_2d.shape[0]} rows and {array_2d.shape[1]} columns')
+4. print(array_2d)
+```
+
+Again, you can access a particular row or a particular value with the square bracket notation. To access a particular value, you have to provide an index for each dimension. We have two dimensions, so we need to provide an index for the row and for the column. Here’s how to access the 3rd value in the 2nd row:
+
+`1. array_2d[1,2]`
+
+To access an entire row and all the values therein, you can use the `:` operator just like you would do with a Python List. Here’s the entire first row:
+
+`1. array_2d[0, :]`
+
+![[2020-10-12_09-56-06-a843401b2d459f4afabfcb8979e0b5ae.png|500]]
+
+## N-Dimensions
