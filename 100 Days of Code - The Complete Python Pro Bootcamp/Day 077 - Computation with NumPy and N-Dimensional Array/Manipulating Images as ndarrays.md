@@ -20,9 +20,7 @@ and display it using Matplotlib's `.imshow()`
 
 What is the data type of `img`? Also, what is the shape of `img` and how many dimensions does it have? What is the resolution of the image?
 
-## Solution
-
-### An image as a ndarray
+## Solution: An image as a ndarray
 
 Let us question the nature of our reality and take a look under the surface. Here's what our **"image"** actually looks like:
 
@@ -45,3 +43,49 @@ Now can you try and convert the image to black and white? All you need need to d
 - Divide all the values by 255 to convert them to sRGB.
 - Multiply the sRGB array by the `grey_vals` array (provided) to convert the image to grayscale.
 - Finally use Matplotlib's [`.imshow()`](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.imshow.html) with the colormap parameter set to gray `cmap=gray` to display the result.
+
+## Solution: Converting an image to grayscale
+
+The first step is a division by a scalar
+
+`1. sRGB_array = img / 255`
+
+Here NumPy will use broadcasting to divide all the values in our ndarray by 255.
+
+Next, we use matrix multiplication to multiply our two ndarrays together.
+
+`1. grey_vals = np.array([0.2126, 0.7152, 0.0722])`
+
+These are the values given by the formula above
+
+`1. img_gray = sRGB_array @ grey_vals`
+
+We can either multiply them together with the @ operator or the `.matmul()` function.
+
+`1. img_gray = sRGB_array @ grey_vals`
+
+`1. img_gray = np.matmul(sRGB_array, grey_vals)`
+
+Finally, to show the image we use Matplotlib
+
+`1. plt.imshow(img_gray, cmap='gray')`
+
+The `cmap` parameter is important here. If we leave it out the function will not know that is dealing with a black and white image.
+
+![[2020-10-12_18-03-51-46b947197834216ff69717fd4ac7dd58.png|500]]
+
+## Challenge
+
+Can you manipulate the images by doing some operations on the underlying ndarrays? See if you can change the values in the ndarray so that:
+
+You flip the grayscale image upside down like so:
+
+![[2020-10-13_09-48-42-6da00043154d3fd57f2b979b692125c1.png|500]]
+Rotate the color image:
+
+![[2020-10-13_09-48-48-618965070981a8096f73de791f750b21.png|500]]
+
+Invert (i.e., solarize) the colour image. To do this you need to convert all the pixels to their "opposite" value, so black (0) becomes white (255).
+
+![[2020-10-13_09-48-54-e30020abc219020c9a4c214cc55a6da1.png|500]]
+
