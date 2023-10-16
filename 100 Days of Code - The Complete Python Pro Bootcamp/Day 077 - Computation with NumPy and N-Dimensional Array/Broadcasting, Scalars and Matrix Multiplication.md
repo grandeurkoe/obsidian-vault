@@ -62,3 +62,8 @@ The documentation on broadcasting also shows us a few more examples:
 ![[2020-10-12_16-07-56-fbba1b975a8b7e2ad2cc5323ebe4d771.png|500]]
 
 ## Matrix Multiplication
+
+But what if we're not multiplying our ndarray by a single number? What if we multiply it by another vector or a 2-dimensional array? In this case, we follow [the rules of linear algebra](https://en.wikipedia.org/wiki/Matrix_multiplication#Illustration).
+
+![[2020-10-12_17-01-09-7243f82f4dd88bec877e3206fb9d9add.png|500]]
+
