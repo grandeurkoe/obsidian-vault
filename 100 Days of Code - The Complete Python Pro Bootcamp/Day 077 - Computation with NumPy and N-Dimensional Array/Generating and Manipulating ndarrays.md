@@ -50,3 +50,62 @@ Use [`.linspace()`](https://numpy.org/doc/stable/reference/generated/numpy.linsp
 Use NumPy to generate an array called `noise` with shape 128x128x3 that has random values. Then use Matplotlib’s [`.imshow()`](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.imshow.html) to display the array as an image.
 
 The random values will be interpreted as the RGB colors for each pixel.
+
+## Solution 1
+
+ Previously we created NumPy arrays manually where we specified each and every value like this: `np.array([1.1, 9.2, 8.1, 4.7])`
+
+We can also generate a NumPy arrays using some built-in functions like .arange(). In this case, we can create an array of evenly spaced values by just providing a start and stop value.
+
+```python
+1. a = np.arange(10,30)
+2. print(a)
+```
+
+## Solution 2
+
+This should be a little bit of revision for using the colon `:` operator to select a range or interval in an array.
+
+The last 3 values in the array:
+
+`1. a[-3:]`
+
+An interval between two values:
+
+`1. a[3:6]`
+
+All the values except the first 12:
+
+`1. a[12:]`
+
+Every second value (i.e., all the even values in our case)
+
+```python
+1. a[ : : 2]
+```
+
+## Solution 3
+
+To reverse the order of an array, you can either use the (double) colon operator once again or use the built-in `.flip()` function. Either way works.
+
+`1. np.flip(a)`
+
+or
+
+`1. a[::-1]`
+
+## Solution 4
+
+If you did a quick Google search, chances are you discovered the built-in `.nonzero()` function to print out all the non-zero elements. You can use it like so:
+
+```python
+1. b = np.array([6,0,9,0,0,5,0])
+2. nz_indices = np.nonzero(b)
+3. nz_indices # note this is a tuple
+```
+
+## Solution 5
+## Solution 6
+## Solution 7
+
+## Solution 8
