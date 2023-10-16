@@ -60,3 +60,29 @@ To access an entire row and all the values therein, you can use the `:` operato
 ![[2020-10-12_09-56-06-a843401b2d459f4afabfcb8979e0b5ae.png|500]]
 
 ## N-Dimensions
+
+An array of 3 dimensions (or higher) is often referred to as a ”tensor”. Yes, that’s also where TensorFlow, the popular machine learning tool, gets its name. A tensor simply refers to an n-dimensional array. Using what you've learned about 1- and 2-dimensional arrays, can you apply the same techniques to tackle a more complex array?
+
+## Challenge
+
+- How many dimensions does the array below have?
+- What is its shape (i.e., how many elements are along each axis)?
+- Try to access the value `18` in the last line of code.
+- Try to retrieve a 1-dimensional vector with the values `[97, 0, 27, 18]`
+- Try to retrieve a (3,2) matrix with the values `[[ 0, 4], [ 7, 5], [ 5, 97]]`
+
+```python
+1. mystery_array = np.array([[[0, 1, 2, 3],
+2.                            [4, 5, 6, 7]],
+
+4.                          [[7, 86, 6, 98],
+5.                           [5, 1, 0, 4]],
+
+7.                           [[5, 36, 32, 48],
+8.                            [97, 0, 27, 18]]])
+```
+
+## Solution
+
+### Working with Higher Dimensions
+
