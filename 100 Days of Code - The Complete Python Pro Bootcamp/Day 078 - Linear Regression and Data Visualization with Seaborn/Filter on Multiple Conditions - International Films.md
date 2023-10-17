@@ -43,11 +43,8 @@ The column names are recognized and we see the following:
 
 Now we can turn our attention to films in the dataset that were not released at the time the data was collected. This is why films like Singularity and Aquaman had zero revenue.
 
-  
 #### Challenge
 
 - Identify which films were not released yet as of the time of data collection (May 1st, 2018).
-    
 - How many films are included in the dataset that have not yet had a chance to be screened in the box office? 
-    
 - Create another DataFrame called `data_clean` that does not include these films.
