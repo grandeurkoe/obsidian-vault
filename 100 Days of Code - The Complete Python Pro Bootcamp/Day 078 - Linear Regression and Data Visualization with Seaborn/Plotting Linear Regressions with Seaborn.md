@@ -25,3 +25,22 @@ To style the chart further, we can once again, drop into the Matplotlib layer an
 ```
 
 ![[2020-10-16_11-54-26-bf6d69797f23a0d34875a64c59e36720.png|500]]
+What do we see here? Well, first off we can spot Cleopatra on the far right. But also, we see that many lower budget films made much more money! The relationship between the production budget and movie revenue is not very strong. Many points on the left are very far away for the line, so the line appears not to capture the relationship between budget and revenue very well at all!
+
+But does the same hold true for the newer films?
+
+## Challenge
+
+Use Seaborn's `.regplot()` to show the scatter plot and linear regression line against the `new_films`.  
+  
+**Style the chart**
+
+- Put the chart on a `'darkgrid'`.
+- Set limits on the axes so that they don't show negative values.
+- Label the axes on the plot "Revenue in $ billions" and "Budget in $ millions".
+- Provide HEX color codes for the plot and the regression line. Make the dots dark blue (#2f4b7c) and the line orange (#ff7c43).
+
+**Interpret the chart**
+
+- Do our data points for the new films align better or worse with the linear regression than for our older films?
+- Roughly how much would a film with a budget of $150 million make according to the regression line?
