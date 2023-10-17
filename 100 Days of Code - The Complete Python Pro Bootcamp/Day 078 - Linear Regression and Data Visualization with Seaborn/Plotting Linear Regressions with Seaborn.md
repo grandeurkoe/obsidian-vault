@@ -44,3 +44,33 @@ Use Seaborn's `.regplot()` to show the scatter plot and linear regression line a
 
 - Do our data points for the new films align better or worse with the linear regression than for our older films?
 - Roughly how much would a film with a budget of $150 million make according to the regression line?
+
+## Solution: Plotting a regression against the newer films
+
+To style the chart we can use the same techniques as before: providing values for the `.regplot()` function, as well as making use of the Matplotlib Axes object to fine-tune the limits, labels, and general style.
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2. with sns.axes_style('darkgrid'):
+3.   ax = sns.regplot(data=new_films,
+4.                    x='USD_Production_Budget',
+5.                    y='USD_Worldwide_Gross',
+6.                    color='#2f4b7c',
+7.                    scatter_kws = {'alpha': 0.3},
+8.                    line_kws = {'color': '#ff7c43'})
+
+10.   ax.set(ylim=(0, 3000000000),
+11.          xlim=(0, 450000000),
+12.          ylabel='Revenue in $ billions',
+13.          xlabel='Budget in $100 millions')
+```
+
+![[2020-10-16_14-53-50-e2314fcbccd1782b326fc9ea05367883.png|500]]
+
+How do we interpret our chart? This time we are getting a much better fit, compared to the old films. We can see this visually from the fact that our data points line up much better with our regression line (pun intended). Also, the confidence interval is much narrower. We also see that a film with a $150 million budget is predicted to make slightly under $500 million by our regression line.
+
+![[2020-10-16_14-57-10-7c88b2c9af63e82477610c41a9fe6a4d.png|500]]
+
+All in all, we can be pretty confident that there does indeed seem to be a relationship between a film's budget and that film's worldwide revenue.
+
+But how much of the variation in revenue does the budget actually explain? And how much extra revenue can we expect for an additional $1 increase in the budget? To find out, we need to dive into the numbers underlying our regression model.
