@@ -43,8 +43,40 @@ The column names are recognized and we see the following:
 
 Now we can turn our attention to films in the dataset that were not released at the time the data was collected. This is why films like Singularity and Aquaman had zero revenue.
 
-#### Challenge
+## Challenge
 
 - Identify which films were not released yet as of the time of data collection (May 1st, 2018).
 - How many films are included in the dataset that have not yet had a chance to be screened in the box office? 
 - Create another DataFrame called `data_clean` that does not include these films.
+
+## Solution
+
+There are a total of 7 unreleased films at the time of data collection included in the dataset.
+
+![[2020-10-14_18-46-19-04127ebc60d12d2a5eb14800bbfd7a7a.png|500]]
+
+From this point on, we'll work with another DataFrame called `data_clean` that does not include these films.
+
+`1. data_clean = data.drop(future_releases.index)`
+
+## Challenge: Films that Lost Money
+
+Having removed the unreleased films entirely can you calculate the percentage of films that did not break even at the box office? We already saw that more than the bottom quartile of movies appears to lose money when we ran `.describe()`. However, what is the true percentage of films where the costs exceed the worldwide gross revenue?
+
+## Solution: Budget greater than revenue
+
+Again, there are different ways you could have calculated this. For example, using the `.loc[]` property,
+
+```python
+1. money_losing = data_clean.loc[data_clean.USD_Production_Budget > data_clean.USD_Worldwide_Gross]
+2. len(money_losing)/len(data_clean)
+```
+
+or the `.query()` function
+
+```python
+1. money_losing = data_clean.query('USD_Production_Budget > USD_Worldwide_Gross')
+2. money_losing.shape[0]/data_clean.shape[0]
+```
+
+In both cases, we see that a whopping 37.2% 😮 of films do not recoup their production budget at the box office. 💸💸💸 Who knew that film finance could be so risky! 😬
