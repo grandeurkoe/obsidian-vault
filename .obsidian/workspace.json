@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
     "Attachments/2020-10-16_11-40-07-75393a74422b12f0ccc714e15e3eafbe.png",
     "Attachments/2020-10-16_11-29-47-b6944d0cec5baa62d332a7bcde19d8be.png",
     "Attachments/2020-10-16_11-13-38-ea1ff36ff1f36d1b44616077685626e5.png",
@@ -167,7 +169,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Manipulation - Pivoting DataFrame.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Exploration - Making Sense of Google Search Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/CRUD Operations with SQLAlchemy.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
     "Attachments/2020-10-16_10-59-13-2ca82264854d799c5ea7a9aac7246b85.png",
     "Attachments/2020-10-15_10-07-36-6a3655edec46115548a0f09bbd8b1173.png",
@@ -178,7 +179,6 @@
     "Attachments/2020-10-15_09-33-57-2840113022769b3f9be9fe8dc4667693.png",
     "Attachments/2020-10-15_09-28-08-831897dbfc869643665e710decb79e5f.png",
     "Attachments/2020-10-15_09-19-14-d55c7a6c5b664184458469f081502617.png",
-    "Attachments/2020-10-15_09-17-22-efc609bc13bcec591aa57d00428714ad.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Filter on Multiple Conditions - International Films.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
