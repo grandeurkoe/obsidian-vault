@@ -12,3 +12,84 @@ The first step is adding Seaborn to our notebook. By convention we'll use the na
 
 ## Seaborn Scatter Plots
 
+To create a [.scatterplot()](https://seaborn.pydata.org/generated/seaborn.scatterplot.html?highlight=scatterplot#seaborn.scatterplot), all we need to do is supply our DataFrame and the column names that we'd like to see on our axes.
+
+```python
+1. sns.scatterplot(data=data_clean,
+2.                 x='USD_Production_Budget', 
+3.                 y='USD_Worldwide_Gross')
+```
+
+![[2020-10-15_09-13-55-0b4231f5cf7793d115a8aafa96f58d4e.png|500]]
+That should look familiar. 😊 Because Seaborn is built on top of Matplotlib, we can dive into the Matplotlib layer anytime to configure our chart. For example, we can increase the size of our figure:
+
+![[2020-10-15_09-17-22-efc609bc13bcec591aa57d00428714ad.png|500]]
+
+And to style our chart we can simply configure the `Axes` object that is returned from `sns.scatterplot()`.
+
+![[2020-10-15_09-19-14-d55c7a6c5b664184458469f081502617.png|500]]
+
+Here's how:
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2.
+3. ax = sns.scatterplot(data=data_clean,
+4.                      x='USD_Production_Budget', 
+5.                      y='USD_Worldwide_Gross')
+6.
+7. ax.set(ylim=(0, 3000000000),
+8.        xlim=(0, 450000000),
+9.        ylabel='Revenue in $ billions',
+10.        xlabel='Budget in $100 millions')
+11.
+12. plt.show()
+```
+
+Here we're diving into the Matplotlib layer to set the limits on the axes and change the labels.
+
+## From Scatter Plot to Bubble Chart
+
+But the reason we're using Seaborn is because of the `hue` and `size` parameters that make it very easy to create a bubble chart. These parameters allow us to color the data and change their size according to one of the columns in our DataFrame.
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2. ax = sns.scatterplot(data=data_clean,
+3.                      x='USD_Production_Budget', 
+4.                      y='USD_Worldwide_Gross',
+5.                      hue='USD_Worldwide_Gross', # colour
+6.                      size='USD_Worldwide_Gross',) # dot size
+7.
+8. ax.set(ylim=(0, 3000000000),
+9.        xlim=(0, 450000000),
+10.        ylabel='Revenue in $ billions',
+11.        xlabel='Budget in $100 millions',)
+12.
+13. plt.show()
+```
+
+![[2020-10-15_09-28-08-831897dbfc869643665e710decb79e5f.png|500]]
+
+Now our higher grossing movies are bigger and darker on our chart. That's super handy. But Seaborn offers a number of convenient styling options as well.
+
+To set the styling on a single chart (as opposed to all the charts in the entire notebook) we can use Python's `with` keyword. We've seen `with` used already when it comes to opening files in previous lessons.
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2.
+3. # set styling on a single chart
+4. with sns.axes_style('darkgrid'):
+5.   ax = sns.scatterplot(data=data_clean,
+6.                        x='USD_Production_Budget', 
+7.                        y='USD_Worldwide_Gross',
+8.                        hue='USD_Worldwide_Gross',
+9.                        size='USD_Worldwide_Gross')
+10.
+11.   ax.set(ylim=(0, 3000000000),
+12.         xlim=(0, 450000000),
+13.         ylabel='Revenue in $ billions',
+14.         xlabel='Budget in $100 millions')
+```
+
+![[2020-10-15_09-33-57-2840113022769b3f9be9fe8dc4667693.png|500]]
+
