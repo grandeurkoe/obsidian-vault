@@ -83,3 +83,20 @@ This makes sense considering how poorly our data points aligned with our line ea
 ## Challenge
 
 You've just estimated the intercept and slope for the Linear Regression model. Now we can use it to make a prediction! For example, how much global revenue does our model estimate for a film with a budget of $350 million?
+
+## Solution: Using the model to make a prediction
+
+For a $350 million budget film, our model predicts a worldwide revenue of around $600 million! You can calculate this as follows:
+
+`1. 22821538 + 1.64771314 * 350000000`
+
+Or, using the regression object, you could also work it out like this:
+
+```python
+1. budget = 350000000
+2. revenue_estimate = regression.intercept_[0] + regression.coef_[0,0]*budget
+3. revenue_estimate = round(revenue_estimate, -6)
+4. print(f'The estimated revenue for a $350 film is around ${revenue_estimate:.10}.')
+```
+
+(The colon : and dot . in a print statement is quite handy for controlling the number of digits you'd like to show up in the output)
