@@ -72,4 +72,3 @@ The cut-off for our calculation is 1960 in the Decade column because this will s
 The most expensive film prior to 1970 was Cleopatra, with a production budget of $42 million. That's some serious 1960s money, and judging by the trailer, a lot of it went into extravagant costumes, set design, and plenty of extras. Impressive.
 
 ![[2020-10-16_11-40-07-75393a74422b12f0ccc714e15e3eafbe.png|500]]
-
