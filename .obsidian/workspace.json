@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "plot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md"
               }
             }
           },
@@ -160,6 +161,8 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
     "Attachments/2020-10-15_09-33-57-2840113022769b3f9be9fe8dc4667693.png",
     "Attachments/2020-10-15_09-28-08-831897dbfc869643665e710decb79e5f.png",
     "Attachments/2020-10-15_09-19-14-d55c7a6c5b664184458469f081502617.png",
@@ -168,13 +171,11 @@
     "Attachments/2020-10-15_09-10-22-4722ef6ffbcef591bc19aa7b71133683.png",
     "Attachments/2020-10-15_09-09-20-72497b72e13443b2cebd18af668ac37e.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Filter on Multiple Conditions - International Films.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
     "Attachments/2020-10-14_18-46-19-04127ebc60d12d2a5eb14800bbfd7a7a.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
     "Attachments/2020-10-14_18-34-38-3cdecd04820328d2020a3300f5bab57c.png",
     "Attachments/2020-10-14_18-30-07-f144e3467424b4262de238f33db8917e.png",
-    "Attachments/2020-10-14_18-25-38-1acab27e5b6c677db5828de681d34cbe.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Investigate the Films that had Zero Revenue.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Find the Oldest and Largest LEGO Sets.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
