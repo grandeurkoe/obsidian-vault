@@ -70,3 +70,16 @@ Remember how we were quite skeptical about our regression looking at the chart f
 
 Run a linear regression for the `old_films`. Calculate the intercept, slope and r-squared. How much of the variance in movie revenue does the linear model explain in this case?
 
+## Solution
+
+Running the numbers this time around, we can confirm just how inappropriate the linear model is for the pre-1970 films. We still see a positive relationship between budgets and revenue, since the slope (our theta-one) is 1.6, but the r-squared is very low.
+
+![[2020-10-16_16-40-08-a2334fe9480545050face2f72c4a31cd.png|500]]
+
+This makes sense considering how poorly our data points aligned with our line earlier.
+
+![[2020-10-16_16-43-08-86be88ceaa656f3a0c07f04d3cf0dac7.png|500]]
+
+## Challenge
+
+You've just estimated the intercept and slope for the Linear Regression model. Now we can use it to make a prediction! For example, how much global revenue does our model estimate for a film with a budget of $350 million?
