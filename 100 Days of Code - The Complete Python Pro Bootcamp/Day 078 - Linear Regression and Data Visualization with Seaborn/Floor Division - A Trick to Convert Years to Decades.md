@@ -18,3 +18,31 @@ Here is one approach that you can follow:
 3. Use floor division `//` to convert the year data to the decades of the films.
 4. Add the decades as a `Decade` column to the `data_clean` DataFrame.
 
+## Solution: Using Floor Division to Convert Years to Decades
+
+To create a DatetimeIndex, we just call the constructor and provide our release date column as an argument to initialise the DatetimeIndex object. Then we can extract all the years from the DatetimeIndex.
+
+```python
+1. dt_index = pd.DatetimeIndex(data_clean.Release_Date)
+2. years = dt_index.year
+```
+
+Now, all we need to do is convert the years to decades. For that, we will use floor division (aka integer division). The difference to regular division is that the result is effectively rounded down.
+
+```python
+1. 5.0 / 2
+2. # output: 2.5
+3. 5.0 // 2
+4. # output: 2.0
+```
+
+In our case, we will use the floor division by 10 and then multiplication by 10 to convert the release year to the release decade:
+
+![[2020-10-16_11-13-38-ea1ff36ff1f36d1b44616077685626e5.png|500]]
+
+We can do this for all the years and then add the decades back as a column.
+
+```python
+1. decades = years//10*10
+2. data_clean['Decade'] = decades
+```
