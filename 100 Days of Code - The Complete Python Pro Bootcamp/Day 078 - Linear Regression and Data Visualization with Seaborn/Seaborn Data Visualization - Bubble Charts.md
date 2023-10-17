@@ -93,3 +93,8 @@ To set the styling on a single chart (as opposed to all the charts in the entire
 
 ![[2020-10-15_09-33-57-2840113022769b3f9be9fe8dc4667693.png|500]]
 
+In addition to `'darkgrid'`, Seaborn has a number of [built-in themes](https://python-graph-gallery.com/104-seaborn-themes/). so you can style your chart very quickly. Try out `'whitegrid'`, `'dark'`,  or `'ticks'` for example.
+
+## Challenge
+
+Now that you've seen how to create a beautiful bubble chart in Seaborn, it's time to create your own. Can you write the code to replicate this chart? Notice how we are actually representing THREE dimensions in this chart: the budget, the release date, and the worldwide revenue. This is what makes bubble charts so awesomely informative.
