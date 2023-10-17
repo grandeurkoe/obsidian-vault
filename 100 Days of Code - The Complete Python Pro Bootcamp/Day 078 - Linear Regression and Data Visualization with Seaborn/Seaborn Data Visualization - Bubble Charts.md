@@ -98,3 +98,31 @@ In addition to `'darkgrid'`, Seaborn has a number of [built-in themes](https://p
 ## Challenge
 
 Now that you've seen how to create a beautiful bubble chart in Seaborn, it's time to create your own. Can you write the code to replicate this chart? Notice how we are actually representing THREE dimensions in this chart: the budget, the release date, and the worldwide revenue. This is what makes bubble charts so awesomely informative.
+
+![[2020-10-15_09-44-00-eac16a0a1c99356a123eb410d99157ec.png|500]]
+
+## Solution: Movie Budgets over Time
+
+Alright, I hope that was fairly straightforward. All you needed to do is change a few arguments:
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2.
+3. with sns.axes_style("darkgrid"):
+4.     ax = sns.scatterplot(data=data_clean, 
+5.                     x='Release_Date', 
+6.                     y='USD_Production_Budget',
+7.                     hue='USD_Worldwide_Gross',
+8.                     size='USD_Worldwide_Gross',)
+9.
+10.     ax.set(ylim=(0, 450000000),
+11.            xlim=(data_clean.Release_Date.min(), data_clean.Release_Date.max()),
+12.            xlabel='Year',
+13.            ylabel='Budget in $100 millions')
+```
+
+## Analysis
+
+What do we see here? What is this chart telling us? Well, first off, movie budgets have just exploded in the last 40 years or so. Up until the 1970s, the film industry appears to have been in an entirely different era. Budgets started growing fast from the 1980s onwards and continued to grow through the 2000s. Also, the industry has grown massively, producing many more films than before. The number of data points is so dense from 2000 onwards that they are overlapping.
+
+![[2020-10-15_10-00-28-26cc75fe26fee70f2445c638aa490791.png|500]]

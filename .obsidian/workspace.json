@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md"
               }
             }
           },
@@ -159,23 +158,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aca5f6f690d7a5f",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Floor Division - A Trick to Convert Years to Decades.md",
+    "Attachments/2020-10-16_10-59-13-2ca82264854d799c5ea7a9aac7246b85.png",
+    "Attachments/2020-10-15_10-07-36-6a3655edec46115548a0f09bbd8b1173.png",
+    "Attachments/2020-10-15_10-00-28-26cc75fe26fee70f2445c638aa490791.png",
+    "Attachments/2020-10-15_09-44-00-eac16a0a1c99356a123eb410d99157ec.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Tesla Line Charts in Matplotlib.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "Attachments/2020-10-15_09-33-57-2840113022769b3f9be9fe8dc4667693.png",
     "Attachments/2020-10-15_09-28-08-831897dbfc869643665e710decb79e5f.png",
     "Attachments/2020-10-15_09-19-14-d55c7a6c5b664184458469f081502617.png",
     "Attachments/2020-10-15_09-17-22-efc609bc13bcec591aa57d00428714ad.png",
     "Attachments/2020-10-15_09-13-55-0b4231f5cf7793d115a8aafa96f58d4e.png",
     "Attachments/2020-10-15_09-10-22-4722ef6ffbcef591bc19aa7b71133683.png",
-    "Attachments/2020-10-15_09-09-20-72497b72e13443b2cebd18af668ac37e.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Filter on Multiple Conditions - International Films.md",
-    "Attachments/2020-10-14_18-46-19-04127ebc60d12d2a5eb14800bbfd7a7a.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
-    "Attachments/2020-10-14_18-34-38-3cdecd04820328d2020a3300f5bab57c.png",
-    "Attachments/2020-10-14_18-30-07-f144e3467424b4262de238f33db8917e.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Investigate the Films that had Zero Revenue.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Find the Oldest and Largest LEGO Sets.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
@@ -194,10 +195,7 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Preliminary Data Exploration and Data Cleaning with Pandas.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Preliminary Data Exploration.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Installing packages and the requirements.txt.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Untitled.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
