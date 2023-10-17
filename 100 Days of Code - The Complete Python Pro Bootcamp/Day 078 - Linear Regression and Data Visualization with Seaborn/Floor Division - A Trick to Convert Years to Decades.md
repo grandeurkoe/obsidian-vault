@@ -46,3 +46,30 @@ We can do this for all the years and then add the decades back as a column.
 1. decades = years//10*10
 2. data_clean['Decade'] = decades
 ```
+
+## Challenge
+
+Create two new DataFrame: `old_films` and `new_films`
+
+- `old_films` should include all the films before 1970 (up to and including 1969)
+- `new_films` should include all the films from 1970 onwards
+- How many of our films were released prior to 1970?
+- What was the most expensive film made prior to 1970?
+
+## Solution: Separate the films made before and after 1970
+
+Now that we have our Decades column we can use it to create subsets of our data.
+
+```python
+1. old_films = data_clean[data_clean.Decade <= 1960]
+2. new_films = data_clean[data_clean.Decade > 1960]
+```
+
+The cut-off for our calculation is 1960 in the Decade column because this will still include 1969. When we inspect our old_films DataFrame we see that it only includes 153 films. As we saw in the bubble chart, the bulk of films in the dataset have been released in the last 30 years.
+
+![[2020-10-16_11-29-47-b6944d0cec5baa62d332a7bcde19d8be.png|500]]
+
+The most expensive film prior to 1970 was Cleopatra, with a production budget of $42 million. That's some serious 1960s money, and judging by the trailer, a lot of it went into extravagant costumes, set design, and plenty of extras. Impressive.
+
+![[2020-10-16_11-40-07-75393a74422b12f0ccc714e15e3eafbe.png|500]]
+
