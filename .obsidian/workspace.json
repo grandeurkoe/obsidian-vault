@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Implementation.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Implementation.md",
@@ -192,9 +195,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Analysis by Programming Language.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Visualization with Plotly - Create Pie and Donut Charts.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Unemployment How to use Grids.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Accessing Columns and Individual Cells in a Dataframe.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
