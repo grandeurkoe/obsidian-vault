@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Using Matplotlib to Visualise Trends over Time.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "value_cou",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Using Matplotlib to Visualise Trends over Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Using Matplotlib to Visualise Trends over Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Using Matplotlib to Visualise Trends over Time.md"
               }
             }
           },
@@ -158,8 +159,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aca5f6f690d7a5f",
+  "active": "68b0ef6996ebb6e4",
   "lastOpenFiles": [
+    "Attachments/2020-10-20_14-15-24-c67d3b9baeaa22b2f28b6d3a2202d77a.png",
+    "Attachments/2020-10-20_14-15-10-c99698bd9d7749499bb42a4763d446a6.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Using Matplotlib to Visualise Trends over Time.md",
+    "Attachments/2020-10-20_14-09-23-ba9b59621175ffd123d135b4cd46fed5.png",
+    "Attachments/2020-10-20_14-06-59-34c0d756c22989eb982fcf00dd78bcff.png",
+    "Attachments/2020-10-20_14-03-25-9b4e50252c31bbc38d8171905a26b9a5.png",
+    "Attachments/2020-10-20_13-59-47-6fea83b45bae6cda8e421d02b71aa380.png",
+    "Attachments/2020-10-20_12-04-43-b5e52b86991f0ee6b5fd0c49ee6e0d3d.png",
     "Attachments/2020-10-20_11-59-16-2880c50d998356973cfa975e30bd642c.png",
     "Attachments/2020-10-20_11-56-24-23e01a3883d76f0a36dd62e0ad401479.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
@@ -172,17 +182,11 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Data Cleaning - Removing NaN Values and Duplicates.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Find the Oldest and Largest LEGO Sets.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
     "Attachments/2020-10-20_11-50-28-39415361f3c46d2884316bad464b6aa6.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Update Packages in Google Colab & Explore and Clean the Dataset.md",
     "Attachments/2020-10-20_11-32-10-f5d62149b40ac16398ffdbdf516c5530.png",
-    "Attachments/2020-10-20_11-26-52-390f5c9ddbfce24588ff4f6a59ad1028.png",
-    "Attachments/2020-10-20_11-24-58-ca4ff85fc797f3662c8ed33c9ac7b481.png",
-    "Attachments/2020-10-20_11-10-39-9f5107ed7f79742d98c60af382a4a4e7.png",
-    "Attachments/2020-10-20_11-00-28-1798f7e1537c4a5e3a5197eb6411a12b.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Explore and Clean the Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Data Manipulation - Pivoting DataFrame.md",
-    "Attachments/2020-10-20_10-48-06-906d5f7f29d10c2385370daad3032c87.gif",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Implementation.md",
@@ -194,9 +198,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
-    "Attachments/2020-10-16_16-43-08-86be88ceaa656f3a0c07f04d3cf0dac7.png",
-    "Attachments/2020-10-16_16-40-08-a2334fe9480545050face2f72c4a31cd.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
