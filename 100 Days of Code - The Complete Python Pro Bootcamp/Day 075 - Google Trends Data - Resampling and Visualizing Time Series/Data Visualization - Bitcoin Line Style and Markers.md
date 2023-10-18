@@ -58,3 +58,67 @@ I think the main trick with this challenge involved substituting a different se
 What we see in the chart is that similar to Tesla, the crazy price movements in the beginning of 2018 are associated with very high search volumes. Everyone was talking about (and buying) Bitcoin in late 2017/early 2018 so search volumes were at a record high!  Interestingly, there was quite a huge spike in bitcoin prices in Q1 of 2019, but this time the increase in search volume was much less pronounced (perhaps because at this point everyone knew what Bitcoin was).
 
 ![[2020-10-10_11-09-40-6f411b90cb8b323b628cec8b171f4f66.png|500]]
+
+## Solution 1: Number of Prizes Awarded over Time
+
+First, we have to count the number of Nobel prizes that are awarded each year.
+
+`1. prize_per_year = df_data.groupby(by='year').count().prize `
+
+This just involves grouping the data so that we can count the number of entries per year. To calculate the 5-year moving average we use `.rolling()` and `.mean()` like we did with the Google Trend data.
+
+`1. moving_average = prize_per_year.rolling(window=5).mean()`
+
+Now we can create a Matplotlib chart that superimposes the two:
+
+```python
+1. plt.scatter(x=prize_per_year.index, 
+2.            y=prize_per_year.values, 
+3.            c='dodgerblue',
+4.            alpha=0.7,
+5.            s=100,)
+6.
+7. plt.plot(prize_per_year.index, 
+8.         moving_average.values, 
+9.         c='crimson', 
+10.         linewidth=3,)
+11.
+12. plt.show()
+```
+
+![[2020-10-20_14-23-51-6e82d0a2a593ae5f05b2562d18daed03.png]]
+
+With the help of a little styling, this chart could look better. To create 5-year tick marks on the x-axis, we generate an array using NumPy:
+
+`1. np.arange(1900, 2021, step=5)`
+
+Then we tap into functions like the `.figure()`, the `.title()`, the `.xticks()`, and `.yticks()` to fine-tune the chart.
+
+In addition, we will shortly be adding a second y-axis, so we can use an `Axes` object to draw our scatter and line plots.
+
+```python
+1. plt.figure(figsize=(16,8), dpi=200)
+2. plt.title('Number of Nobel Prizes Awarded per Year', fontsize=18)
+3. plt.yticks(fontsize=14)
+4. plt.xticks(ticks=np.arange(1900, 2021, step=5), 
+5.            fontsize=14, 
+6.            rotation=45)
+7.
+8. ax = plt.gca() # get current axis
+9. ax.set_xlim(1900, 2020)
+10.
+11. ax.scatter(x=prize_per_year.index, 
+12.            y=prize_per_year.values, 
+13.            c='dodgerblue',
+14.            alpha=0.7,
+15.            s=100,)
+16
+17. ax.plot(prize_per_year.index, 
+18.         moving_average.values, 
+19.         c='crimson', 
+20.         linewidth=3,)
+21.
+22. plt.show()
+```
+
+![[2020-10-20_14-20-53-0c21b93b7886ff45ea6503747813ff1c.png|500]]
