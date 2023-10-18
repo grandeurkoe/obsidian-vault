@@ -44,3 +44,31 @@ Create a [plotly bar chart](https://plotly.com/python/bar-charts/) that shows th
 - Hover over the bar chart. How many prizes went to women in Literature compared to Physics?
 
 ![[2020-10-20_11-50-28-39415361f3c46d2884316bad464b6aa6.png|500]]
+
+## Solution 2: Creating a Donut Chart with Plotly
+
+To create the chart we use the our `.value_counts()` method together with Plotly's `.pie()` function. We see that out of all the Nobel laureates since 1901, only about 6.2% were women.
+
+```python
+1. biology = df_data.sex.value_counts()
+2. fig = px.pie(labels=biology.index, 
+3.              values=biology.values,
+4.              title="Percentage of Male vs. Female Winners",
+5.              names=biology.index,
+6.              hole=0.4,)
+
+8. fig.update_traces(textposition='inside', textfont_size=15, textinfo='percent')
+
+10. fig.show()
+```
+
+![[2020-10-20_11-56-24-23e01a3883d76f0a36dd62e0ad401479.png|500]]
+
+## Solution 3: The first 3 women to win
+
+Even without looking at the data, you might have already guessed one of the famous names: Marie Curie.
+
+`1. df_data[df_data.sex == 'Female'].sort_values('year', ascending=True)[:3]`
+
+![[2020-10-20_11-59-16-2880c50d998356973cfa975e30bd642c.png|500]]
+
