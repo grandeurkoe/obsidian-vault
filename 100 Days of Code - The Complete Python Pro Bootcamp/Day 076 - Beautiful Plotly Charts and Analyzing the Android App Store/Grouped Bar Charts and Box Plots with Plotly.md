@@ -1,4 +1,4 @@
-# Grouped woBar Charts and Box Plots with Plotly
+# Grouped Bar Charts and Box Plots with Plotly
 
 Now that we’ve looked at the total number of apps per category and the total number of apps per genre, let’s see what the split is between free and paid apps.
 
