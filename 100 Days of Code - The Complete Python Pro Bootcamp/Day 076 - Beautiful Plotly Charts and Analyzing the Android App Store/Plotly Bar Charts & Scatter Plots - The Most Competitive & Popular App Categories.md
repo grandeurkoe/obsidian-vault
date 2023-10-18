@@ -38,19 +38,22 @@ Then we can create a horizontal bar chart, simply by adding the orientation para
 1. h_bar = px.bar(x = category_installs.Installs,
 2.                y = category_installs.index,
 3.                orientation='h')
-
+4.
 5. h_bar.show()
+```
 
 We can also add a custom title and axis labels like so:
 
+```python
 1. h_bar = px.bar(x = category_installs.Installs,
 2.                y = category_installs.index,
 3.                orientation='h',
 4.                title='Category Popularity')
-
+5.
 6. h_bar.update_layout(xaxis_title='Number of Downloads', yaxis_title='Category')
 7. h_bar.show()
 ```
+
 
 ![[2020-10-11_12-51-08-abc65eebc2434504dd6457da4618a9ac.png|500]]
 
