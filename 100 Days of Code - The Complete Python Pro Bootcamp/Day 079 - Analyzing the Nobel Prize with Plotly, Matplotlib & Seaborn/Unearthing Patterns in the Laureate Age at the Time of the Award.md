@@ -47,3 +47,84 @@ How does the age of laureates vary by category?
 - Which category has the age trending up and which category has the age trending down?
 - Is this `.lmplot()` telling a different story from the `.boxplot()`?
 - Create a third chart with Seaborn. This time use `.lmplot()` to put all 6 categories on the same chart using the `hue` parameter.
+
+## Solution 1: Calculate the Age at the Time of Award
+
+First, we need to extract the year as a number from the `birth_date` column:
+
+`1. birth_years = df_data.birth_date.dt.year`
+
+Now we can work out the age at the time of the award:
+
+`1. df_data['winning_age'] = df_data.year - birth_years
+
+Solution 2: Oldest and Youngest Winners
+
+```python
+1. display(df_data.nlargest(n=1, columns='winning_age'))
+2. display(df_data.nsmallest(n=1, columns='winning_age'))
+```
+
+![[2020-10-20_17-03-14-869510accc99fe0ab455b4f22582010a.png|500]]
+
+John Goodenough was 97 years old when he got the Nobel prize!!! Holy moly. Interestingly John was born to American parents while they were in Germany. This is one example where our analysis of countries counts an extra "German" prize even though he is an American citizen. Too bad we don't have a nationality column in our dataset! Nonetheless, this goes to show it is never too late to win a Nobel prize. I'm keeping my fingers crossed for you!
+
+## Solution 3: Descriptive Statistics and Histogram
+
+Using `.describe()` is a fantastic way to get a feeling for how the numbers are distributed in a particular column. However, actually visualizing them on a histogram to see their distribution is highly recommended too since it allows us to see if we have a bell-shaped curve or something else.
+
+![[2020-10-20_17-08-21-9a93fed328b9fcb987fe7f1fe891213a.png|500]]
+
+Here's what the histogram looks like:
+
+```python
+1. plt.figure(figsize=(8, 4), dpi=200)
+2. sns.histplot(data=df_data,
+3.              x=df_data.winning_age,
+4.              bins=30)
+5. plt.xlabel('Age')
+6. plt.title('Distribution of Age on Receipt of Prize')
+7. plt.show()
+```
+
+![[2020-10-20_17-10-14-da5c8f344ae6c5029801d057b8fdc7da.png|500]]
+
+## Solution 4: Winning Age Over Time (All Categories)
+
+The histogram above shows us the distribution across the entire dataset, over the entire time period. But perhaps the age has changed over time.
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2. with sns.axes_style("whitegrid"):
+3.     sns.regplot(data=df_data,
+4.                 x='year',
+5.                 y='winning_age',
+6.                 lowess=True, 
+7.                 scatter_kws = {'alpha': 0.4},
+8.                 line_kws={'color': 'black'})
+9.
+10. plt.show()
+```
+
+![[2020-10-20_17-12-43-5144baca380dabc48a83b7f56107e44f.png|500]]
+
+Using the `lowess` parameter allows us to plot a local linear regression. This means the best fit line is still linear, but it's more like a moving average which gives us a non-linear shape across the entire series. This is super neat because it clearly shows how the Nobel laureates are getting their award later and later in life. From 1900 to around 1950, the laureates were around 55 years old, but these days they are closer to 70 years old when they get their award! The other thing that we see in the chart is that in the last 10 years the spread has increased. We've had more very young and very old winners. In 1950s/60s winners were between 30 and 80 years old. Lately, that range has widened.
+
+## Solution 5: Age Differences between Categories
+
+Seaborn allows us to create the above chart by category. But first, let's look at a box plot by category.
+
+```python
+1. plt.figure(figsize=(8,4), dpi=200)
+2. with sns.axes_style("whitegrid"):
+3.     sns.boxplot(data=df_data,
+4.                 x='category',
+5.                 y='winning_age')
+6.
+7. plt.show()
+```
+
+The box plot shows us the mean, the quartiles, the maximum and the minimum values. It raises an interesting question: "Are peace prize winners really older than physics laureates?".
+
+![[2020-10-20_17-23-05-5e95226b748f8a0e7a4ce93dcfad6064.png|500]]
+
