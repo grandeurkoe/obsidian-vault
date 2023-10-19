@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md",
     "Attachments/2020-10-20_16-47-52-801621189ef9ffc4c83025bac35b9861.gif",
     "Attachments/2020-10-20_16-43-55-88d224f6d6086a8e9231579966fde144.png",
     "Attachments/2020-10-20_16-40-44-6ffe0befd6b184a767c184fb64906fda.png",
@@ -168,12 +170,10 @@
     "Attachments/2020-10-20_16-28-14-33e9e87ab3c8bed913f451342e7af3fe.png",
     "Attachments/2020-10-20_16-18-43-4bf4936075c466a83bf4fee81d4bcbd5.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Implementation.md",
     "Attachments/2020-10-20_16-05-40-d768858f0f5ab25eb4082e5b2d0332cf.gif",
     "Attachments/2020-10-20_15-51-40-5627f6616c19c5a17810133b49a1fbc2 1.png",
     "Attachments/2020-10-20_15-51-40-5627f6616c19c5a17810133b49a1fbc2.png",
-    "Attachments/2020-10-20_15-44-31-1906cb97c5380befcc9d9c09d2880032.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
