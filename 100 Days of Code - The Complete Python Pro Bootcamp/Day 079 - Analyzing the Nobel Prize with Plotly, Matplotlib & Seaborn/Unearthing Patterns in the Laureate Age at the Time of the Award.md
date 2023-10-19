@@ -40,7 +40,7 @@ How does the age of laureates vary by category?
 - In which prize category are the average winners the youngest?
 - You can also use Plotly to create the box plot if you like.
 
-#### Challenge 6
+## Challenge 6
 
 - Now use Seaborn's [`.lmplot()`](https://seaborn.pydata.org/generated/seaborn.lmplot.html?highlight=lmplot#seaborn.lmplot) and the `row` parameter to create 6 separate charts for each prize category. Again set `lowess` to `True`.
 - What are the winning age trends in each category?
@@ -56,7 +56,7 @@ First, we need to extract the year as a number from the `birth_date` column:
 
 Now we can work out the age at the time of the award:
 
-`1. df_data['winning_age'] = df_data.year - birth_years
+`1. df_data['winning_age'] = df_data.year - birth_years`
 
 Solution 2: Oldest and Youngest Winners
 
