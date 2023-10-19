@@ -128,3 +128,43 @@ The box plot shows us the mean, the quartiles, the maximum and the minimum value
 
 ![[2020-10-20_17-23-05-5e95226b748f8a0e7a4ce93dcfad6064.png|500]]
 
+## Solution 6: Laureate Age over Time by Category
+
+To get a more complete picture, we should look at how the age of winners has changed over time. The box plot above looked at the dataset as a whole.
+
+```python
+1. with sns.axes_style('whitegrid'):
+2.     sns.lmplot(data=df_data,
+3.                x='year', 
+4.                y='winning_age',
+5.                row = 'category',
+6.                lowess=True, 
+7.                aspect=2,
+8.                scatter_kws = {'alpha': 0.6},
+9.                line_kws = {'color': 'black'},)
+
+11. plt.show()
+```
+
+We see that winners in physics, chemistry, and medicine have gotten older over time. The ageing trend is strongest for physics. The average age used to be below 50, but now it's over 70. Economics, the newest category, is much more stable in comparison. The peace prize shows the opposite trend where winners are getting younger! As such, our scatter plots showing the best fit lines over time and our box plot of the entire dataset can tell very different stories!
+
+![[2020-10-20_17-31-22-d66b1a164a613c588b625f824fd37dfa.gif|500]]
+
+To combine all these charts into the same chart, we can use the `hue` parameter
+
+```python
+1. with sns.axes_style("whitegrid"):
+2.     sns.lmplot(data=df_data,
+3.                x='year',
+4.                y='winning_age',
+5.                hue='category',
+6.                lowess=True, 
+7.                aspect=2,
+8.                scatter_kws={'alpha': 0.5},
+9.                line_kws={'linewidth': 5})
+10.
+11. plt.show()
+```
+
+![[2020-10-20_17-32-54-bd27d07d133eb4afa6b96be9fe335ed3.png|500]]
+
