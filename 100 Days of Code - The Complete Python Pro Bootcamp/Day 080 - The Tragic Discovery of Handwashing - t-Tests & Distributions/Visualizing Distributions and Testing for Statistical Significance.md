@@ -94,3 +94,13 @@ To create our histogram, we once again make use of the color parameter. This cre
 I quite like how in Plotly we can display our box plot from earlier at the top.
 
 ![[2020-10-23_14-49-58-3961b13cff88b2866bba7da183716a04.png|500]]
+
+Now, we have only about 98 data points or so, so our histogram looks a bit jagged. It's not a smooth bell-shaped curve. However, we can estimate what the distribution would look like with a Kernel Density Estimate (KDE).
+
+## Challenge 4: Use a Kernel Density Estimate (KDE) to visualise a smooth distribution
+
+Use [Seaborn's `.kdeplot()`](https://seaborn.pydata.org/generated/seaborn.kdeplot.html) to create two kernel density estimates of the `pct_deaths`, one for before handwashing and one for after.
+
+- Use the `shade` parameter to give your two distributions different colours.
+- What weakness in the chart do you see when you just use the default parameters?
+- Use the `clip` parameter to address the problem.
