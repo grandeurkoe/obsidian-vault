@@ -145,6 +145,21 @@ Use a t-test to determine if the differences in the means are statistically sign
 
 If the p-value is less than 1% then we can be 99% certain that handwashing has made a difference to the average monthly death rate.
 
-- Import `stats` from scipy
+- Import `stats` from `scipy`
 - Use the [`.ttest_ind()` function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) to calculate the t-statistic and the p-value
 - Is the difference in the average proportion of monthly deaths statistically significant at the 99% level?
+
+## Solution to Challenge 5
+
+The first step is to import stats from `scipy`
+
+`1. import scipy.stats as stats`
+
+When we calculate the `p_value` we see that it is 0.0000002985 or .00002985% which is far below even 1%. In other words, the difference in means is highly statistically significant and we can go ahead on publish our research paper 😊
+
+```python
+1. t_stat, p_value = stats.ttest_ind(a=before_washing.pct_deaths, 
+2.                                   b=after_washing.pct_deaths)
+3. print(f'p-palue is {p_value:.10f}')
+4. print(f't-statstic is {t_stat:.4}')
+```
