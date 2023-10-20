@@ -104,3 +104,47 @@ Use [Seaborn's `.kdeplot()`](https://seaborn.pydata.org/generated/seaborn.kdeplo
 - Use the `shade` parameter to give your two distributions different colours.
 - What weakness in the chart do you see when you just use the default parameters?
 - Use the `clip` parameter to address the problem.
+
+## Solution to Challenge 4
+
+To create two bell-shaped curves of the estimated distributions of the death rates we just call `.kdeplot()` twice.
+
+1. plt.figure(dpi=200)
+2. # By default the distribution estimate includes a negative death rate!
+3. sns.kdeplot(before_washing.pct_deaths, shade=True)
+4. sns.kdeplot(after_washing.pct_deaths, shade=True)
+5. plt.title('Est. Distribution of Monthly Death Rate Before and After Handwashing')
+6. plt.show()
+
+However, the problem is that we end up with a negative monthly death rate on the left tail. The doctors would be very surprised indeed if a corpse came back to life after an autopsy! 🧟‍♀️
+
+![[2020-10-23_14-59-53-0b2eb0809a34c6eb94983086e631800c.png|500]]
+
+The solution is to specify a lower bound of 0 for the death rate.
+
+```python
+1. plt.figure(dpi=200)
+2. sns.kdeplot(before_washing.pct_deaths, 
+3.             shade=True,
+4.             clip=(0,1))
+5. sns.kdeplot(after_washing.pct_deaths, 
+6.             shade=True,
+7.             clip=(0,1))
+8. plt.title('Est. Distribution of Monthly Death Rate Before and After Handwashing')
+9. plt.xlim(0, 0.40)
+10. plt.show()
+```
+
+![[2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png|500]]
+
+Now that we have an idea of what the two distributions look like, we can further strengthen our argument for handwashing by using a statistical test. We can test whether our distributions ended up looking so different purely by chance (i.e., the lower death rate is just an accident) or if the 8.4% difference in the average death rate is **statistically significant**.
+
+## Challenge 5: Use a T-Test to Show Statistical Significance
+
+Use a t-test to determine if the differences in the means are statistically significant or purely due to chance.
+
+If the p-value is less than 1% then we can be 99% certain that handwashing has made a difference to the average monthly death rate.
+
+- Import `stats` from scipy
+- Use the [`.ttest_ind()` function](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) to calculate the t-statistic and the p-value
+- Is the difference in the average proportion of monthly deaths statistically significant at the 99% level?
