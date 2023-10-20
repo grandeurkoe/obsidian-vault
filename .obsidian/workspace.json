@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "twin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md"
               }
             }
           },
@@ -160,6 +161,8 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
+    "Attachments/2020-10-23_11-06-31-76e4e6fbe90cd4edb47e9dee6eb3da5f.png",
     "Attachments/2020-10-23_10-52-34-6870fc442c6051d51df38af7904c328b.png",
     "Attachments/2020-10-23_10-48-41-6018a072a58ca120945dab55dbbdc651.png",
     "Attachments/2020-10-23_10-47-41-c48e37522afaa8f220c19a26a4c7ab73.png",
@@ -167,7 +170,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
     "Attachments/2020-10-23_10-38-09-9527e9a9d46107327b4fa76246c62b81.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions",
@@ -177,8 +179,6 @@
     "Attachments/2020-10-20_17-31-22-d66b1a164a613c588b625f824fd37dfa.gif",
     "Attachments/2020-10-20_17-23-05-5e95226b748f8a0e7a4ce93dcfad6064.png",
     "Attachments/2020-10-20_17-12-43-5144baca380dabc48a83b7f56107e44f.png",
-    "Attachments/2020-10-20_17-10-14-da5c8f344ae6c5029801d057b8fdc7da.png",
-    "Attachments/2020-10-20_17-08-21-9a93fed328b9fcb987fe7f1fe891213a.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",

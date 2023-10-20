@@ -38,3 +38,28 @@ How dangerous was childbirth in the 1840s in Vienna?
 - Using the annual data, calculate the percentage of women giving birth who died throughout the 1840s at the hospital.
 
 In comparison, the United States recorded 18.5 maternal deaths per 100,000 or 0.018% in 2013 [(source).](https://en.wikipedia.org/wiki/Maternal_death#:~:text=The%20US%20has%20the%20%22highest,17.8%20per%20100%2C000%20in%202009)
+
+## Solution to Challenge 2
+
+Childbirth was very risky! About 7.08% of women died 💀 in the 1840s (compared to 0.018% in the US in 2013).
+
+```python
+1. prob = df_yearly.deaths.sum() / df_yearly.births.sum() * 100
+2. print(f'Chances of dying in the 1840s in Vienna: {prob:.3}%')
+```
+
+If someone gave me a bag of 100 M&Ms and told me that 7 of them would kill me, I'd (probably) pass on those M&Ms 🤭. Just saying.
+
+#### Challenge 3: Visualise the Total Number of Births 🤱 and Deaths 💀 over Time
+
+Create a [Matplotlib chart](https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.pyplot.plot.html) with twin y-axes. It should look something like this:
+
+![[2020-10-23_11-06-31-76e4e6fbe90cd4edb47e9dee6eb3da5f.png|500]]
+
+- Format the x-axis using locators for the years and months (Hint: we did this in the Google Trends notebook)
+- Set the range on the x-axis so that the chart lines touch the y-axes
+- Add gridlines
+- Use `skyblue` and `crimson` for the line colours
+- Use a dashed line style for the number of deaths
+- Change the line thickness to 3 and 2 for the births and deaths respectively.
+- Do you notice anything in the late 1840s?
