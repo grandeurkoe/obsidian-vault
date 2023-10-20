@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "groupby",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md"
               }
             }
           },
@@ -161,24 +160,25 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
+    "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Analysis by Programming Language.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
     "Attachments/2020-10-23_11-32-45-1f1c814dd89d9e8102ff7642a53a3ecd.png",
     "Attachments/2020-10-23_11-31-13-b5897c5011eadac9f54e6956b30d4f97.png",
     "Attachments/2020-10-23_11-22-51-ff500f4a9967079931e0e692b7c45ad3.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
     "Attachments/2020-10-23_11-16-35-039658c53b985fcbb11f9ffa26d074fd.png",
     "Attachments/2020-10-23_11-11-50-6276fcca4bbc46fa057415c170ba9189.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Unemployment How to use Grids.md",
     "Attachments/2020-10-23_11-06-31-76e4e6fbe90cd4edb47e9dee6eb3da5f.png",
     "Attachments/2020-10-23_10-52-34-6870fc442c6051d51df38af7904c328b.png",
     "Attachments/2020-10-23_10-48-41-6018a072a58ca120945dab55dbbdc651.png",
     "Attachments/2020-10-23_10-47-41-c48e37522afaa8f220c19a26a4c7ab73.png",
-    "Attachments/2020-10-23_10-42-54-fb1af5f4e2bd231b283dabdaca8cc4c3.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/How to use the Pandas .agg() function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Plotly Bar & Donut Charts - Analyze Prize Categories & Women Winning Prizes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",

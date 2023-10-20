@@ -53,3 +53,55 @@ Calculate the proportion of maternal deaths per clinic. That way we can compare 
 - Create another Plotly line chart to see how the percentage varies year over year with the two different clinics.
 - Which clinic has a higher proportion of deaths?
 - What is the highest monthly death rate in clinic 1 compared to clinic 2?
+
+## Solution to Challenge 2
+
+We can add a new column that has the percentage of deaths for each row like this: 
+
+`1. df_yearly['pct_deaths'] = df_yearly.deaths / df_yearly.births`
+
+The average death rate for the entire time period for clinic 1 is:
+
+```python
+1. clinic_1 = df_yearly[df_yearly.clinic == 'clinic 1']
+2. avg_c1 = clinic_1.deaths.sum() / clinic_1.births.sum() * 100
+3. print(f'Average death rate in clinic 1 is {avg_c1:.3}%.')
+```
+
+9.92%. In comparison, clinic 2 which was staffed by midwives had a much lower death rate of 3.88% over the course of the entire period. Hmm... 🤔
+
+```python
+1. clinic_2 = df_yearly[df_yearly.clinic == 'clinic 2']
+2. avg_c2 = clinic_2.deaths.sum() / clinic_2.births.sum() * 100
+3. print(f'Average death rate in clinic 2 is {avg_c2:.3}%.')
+```
+
+Once again, let's see this on a chart
+
+```python
+1. line = px.line(df_yearly, 
+2.                x='year', 
+3.                y='pct_deaths',
+4.                color='clinic',
+5.                title='Proportion of Yearly Deaths by Clinic')
+6.
+7. line.show()
+```
+
+1842 was a rough year. About 16% of women died in clinic 1 and about 7.6% of women died in clinic 2.
+
+![[2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png|500]]
+
+Still, clinic 2 had a consistently lower death rate than clinic 1! This is what puzzled and frustrated Dr. Semmelweis.
+
+**The story continues...**
+
+At first, Dr. Semmelweis thought that the position of the women giving birth was the issue. In clinic 2, the midwives' clinic, women gave birth on their sides. In the doctors' clinic, women gave birth on their backs. So, Dr. Semmelweis, had women in the doctors' clinic give birth on their sides. However, this had no effect on the death rate.
+
+Next, Dr Semmelweis noticed that whenever someone on the ward died, a priest would walk through clinic 1, past the women's beds ringing a bell 🔔. Perhaps the priest and the bell ringing terrified the women so much after birth that they developed a fever, got sick and died. Dr Semmelweis had the priest change his route and stop ringing the bell 🔕. Again, this had no effect.
+
+At this point, Dr Semmelweis was so frustrated he went on holiday to Venice. Perhaps a short break would clear his head. When Semmelweis returned from his vacation, he was told that one of his colleagues, a pathologist, had fallen ill and died. His friend had pricked his finger while doing an autopsy on a woman who had died from childbed fever and subsequently got very sick himself and died. 😮
+
+Looking at the pathologist's symptoms, Semmelweis realised the pathologist died from the same thing as the women he had autopsied.  This was his breakthrough: anyone could get sick from childbed fever, not just women giving birth!
+
+This is what led to Semmelweis' new theory. Perhaps there were little pieces or particles of a corpse that the doctors and medical students were getting on their hands while dissecting the cadavers during an autopsy. And when the doctors delivered the babies in clinic 1, these particles would get inside the women giving birth who would then develop the disease and die.
