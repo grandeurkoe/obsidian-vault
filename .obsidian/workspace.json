@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md"
               }
             }
           },
@@ -161,6 +160,8 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "Attachments/2020-10-23_11-31-13-b5897c5011eadac9f54e6956b30d4f97.png",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
     "Attachments/2020-10-23_11-22-51-ff500f4a9967079931e0e692b7c45ad3.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Preliminary Data Exploration and Visualizing Births & Deaths at Vienna Hospital.md",
@@ -187,7 +188,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/NumPy.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
