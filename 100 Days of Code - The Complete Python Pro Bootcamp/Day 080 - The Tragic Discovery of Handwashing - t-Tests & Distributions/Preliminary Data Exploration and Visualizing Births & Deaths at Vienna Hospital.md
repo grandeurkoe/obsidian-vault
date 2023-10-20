@@ -59,7 +59,7 @@ Create a [Matplotlib chart](https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.
 - Format the x-axis using locators for the years and months (Hint: we did this in the Google Trends notebook)
 - Set the range on the x-axis so that the chart lines touch the y-axes
 - Add gridlines
-- Use `skyblue` and `crimson` for the line colours
+- Use `skyblue` and `crimson` for the line colors
 - Use a dashed line style for the number of deaths
 - Change the line thickness to 3 and 2 for the births and deaths respectively.
 - Do you notice anything in the late 1840s?
