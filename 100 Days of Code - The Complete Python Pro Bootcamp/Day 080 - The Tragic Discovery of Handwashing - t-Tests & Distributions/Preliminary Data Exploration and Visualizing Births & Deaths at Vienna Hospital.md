@@ -63,3 +63,81 @@ Create a [Matplotlib chart](https://matplotlib.org/3.3.2/api/_as_gen/matplotlib.
 - Use a dashed line style for the number of deaths
 - Change the line thickness to 3 and 2 for the births and deaths respectively.
 - Do you notice anything in the late 1840s?
+
+## Solution to Challenge 3
+
+Just as in previous notebooks we can use `.twinx()` to create to y-axes. Then it's just a matter of adding a gird with `.grid()` and configuring the look of our plots with the `color`, `linewidth`, and `linestyle` parameters.
+
+```python
+1. plt.figure(figsize=(14,8), dpi=200)
+2. plt.title('Total Number of Monthly Births and Deaths', fontsize=18)
+3.
+4. ax1 = plt.gca()
+5. ax2 = ax1.twinx()
+6.
+7. ax1.grid(color='grey', linestyle='--')
+8.
+9. ax1.plot(df_monthly.date, 
+10.          df_monthly.births, 
+11.          color='skyblue', 
+12.          linewidth=3)
+13.
+14. ax2.plot(df_monthly.date, 
+15.          df_monthly.deaths, 
+16.          color='crimson', 
+17.          linewidth=2, 
+18.          linestyle='--')
+19.
+20. plt.show()
+```
+
+![[2020-10-23_11-11-50-6276fcca4bbc46fa057415c170ba9189.png|500]]
+
+To get the tick marks showing up on the x-axis, we need to use `mdates` and Matplotlib's locators.
+
+```python
+1. # Create locators for ticks on the time axis
+2. years = mdates.YearLocator()
+3. months = mdates.MonthLocator()
+4. years_fmt = mdates.DateFormatter('%Y') 
+```
+
+We can then use the locators in our chart:
+
+```python
+1. plt.figure(figsize=(14,8), dpi=200)
+2. plt.title('Total Number of Monthly Births and Deaths', fontsize=18)
+3. plt.yticks(fontsize=14)
+4. plt.xticks(fontsize=14, rotation=45)
+5.
+6. ax1 = plt.gca()
+7. ax2 = ax1.twinx()
+8.
+9. ax1.set_ylabel('Births', color='skyblue', fontsize=18)
+10. ax2.set_ylabel('Deaths', color='crimson', fontsize=18)
+11.
+12. # Use Locators
+13. ax1.set_xlim([df_monthly.date.min(), df_monthly.date.max()])
+14. ax1.xaxis.set_major_locator(years)
+15. ax1.xaxis.set_major_formatter(years_fmt)
+16. ax1.xaxis.set_minor_locator(months)
+17.
+18. ax1.grid(color='grey', linestyle='--')
+19.
+20. ax1.plot(df_monthly.date, 
+21.          df_monthly.births, 
+22.          color='skyblue', 
+23.          linewidth=3)
+24.
+25. ax2.plot(df_monthly.date, 
+26.          df_monthly.deaths, 
+27.          color='crimson', 
+28.          linewidth=2, 
+29.          linestyle='--')
+30.
+31. plt.show()
+```
+
+![[2020-10-23_11-16-35-039658c53b985fcbb11f9ffa26d074fd.png|500]]
+
+What we see is that something happened after 1847. The total number of deaths seems to have dropped, despite an increasing number of births! 🤔
