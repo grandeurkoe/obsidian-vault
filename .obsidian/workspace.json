@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md"
               }
             }
           },
@@ -159,13 +158,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68b0ef6996ebb6e4",
+  "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing the Yearly Data Split By Clinic.md",
     "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Create Sunburst Charts for a Detailed Regional Breakdown of Research Locations.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Analysis by Programming Language.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
