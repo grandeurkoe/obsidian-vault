@@ -167,4 +167,3 @@ To combine all these charts into the same chart, we can use the `hue` parameter
 ```
 
 ![[2020-10-20_17-32-54-bd27d07d133eb4afa6b96be9fe335ed3.png|500]]
-

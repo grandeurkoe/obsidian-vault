@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +158,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aca5f6f690d7a5f",
+  "active": "ca14253c45e25a5f",
   "lastOpenFiles": [
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Learning Points & Summary.md",
