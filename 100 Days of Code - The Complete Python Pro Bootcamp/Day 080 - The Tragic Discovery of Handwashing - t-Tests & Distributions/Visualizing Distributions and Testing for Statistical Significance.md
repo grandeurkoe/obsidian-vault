@@ -35,3 +35,38 @@ The statistic above is impressive, but how do we show it graphically? With a bo
 - Use [NumPy's `.where()` function](https://numpy.org/doc/stable/reference/generated/numpy.where.html) to add a column to `df_monthly` that shows if a particular date was before or after the start of handwashing.
 - Then use Plotly to create box plot of the data before and after handwashing.
 - How did key statistics like the mean, max, min, 1st and 3rd quartile changed as a result of the new policy
+
+## Solution to Challenge 2
+
+The easiest way to create a box plot is to have a column in our DataFrame that shows the rows' "category" (i.e., was it before or after obligatory handwashing). NumPy allows us to easily test for a condition and add a column of data.
+
+`1. df_monthly['washing_hands'] = np.where(df_monthly.date < handwashing_start, 'No', 'Yes')`
+
+Now we can use plotly:
+
+```python
+1. box = px.box(df_monthly, 
+2.              x='washing_hands', 
+3.              y='pct_deaths',
+4.              color='washing_hands',
+5.              title='How Have the Stats Changed with Handwashing?')
+6.
+7. box.update_layout(xaxis_title='Washing Hands?',
+8.                   yaxis_title='Percentage of Monthly Deaths',)
+9.
+10. box.show()
+```
+
+![[2020-10-23_14-39-42-eb859925d7e636d7244c6b410bad919b.png|500]]
+
+The plot shows us the same data as our Matplotlib chart, but from a different perspective. Here we also see the massive spike in deaths in late 1842. Over 30% of women who gave birth that month died in hospital. What we also see in the box plot is how not only did the average death rate come down, but so did the overall range - we have a lower max and 3rd quartile too. Let's take a look at a histogram to get a better sense of the distribution.
+
+## Challenge 3: Use Histograms to Visualise the Monthly Distribution of Outcomes
+
+Create a [plotly histogram](https://plotly.com/python/histograms/) to show the monthly percentage of deaths.
+
+- Use docs to check out the available parameters. Use the [`color` parameter](https://plotly.github.io/plotly.py-docs/generated/plotly.express.histogram.html) to display two overlapping histograms.
+- The time period of handwashing is shorter than not handwashing. Change `histnorm` to `percent` to make the time periods comparable.
+- Make the histograms slightly transparent
+- Experiment with the number of bins on the histogram. Which number works well in communicating the range of outcomes?
+- Just for fun, display your box plot on the top of the histogram using the `marginal` parameter
