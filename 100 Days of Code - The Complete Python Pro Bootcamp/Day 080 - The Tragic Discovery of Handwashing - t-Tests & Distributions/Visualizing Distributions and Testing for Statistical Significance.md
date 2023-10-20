@@ -70,3 +70,27 @@ Create a [plotly histogram](https://plotly.com/python/histograms/) to show the m
 - Make the histograms slightly transparent
 - Experiment with the number of bins on the histogram. Which number works well in communicating the range of outcomes?
 - Just for fun, display your box plot on the top of the histogram using the `marginal` parameter
+
+## Solution to Challenge 3
+
+To create our histogram, we once again make use of the color parameter. This creates two separate histograms for us. When we set the opacity to 0.6 or so we can clearly see how the histograms overlap. The trick to getting a sensible-looking histogram when you have a very different number of observations is to set the `histnorm` to 'percent'. That way the histogram with more observations won't completely overshadow the shorter series.
+
+```python
+1. hist = px.histogram(df_monthly, 
+2.                    x='pct_deaths', 
+3.                    color='washing_hands',
+4.                    nbins=30,
+5.                    opacity=0.6,
+6.                    barmode='overlay',
+7.                    histnorm='percent',
+8.                    marginal='box',)
+9.
+10. hist.update_layout(xaxis_title='Proportion of Monthly Deaths',
+11.                    yaxis_title='Count',)
+12.
+13. hist.show()
+```
+
+I quite like how in Plotly we can display our box plot from earlier at the top.
+
+![[2020-10-23_14-49-58-3961b13cff88b2866bba7da183716a04.png|500]]
