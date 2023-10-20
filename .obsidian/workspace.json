@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rolling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9aca5f6f690d7a5f",
+  "active": "68b0ef6996ebb6e4",
   "lastOpenFiles": [
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
     "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
