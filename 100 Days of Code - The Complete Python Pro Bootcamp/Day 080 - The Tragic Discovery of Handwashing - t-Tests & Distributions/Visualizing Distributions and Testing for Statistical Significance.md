@@ -109,12 +109,14 @@ Use [Seaborn's `.kdeplot()`](https://seaborn.pydata.org/generated/seaborn.kdeplo
 
 To create two bell-shaped curves of the estimated distributions of the death rates we just call `.kdeplot()` twice.
 
+```python
 1. plt.figure(dpi=200)
 2. # By default the distribution estimate includes a negative death rate!
 3. sns.kdeplot(before_washing.pct_deaths, shade=True)
 4. sns.kdeplot(after_washing.pct_deaths, shade=True)
 5. plt.title('Est. Distribution of Monthly Death Rate Before and After Handwashing')
 6. plt.show()
+```
 
 However, the problem is that we end up with a negative monthly death rate on the left tail. The doctors would be very surprised indeed if a corpse came back to life after an autopsy! 🧟‍♀️
 

@@ -13,7 +13,7 @@ Well done, Doctor! With your thorough analysis and compelling visualizations of 
 - How to add and configure a Legend in Matplotlib.
 - Use NumPy's `.where()` function to process elements depending on a condition.
 
-**The Tragic Story of Dr Semmelweis**
+**The Tragic Story of Dr. Semmelweis**
 
 Gather round, gather round. Now I'll tell you how our story ends. Despite the incredible evidence in favor of Dr. Semmelweis' theory - that childbed fever was caused by some "substance" (which today we know as bacteria) from autopsy room corpses - was rejected by the medical community at the time. But why?! 
 
