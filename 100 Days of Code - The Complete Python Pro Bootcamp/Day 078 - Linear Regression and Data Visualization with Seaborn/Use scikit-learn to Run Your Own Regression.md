@@ -59,8 +59,10 @@ What about the slope? The slope tells us that for every extra $1 in the budget,
 
 One measure of figuring out how well our model fits our data is by looking at a metric called r-squared. This is a good number to look at in addition to eyeballing our charts.
 
+```python
 1. # R-squared
 2. regression.score(X, y)
+```
 
 We see that our r-squared comes in at around 0.558. This means that our model explains about 56% of the variance in movie revenue. That's actually pretty amazing, considering we've got the simplest possible model, with only one explanatory variable. The real world is _super complex_, so in many academic circles, if a researcher can build a simple model that explains over 50% or so of what is actually happening, then it's a pretty decent model.
 
