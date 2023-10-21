@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Use scikit-learn to Run Your Own Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scatter",
+                "query": "regress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Use scikit-learn to Run Your Own Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Use scikit-learn to Run Your Own Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Use scikit-learn to Run Your Own Regression.md"
               }
             }
           },
@@ -161,17 +161,18 @@
   },
   "active": "9aca5f6f690d7a5f",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Using Matplotlib to Visualise Trends over Time.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Unearthing Patterns in the Laureate Age at the Time of the Award.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Seaborn Data Visualization - Bubble Charts.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Scatter Plots - Average Number of Parts per LEGO Set.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Plotly Bar Charts & Scatter Plots - The Most Competitive & Popular App Categories.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Use scikit-learn to Run Your Own Regression.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Generating and Manipulating ndarrays.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Broadcasting, Scalars and Matrix Multiplication.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/A Choropleth Map and the Countries with the Most Prizes.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Learning Points & Summary.md",
@@ -187,7 +188,6 @@
     "Attachments/2020-10-23_14-39-42-eb859925d7e636d7244c6b410bad919b.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Visualization - Bitcoin Line Style and Markers.md",
     "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
     "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Analysis by Programming Language.md",
