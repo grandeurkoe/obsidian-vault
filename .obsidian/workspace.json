@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf499168297ed569",
+        "id": "dadb607879bc25f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d5f153fb5fa7cfc0",
+            "id": "3f82f90088e6e858",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+              }
             }
           },
           {
@@ -150,8 +156,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d5f153fb5fa7cfc0",
+  "active": "3f82f90088e6e858",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Explore and Clean the Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
@@ -183,10 +191,8 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Learning Points & Summary.md",
     "Attachments/2020-10-23_14-39-42-eb859925d7e636d7244c6b410bad919b.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Grouped Bar Charts and Box Plots with Plotly.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/The Effect of Handwashing.md",
     "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
     "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Analysis by Programming Language.md",
     "Attachments/2020-10-23_11-32-45-1f1c814dd89d9e8102ff7642a53a3ecd.png",
     "Attachments/2020-10-23_11-31-13-b5897c5011eadac9f54e6956b30d4f97.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions",
