@@ -7,6 +7,6 @@
   "persistent-graph",
   "url-into-selection",
   "templater-obsidian",
-  "obsidian-git",
-  "obsidian-wakatime"
+  "obsidian-wakatime",
+  "obsidian-git"
 ]
