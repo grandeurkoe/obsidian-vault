@@ -1,12 +1,10 @@
 [
   "table-editor-obsidian",
-  "dataview",
   "obsidian-smart-typography",
   "obsidian-plugin-update-tracker",
   "obsidian-scroll-offset",
   "persistent-graph",
   "url-into-selection",
-  "templater-obsidian",
   "obsidian-wakatime",
   "obsidian-git"
 ]
