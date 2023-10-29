@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "requirem",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md"
               }
             }
           },
@@ -159,6 +158,25 @@
   },
   "active": "78bf71d9bb4a85a0",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Understanding Color Theory.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Bootstrap Framework.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Bootstrap Spacing.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Bootstrap Layout.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/Content Division Element.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/CSS Colors.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/Font Properties.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/The Box Model.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Why do we need CSS.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Heading Element.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Installing packages and the requirements.txt.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
@@ -166,29 +184,10 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Parsing HTML and Making Soup.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Web Scraping with BeautifulSoup.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Is Web Scraping legal.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Finding and Selecting Particular Elements with BeautifulSoup.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 047 - Automated Amazon Price Tracker/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
-    "day-080-t-tests-and-distributions/dr-semmesweis-handwashing-analysis.md",
     "day-080-t-tests-and-distributions",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Explore and Clean the Data.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Use scikit-learn to Run Your Own Regression.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Plotting Linear Regressions with Seaborn.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
