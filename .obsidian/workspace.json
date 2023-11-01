@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "smtp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 285.5
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md"
               }
             }
           },
@@ -142,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,32 +160,32 @@
   },
   "active": "78bf71d9bb4a85a0",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Understanding Color Theory.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Bootstrap Framework.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Bootstrap Spacing.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 058 - Bootstrap Framework/Bootstrap Layout.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/Content Division Element.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/CSS Colors.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/Font Properties.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 044 - Intermediate CSS/The Box Model.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Why do we need CSS.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Heading Element.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Installing packages and the requirements.txt.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Accessing Columns and Individual Cells in a Dataframe.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Preliminary Data Exploration and Data Cleaning with Pandas.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 064 - My Top 10 Movie Website/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLite Database.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLAlchemy.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Templating with Jinja.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "day-080-t-tests-and-distributions",
