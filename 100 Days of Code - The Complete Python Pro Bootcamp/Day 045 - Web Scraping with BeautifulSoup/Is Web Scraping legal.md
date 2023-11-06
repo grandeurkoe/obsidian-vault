@@ -2,7 +2,7 @@
 
 If it isn't behind an authentication or captcha then scraping is permissible.
 
-Anything available publicly is open to web scraping.
+Anything available publicly is open to [web scraping](Web%20Scraping%20with%20BeautifulSoup.md).
 
 To see if what kind of scraping is disallowed by websites, type robots.txt at the end of the url. Like this -
 

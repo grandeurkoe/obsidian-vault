@@ -1,6 +1,6 @@
 # API Authentication
 
-Most API services provide a free tier for education purposes.
+Most [[Application Programming Interfaces (APIs)]] services provide a free tier for education purposes.
 
 But how do you make sure that the API free tier is not being exploited. That’s where API Key comes into picture.
 

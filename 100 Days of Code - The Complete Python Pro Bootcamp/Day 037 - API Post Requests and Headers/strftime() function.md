@@ -1,6 +1,6 @@
 # `strftime()` function
 
- The strftime() function allows us to format the date that we get from datetime into any format that we want.
+ The strftime() function allows us to format the date that we get from [[datetime module]] into any format that we want.
 ```python
 import datetime as dt
 datetime_today = dt.datetime.now()

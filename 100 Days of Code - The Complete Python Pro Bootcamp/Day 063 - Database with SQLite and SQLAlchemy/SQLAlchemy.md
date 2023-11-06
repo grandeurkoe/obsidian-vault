@@ -1,6 +1,6 @@
 # SQLAlchemy
 
-Writing SQL commands are complicated and error-prone. It would be much better if we could just write Python code and get the compiler to help us spot typos and errors in our code. That's why SQLAlchemy was created.
+Writing SQL commands are complicated and error-prone. It would be much better if we could just write Python code and get the compiler to help us spot typos and errors in our code. That's why [SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.1.x/quickstart/) was created.
 
 SQLAlchemy is defined as an ORM (Object Relational Mapping) library. This means that it's able to map the relationships in the database into Objects. Fields become Object properties. Tables can be defined as separate Classes and each row of data is a new Object.
 

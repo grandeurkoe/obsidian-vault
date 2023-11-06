@@ -1,6 +1,6 @@
 # API Parameters
 
-API Parameters allow you to give an input to an API.
+API Parameters allow you to give an input to an [[Application Programming Interfaces (APIs)]].
 
 You can create API Parameters as a dictionary -
 ```python

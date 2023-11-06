@@ -1,6 +1,6 @@
 # Parsing HTML and Making Soup
 
-Start by importing the BeautifulSoup class from the bs4 package by typing -
+Start by importing the [BeautifulSoup](Web%20Scraping%20with%20BeautifulSoup.md) class from the bs4 package by typing -
 ```python
 from bs4 import BeautifulSoup
 ```
@@ -18,7 +18,7 @@ Create an object of object of BeautifulSoup like this -
 soup = BeautifulSoup(contents, "html.parser")
 ```
 
-To get data from a certain html element you can type this -
+[To get data from a certain html element](Finding%20and%20Selecting%20Particular%20Elements%20with%20BeautifulSoup.md) you can type this -
 ```python
 print(soup.title)
 ```

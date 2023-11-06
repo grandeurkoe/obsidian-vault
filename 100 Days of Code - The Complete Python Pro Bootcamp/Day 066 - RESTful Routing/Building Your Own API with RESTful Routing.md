@@ -1,4 +1,4 @@
-# Building Your Own API with RESTful Routing
+# Building Your Own [[Application Programming Interfaces (APIs)]] with RESTful Routing
 
 REST stands for REpresentational State Transfer.
 
@@ -12,7 +12,7 @@ Gold standard for web APIs is REST.
 
 Rules for making an API RESTful -
 
-1. Use HTTP Request Verbs like - GET, POST, PUT, PATCH and DELETE.
+1. Use [[HTTP Requests]] Verbs like - GET, POST, PUT, PATCH and DELETE.
 2. Use Specific Pattern of Routes/Endpoint URLs.
 
 ![[Pasted image 20231010120201.png|500]]

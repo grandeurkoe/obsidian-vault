@@ -2,7 +2,7 @@
 
 However, often you'll find that you actually want to use the same design template for your entire website, but you might need to change some code in your header or footer. In these cases, it's better to use Template Inheritance instead.
 
-Template inheritance is similar to Class inheritance, you can take a parent template and extend its styling in your child web pages.
+[Template]((Templating%20with%20Jinja.md) inheritance is similar to Class inheritance, you can take a parent template and extend its styling in your child web pages.
 
 For example, if we create a base.html file that has the following code:
 

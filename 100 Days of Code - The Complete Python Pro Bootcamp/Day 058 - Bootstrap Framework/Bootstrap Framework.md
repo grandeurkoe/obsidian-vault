@@ -1,6 +1,6 @@
 # Bootstrap Framework
 
-Bootstrap framework is an external CSS layout systems.
+[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) framework is an [external CSS layout systems](How%20to%20add%20CSS.md).
 
 Bootstrap contains premade CSS files that we can include in our files to make use of their prebuilt components and styling.
 

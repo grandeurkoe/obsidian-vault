@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Version Control using Git and the Command Line.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1398e71f590e4382",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf"
               }
             }
           }
@@ -48,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smtp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +75,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Version Control using Git and the Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Version Control using Git and the Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 032 - Send Emails and Manage Dates/SMTP (smptlib).md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Version Control using Git and the Command Line.md"
               }
             }
           },
@@ -143,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,32 +168,34 @@
   },
   "active": "78bf71d9bb4a85a0",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 074 - Aggregate and  Merge Data with Pandas/Exploring the LEGO Brick Colours.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 073 - Data Visualization with Matplotlib/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Accessing Columns and Individual Cells in a Dataframe.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Preliminary Data Exploration and Data Cleaning with Pandas.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gitignore.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Github and Remote Repositories.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Forking and Pull Requests.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Cloning.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Branching and Merging.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 069 - Blog Capstone Project/Day 069 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Hacking Password 101.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Encryption and Hashing.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Day 068 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Day 067 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Day 066 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Day 065 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 064 - My Top 10 Movie Website/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLite Database.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLAlchemy.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 057 - Templating with Jinja in Flask App/Templating with Jinja.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 037 - API Post Requests and Headers/HTTP Requests.md",
+    "HTTP Request.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Understanding Color Theory.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Introduction to Web Design.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/User Interface Design.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/User Experience Design.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 065 - Web Design Principles/Understanding Typography and How to Choose Fonts.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 064 - My Top 10 Movie Website/Day 064 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLAlchemy.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/Day 063 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 063 - Database with SQLite and SQLAlchemy/SQLite Database.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "day-080-t-tests-and-distributions",
@@ -204,8 +214,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 077 - Computation with NumPy and N-Dimensional Array",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 076 - Beautiful Plotly Charts and Analyzing the Android App Store",
     "Attachments/Untitled.canvas"
   ]
 }

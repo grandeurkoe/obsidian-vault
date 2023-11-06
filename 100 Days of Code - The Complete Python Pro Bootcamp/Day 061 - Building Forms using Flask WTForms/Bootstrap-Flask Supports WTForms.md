@@ -1,6 +1,6 @@
 # Bootstrap-Flask Supports WTForms
 
-One of the main reasons why we're using Bootstrap-Flask in this project is because it has one of the most convenient methods for generating forms with WTForms.
+One of the main reasons why we're using [Bootstrap-Flask](https://bootstrap-flask.readthedocs.io/en/stable/) in this project is because it has one of the most convenient methods for generating forms with [WTForms](Flask%20WTForm.md).
 
 Literally, in 1 line of code, you can create your form. It's as simple as:
 ```html

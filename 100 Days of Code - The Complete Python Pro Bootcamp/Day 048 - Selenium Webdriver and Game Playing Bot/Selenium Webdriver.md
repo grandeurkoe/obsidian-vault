@@ -1,6 +1,6 @@
 # Selenium Webdriver
 
-Selenium Webdriver can be used for web scraping.
+[Selenium Webdriver](https://selenium-python.readthedocs.io/) can be used for [web scraping](Web%20Scraping%20with%20BeautifulSoup.md).
 
 Selenium Webdriver is one of the most popular automation and testing tools for web developers.
 

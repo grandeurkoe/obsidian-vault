@@ -1,4 +1,4 @@
-# Class Constructors and the `__init__()` Function
+# [Class Constructors and the `__init__()` Function](Python%20Syntax%20Cheat%20Sheet.pdf#page=15)
 
 If you want to initialize the attributes during the creation of an object. Then you have to use the `_ _ init_ _()` function.
 

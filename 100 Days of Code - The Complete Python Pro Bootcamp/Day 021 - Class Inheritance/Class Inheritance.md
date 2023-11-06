@@ -1,6 +1,6 @@
 # Class Inheritance
 
-Class inheritance allows other classes to inherit attributes and methods of another class.
+[Class inheritance](Python%20Syntax%20Cheat%20Sheet.pdf#page=16) allows other classes to inherit attributes and methods of another class.
 
 Class inheritance uses a hierarchical structure.
 

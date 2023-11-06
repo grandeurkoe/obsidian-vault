@@ -1,6 +1,6 @@
 # What is HTML?
 
-HTML stands for HyperText Markup Language.
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) stands for HyperText Markup Language.
 
 HyperText are pieces of text that link to other documents in the website.
 

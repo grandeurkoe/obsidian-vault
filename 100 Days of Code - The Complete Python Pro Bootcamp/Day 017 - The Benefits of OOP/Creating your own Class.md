@@ -1,4 +1,4 @@
-# Creating your own Class
+# [Creating your own Class](Python%20Syntax%20Cheat%20Sheet.pdf#page=16)
 
 You can create your own Class like this -
 ```python

@@ -1,4 +1,4 @@
-# Adding Methods to a Class
+# [Adding Methods to a Class](Python%20Syntax%20Cheat%20Sheet.pdf#page=15)
 
 You can create class methods like this -
 ```python

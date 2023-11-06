@@ -1,6 +1,6 @@
 # Constructing Objects and Accessing their Attributes and Methods
 
-## Classes and Objects
+## [Classes and Objects](Python%20Syntax%20Cheat%20Sheet.pdf#page=15)
 
 Classes are like blueprints.
 

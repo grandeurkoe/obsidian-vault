@@ -1,6 +1,8 @@
 # Introduction to Web development with Flask
 
-Flask is one of the most important frameworks for creating websites using Python.
+[Flask](Flask%20Cheat%20Sheet.pdf) is one of the most important frameworks for creating websites using Python.
+
+For flask documentation, go [here](https://flask.palletsprojects.com/en/2.3.x/quickstart/).
 
 Full Stack - Front end + Back end.
 

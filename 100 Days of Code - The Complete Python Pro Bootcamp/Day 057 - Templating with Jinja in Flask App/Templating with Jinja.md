@@ -1,10 +1,10 @@
 # Templating with Jinja
 
-Jinja is a templating language build for python.
+[Jinja](https://jinja.palletsprojects.com/en/2.11.x/templates/) is a templating language build for python.
 
 Jinja allows us to load the contents of our website dynamically.
 
-Jinja allows us to add python code into out html template files.
+Jinja allows us to add python code into out [html template](Rendering%20HTML%20and%20Static%20Files.md) files.
 
 Anything between two curly braces is evaluated as python code.
 

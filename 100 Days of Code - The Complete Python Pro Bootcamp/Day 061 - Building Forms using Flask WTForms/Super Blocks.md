@@ -6,7 +6,7 @@ The super keyword refers to the parent that the child is inheriting from. e.g If
 
 ![[Pasted image 20231009155019.png|200]]
 
-When we are inheriting templates. Sometimes, there's some part of the template that we want to keep, but we also want to add to it. So we can use super blocks in this case.
+When we are inheriting templates. Sometimes, there's some part of the [template](Templating%20with%20Jinja.md) that we want to keep, but we also want to add to it. So we can use super blocks in this case.
 
 Add the following code to your base.html:
 ```html
