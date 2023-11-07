@@ -11,8 +11,10 @@
             "id": "563c17d983aca8c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+              }
             }
           },
           {
@@ -150,6 +156,10 @@
   },
   "active": "563c17d983aca8c6",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
     "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
@@ -172,15 +182,11 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Day 070 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gitignore.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Github and Remote Repositories.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Forking and Pull Requests.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Cloning.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "day-080-t-tests-and-distributions",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
