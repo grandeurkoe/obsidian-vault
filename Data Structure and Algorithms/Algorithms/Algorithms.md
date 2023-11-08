@@ -1,3 +1,3 @@
 # Algorithms
 
-Algorithms are the step in a process that we take to perform a desired action with computers.
+Algorithms are step-by-step sets of instructions or procedures designed to solve specific problems or perform tasks. They are fundamental to computer science and play a crucial role in various fields, including mathematics, data analysis, artificial intelligence, and more. Algorithms provide a systematic way to address complex problems and can be implemented in various programming languages or as part of software applications.

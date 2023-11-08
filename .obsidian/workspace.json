@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8548748ab42f27d0",
+        "id": "9d7f655a8e9e148b",
         "type": "tabs",
         "children": [
           {
-            "id": "563c17d983aca8c6",
+            "id": "96e4a9f383b830bb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
+                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
+                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md"
               }
             }
           },
@@ -154,12 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "563c17d983aca8c6",
+  "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
+    "Data Structure and Algorithms/Algorithms/Algorithms.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
     "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
@@ -168,8 +172,6 @@
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
-    "Data Structure and Algorithms/Algorithms/Algorithms.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Day Implementation.md",
@@ -184,7 +186,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Day 070 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gitignore.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Github and Remote Repositories.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "day-080-t-tests-and-distributions",
