@@ -4,11 +4,11 @@ Python is an interpreted language, which means that it is not compiled into mach
 
 ## Python Code Execution Overview
 
-### Source Code
+### 1. Source Code
 
 Python code is typically written in plain text files with a `.py` extension. These files contain the source code written by the developer.
 
-### Lexical Analysis 
+### 2. Lexical Analysis 
 
 When you run a Python script, the Python interpreter first performs lexical analysis (tokenization) on the source code. During this process, the code is broken down into individual tokens, such as keywords, identifiers, operators, and literals.
 
@@ -45,23 +45,23 @@ Literals are constant values that appear directly in the source code of a progra
 - Boolean literals: Represent either `True` or `False`.
 - None literal: Represents the absence of a value and is denoted as `None`.
 
-### Parsing
+### 3. Parsing
 
 After tokenization, the Python interpreter parses the code to create an abstract syntax tree (AST). The AST represents the structure of the code and how different parts of the code relate to each other.
 
-### Compilation to Bytecode
+### 4. Compilation to Bytecode
 
 The parsed code is then compiled into Python bytecode. Python bytecode is a lower-level representation of the code that is closer to machine code, but it is still not directly executable by the CPU. Bytecode files are typically saved with a `.pyc` extension.
 
-### Virtual Machine Execution
+### 5. Virtual Machine Execution
 
 The Python interpreter runs a virtual machine that executes the bytecode. It reads the bytecode instructions and performs the corresponding operations.
 
-### Dynamic Typing
+### 6. Dynamic Typing
 
 Python is a dynamically typed language, which means that variable types are determined at runtime. The interpreter handles dynamic typing by checking variable types and performing type conversions as needed during execution.
 
-### Standard Library and External Modules
+### 7. Standard Library and External Modules
 
 Standard Library and External Modules: Python has a rich standard library and supports external modules and libraries. These modules and libraries are typically written in Python or other languages like C or C++. When you import a module, the Python interpreter loads and executes the corresponding code.
 
