@@ -51,7 +51,7 @@ After tokenization, the Python interpreter parses the code to create an abstract
 
 ### Compilation to Bytecode
 
-Compilation to Bytecode: The parsed code is then compiled into Python bytecode. Python bytecode is a lower-level representation of the code that is closer to machine code, but it is still not directly executable by the CPU. Bytecode files are typically saved with a `.pyc` extension.
+The parsed code is then compiled into Python bytecode. Python bytecode is a lower-level representation of the code that is closer to machine code, but it is still not directly executable by the CPU. Bytecode files are typically saved with a `.pyc` extension.
 
 ### Virtual Machine Execution
 
@@ -59,7 +59,7 @@ The Python interpreter runs a virtual machine that executes the bytecode. It rea
 
 ### Dynamic Typing
 
-Dynamic Typing: Python is a dynamically typed language, which means that variable types are determined at runtime. The interpreter handles dynamic typing by checking variable types and performing type conversions as needed during execution.
+Python is a dynamically typed language, which means that variable types are determined at runtime. The interpreter handles dynamic typing by checking variable types and performing type conversions as needed during execution.
 
 ### Standard Library and External Modules
 
