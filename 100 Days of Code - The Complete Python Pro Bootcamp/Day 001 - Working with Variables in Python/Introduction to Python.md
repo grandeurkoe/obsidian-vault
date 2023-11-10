@@ -12,11 +12,11 @@ Python code is typically written in plain text files with a `.py` extension. The
 
 When you run a Python script, the Python interpreter first performs lexical analysis (tokenization) on the source code. During this process, the code is broken down into individual tokens, such as keywords, identifiers, operators, and literals.
 
-**Keywords**
+**1. Keywords**
 
 Keywords, also known as reserved words, are a set of predefined words in a programming language that have special meanings and purposes. They cannot be used as identifiers (variable or function names) because they are reserved for specific language features. In Python, some examples of keywords include `if`, `else`, `while`, `for`, `class`, `def`, `import`, and `return`.
 
-**Identifiers**
+**2.Identifiers**
 
 Identifiers are user-defined names used to represent variables, functions, classes, modules, or other entities in a program. Identifiers are created by the programmer and should follow certain rules and conventions:
 
@@ -26,7 +26,7 @@ Identifiers are user-defined names used to represent variables, functions, class
 - They cannot be the same as Python keywords.
 - It's good practice to use descriptive and meaningful names for identifiers to make your code more readable and maintainable.
 
-**Operators**
+**3. Operators**
 
 Operators are symbols or special tokens used to perform operations on operands, such as variables or literals. Python supports a wide range of operators, including arithmetic operators, comparison operators, logical operators, and assignment operators. Here are some examples:
 
@@ -35,7 +35,7 @@ Operators are symbols or special tokens used to perform operations on operands, 
 - Logical operators: `and` (logical AND), `or` (logical OR), `not` (logical NOT).
 - Assignment operators: `=` (assignment), `+=` (add and assign), `-=` (subtract and assign), `*=` (multiply and assign), `/=` (divide and assign), and so on.
 
-**Literals**
+**4. Literals**
 
 Literals are constant values that appear directly in the source code of a program. They represent data and have specific types. In Python, you can encounter various types of literals:
 
