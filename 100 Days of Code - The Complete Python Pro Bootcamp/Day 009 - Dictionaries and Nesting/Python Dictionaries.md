@@ -84,3 +84,33 @@ age = my_dict.get('age', 0)
 ```
 
 Dictionaries are commonly used for tasks such as storing configurations, representing JSON-like structures, or as a general-purpose mapping data structure in Python.
+
+### Can Keys in Python dictionary be integers?
+
+Yes, keys in a Python dictionary can be integers. In fact, keys can be of any immutable data type, including integers, strings, and tuples. This flexibility is one of the strengths of Python dictionaries. Here's an example with integer keys:
+
+```python
+# Dictionary with integer keys
+my_dict = {1: 'one', 2: 'two', 3: 'three'}
+
+# Accessing values using integer keys
+print(my_dict[1])  # Output: one
+print(my_dict[2])  # Output: two
+print(my_dict[3])  # Output: three
+```
+
+In this example, the keys are integers (`1`, `2`, `3`), and the corresponding values are strings (`'one'`, `'two'`, `'three'`).
+
+You can use a variety of data types as dictionary keys, and you can even mix different types within the same dictionary. However, it's important to note that keys must be immutable. This means that you can use numbers, strings, tuples, and other immutable types as keys, but you cannot use mutable types like lists as keys.
+
+Here's an example with mixed key types:
+
+```python
+mixed_dict = {1: 'one', 'two': 2, (3, 4): 'three-four'}
+
+print(mixed_dict[1])         # Output: one
+print(mixed_dict['two'])     # Output: 2
+print(mixed_dict[(3, 4)])     # Output: three-four
+```
+
+So, to summarize, integer keys are entirely valid and commonly used in Python dictionaries.
