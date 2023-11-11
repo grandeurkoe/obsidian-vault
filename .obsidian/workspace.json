@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Dictionaries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Dictionaries.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Day 007 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
@@ -187,7 +188,6 @@
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Day Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "day-080-t-tests-and-distributions",
