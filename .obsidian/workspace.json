@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Day 004 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Random Module.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python Nested List.md",
@@ -187,7 +188,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Day Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Explore and Clean the Data.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Learning Points & Summary.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Sorting Values & Adding Columns - Majors with the Most Potential vs Lowest Risk.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "day-080-t-tests-and-distributions",
