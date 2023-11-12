@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
@@ -185,7 +186,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Day 007 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Multiline Comments.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
