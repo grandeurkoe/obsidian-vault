@@ -63,6 +63,6 @@ Python is a dynamically typed language, which means that variable types are dete
 
 ### 7. Standard Library and External Modules
 
-Standard Library and External Modules: Python has a rich standard library and supports external modules and libraries. These modules and libraries are typically written in Python or other languages like C or C++. When you import a module, the Python interpreter loads and executes the corresponding code.
+Python has a rich standard library and supports external modules and libraries. These modules and libraries are typically written in Python or other languages like C or C++. When you import a module, the Python interpreter loads and executes the corresponding code.
 
 Python's interpretation process allows for a high degree of flexibility and is a key reason for its ease of use and readability. While Python is not compiled into machine code, it is still capable of delivering good performance through its bytecode execution and the use of native code in some of its libraries.
