@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Day 007 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Python join() method.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
@@ -183,7 +184,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Day 011 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Day 010 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Function with Outputs and Docstrings.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Day 009 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
