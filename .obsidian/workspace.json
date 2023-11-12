@@ -11,11 +11,9 @@
             "id": "96e4a9f383b830bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
-                "mode": "source",
-                "source": false
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
               }
             }
           },
@@ -157,8 +155,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Day 011 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
@@ -186,7 +185,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "Data Structure and Algorithms/Algorithms/Algorithms.md",
-    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
