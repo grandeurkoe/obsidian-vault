@@ -17,6 +17,8 @@ For a single input the Big O is O(1) and if the number of inputs is 10,000 the B
 
 This is also known as constant time. Here irrespective of the number of inputs the number of operation with remain constant.  
 
+The algorithm's performance is constant, regardless of the input size.
+
 This has no loops.
 
 O(1) is of good complexity
@@ -37,6 +39,8 @@ This is also known as linear time. Here n is an arbitrary variable. So, as the n
 
 O(n) is the most common Big O notation you will find.
 
+The performance is directly proportional to the size of the input.
+
 Common in algorithms with a `for` or a `while` loop.
 
 O(n) is of fair complexity.
@@ -55,12 +59,24 @@ This is also known as quadratic time. Here the number the operation will be squa
 
 Common in algorithms with two nested loops.
 
+The performance is proportional to the square of the size of the input.
+
 O(n^2) is of horrible complexity.
 
-## O (2^n)
+## [O (2^n)](Big%20O%20-%20Cheat%20Sheet.pdf)
+
+This is also known as exponential time.
+
+Common in recursive algorithm that solve a problem of size N.
+
+The performance doubles with each additional element in the input.
+
+O(2^n) is of horrible complexity.
 
 ## [O(n!)](Big%20O%20-%20Cheat%20Sheet.pdf)
 
 This is known as factorial time. Here the number of nested loops increase for every input.  
+
+The performance grows factorially with the size of the input.
 
 O(n!) is of horrible complexity. If you're doing this you've fucked up.
