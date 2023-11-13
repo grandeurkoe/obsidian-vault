@@ -37,6 +37,15 @@ O(n) is the most common Big O notation you will find.
 
 O(n) is of fair complexity.
 
+
+## [O(n log n)](Big%20O%20-%20Cheat%20Sheet.pdf)
+
+This is also known as linearithmic time.
+
+Common in efficient sorting algorithms like merge sort and heap sort.
+
+O()
+
 ## [O(n^2)](Big%20O%20-%20Cheat%20Sheet.pdf)
 
 This is also known as quadratic time. Here the number the operation will be square of the number of inputs.  
