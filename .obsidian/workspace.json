@@ -23,9 +23,11 @@
             "id": "b0867a7865077ced",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf"
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf"
+                "file": "Data Structure and Algorithms/Algorithms/Sorting.md"
               }
             }
           },
@@ -179,10 +181,20 @@
   },
   "active": "b0867a7865077ced",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
+    "Data Structure and Algorithms/Algorithms/Sorting.md",
+    "Data Structure and Algorithms/Algorithms/Algorithms.md",
+    "Data Structure and Algorithms/Data Structure/Array.md",
+    "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
+    "Data Structure and Algorithms/Data Structure/Trees.md",
+    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
+    "Data Structure and Algorithms/Data Structure/Linked List.md",
+    "Data Structure and Algorithms/Data Structure/Graphs.md",
+    "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
+    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
-    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
@@ -200,15 +212,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Python join() method.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Day 004 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python Nested List.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Random Module.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Multiline Comments.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Day 002 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
