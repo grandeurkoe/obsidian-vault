@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "183a5e84881a6459",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md"
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
               }
             }
           },
@@ -156,13 +167,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9af2d63de931c867",
+  "active": "183a5e84881a6459",
   "lastOpenFiles": [
-    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/What is Big O.md",
-    "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
+    "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
@@ -203,7 +214,6 @@
     "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
     "Attachments/2020-10-23_11-32-45-1f1c814dd89d9e8102ff7642a53a3ecd.png",
     "Attachments/2020-10-23_11-31-13-b5897c5011eadac9f54e6956b30d4f97.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions",
     "Attachments/Untitled.canvas"
   ]
 }
