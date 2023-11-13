@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "96e4a9f383b830bb",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Day 011 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Day 010 - Implementation.md",
@@ -185,7 +186,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
