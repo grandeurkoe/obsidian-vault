@@ -17,7 +17,7 @@ O(n) is the most common Big O notation you will find.
 O(n) is of fair complexity.
 ## O(1)
 
-For  a single input the Big O is O(1) and if the number of inputs is 10,000 the Big O is O(10000).  
+For a single input the Big O is O(1) and if the number of inputs is 10,000 the Big O is O(10000).  
 
 This is also known as constant time. Here irrespective of the number of inputs the number of operation with remain constant.  
 

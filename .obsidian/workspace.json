@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md"
               }
             }
           },
@@ -167,11 +166,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "183a5e84881a6459",
+  "active": "9af2d63de931c867",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
