@@ -17,6 +17,8 @@ For a single input the Big O is O(1) and if the number of inputs is 10,000 the B
 
 This is also known as constant time. Here irrespective of the number of inputs the number of operation with remain constant.  
 
+This has no loops.
+
 O(1) is of good complexity
 
 ## [O(log n)](Big%20O%20-%20Cheat%20Sheet.pdf)
@@ -35,8 +37,9 @@ This is also known as linear time. Here n is an arbitrary variable. So, as the n
 
 O(n) is the most common Big O notation you will find.
 
-O(n) is of fair complexity.
+Common in algorithms with a `for` or a `while` loop.
 
+O(n) is of fair complexity.
 
 ## [O(n log n)](Big%20O%20-%20Cheat%20Sheet.pdf)
 
@@ -44,13 +47,17 @@ This is also known as linearithmic time.
 
 Common in efficient sorting algorithms like merge sort and heap sort.
 
-O()
+O(n log n) is of bad time complexity.
 
 ## [O(n^2)](Big%20O%20-%20Cheat%20Sheet.pdf)
 
 This is also known as quadratic time. Here the number the operation will be square of the number of inputs.  
 
+Common in algorithms with two nested loops.
+
 O(n^2) is of horrible complexity.
+
+## O (2^n)
 
 ## [O(n!)](Big%20O%20-%20Cheat%20Sheet.pdf)
 
