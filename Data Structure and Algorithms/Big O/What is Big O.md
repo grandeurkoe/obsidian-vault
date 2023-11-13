@@ -9,9 +9,9 @@ Big O helps us to ascertain the scalability of a executable code.
 Big O notation is used to figure out how long it takes for an algorithm to execute.
 
 Big O notation describes the worst-case scenario or the maximum amount of resources (time or space) an algorithm might use for a given input size. It provides an upper limit on the growth rate, which means the actual performance of the algorithm will not exceed the described complexity.
-Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf
 
-## O(1)
+Checkout the Big O complexity graph [here](Big%20O%2FBig%20O%20-%20Know%20Thy%20Complexities.pdf).
+## [O(1)](Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf)
 
 For a single input the Big O is O(1) and if the number of inputs is 10,000 the Big O is O(10000).  
 
@@ -19,7 +19,7 @@ This is also known as constant time. Here irrespective of the number of inputs t
 
 O(1) is of good complexity
 
-## O(log n)
+## [O(log n)](Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf)
 
 This is also known as logarithmic time.
 
@@ -29,22 +29,21 @@ Usually searching algorithms have log n if they are sorted (Binary Search).
 
 O(log n) is of good complexity.
 
-## O(n)
+## [O(n)](Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf)
 
 This is also known as linear time. Here n is an arbitrary variable. So, as the number of inputs increase the number of operations also increase linearly.  
 
 O(n) is the most common Big O notation you will find.
 
 O(n) is of fair complexity.
-.
 
-## O(n^2)
+## [O(n^2)](Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf)
 
 This is also known as quadratic time. Here the number the operation will be square of the number of inputs.  
 
 O(n^2) is of horrible complexity.
 
-## O(n!)
+## [O(n!)](Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf)
 
 This is known as factorial time. Here the number of nested loops increase for every input.  
 
