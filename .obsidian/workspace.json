@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf"
+                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
+                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
+                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf"
+                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf"
               }
             }
           },
@@ -179,12 +179,14 @@
   },
   "active": "b0867a7865077ced",
   "lastOpenFiles": [
-    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+    "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
+    "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
+    "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
+    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
-    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
+    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Day 011 - Implementation.md",
@@ -207,13 +209,11 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Type Checking and Type Conversion.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "day-080-t-tests-and-distributions",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
