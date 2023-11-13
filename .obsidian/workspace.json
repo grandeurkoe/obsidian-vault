@@ -17,8 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "3008de35d1a44e0c"
+            }
           },
           {
             "id": "b0867a7865077ced",
@@ -39,48 +38,6 @@
                 "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d4fb7ede3cdc7e21",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d119eadb18ed0bc6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "3008de35d1a44e0c"
           }
         ]
       }
@@ -221,11 +178,11 @@
   },
   "active": "9af2d63de931c867",
   "lastOpenFiles": [
-    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/What is Big O.md",
+    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+    "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
