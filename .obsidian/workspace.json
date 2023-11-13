@@ -11,11 +11,9 @@
             "id": "9af2d63de931c867",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
-                "mode": "source",
-                "source": false
+                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
+                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
+                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf"
+                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf"
               }
             }
           },
@@ -156,11 +154,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "9af2d63de931c867",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Big O/What is Big O.md",
+    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
@@ -173,7 +172,6 @@
     "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
-    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
