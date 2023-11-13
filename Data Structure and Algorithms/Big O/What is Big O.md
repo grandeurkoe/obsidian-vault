@@ -9,6 +9,7 @@ Big O helps us to ascertain the scalability of a executable code.
 Big O notation is used to figure out how long it takes for an algorithm to execute.
 
 Big O notation describes the worst-case scenario or the maximum amount of resources (time or space) an algorithm might use for a given input size. It provides an upper limit on the growth rate, which means the actual performance of the algorithm will not exceed the described complexity.
+Big%20O%2FBig%20O%20-%20Cheat%20Sheet.pdf
 
 ## O(1)
 
