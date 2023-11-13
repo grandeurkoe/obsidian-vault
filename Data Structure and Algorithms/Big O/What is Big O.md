@@ -8,6 +8,8 @@ Big O helps us to ascertain the scalability of a executable code.
 
 Big O notation is used to figure out how long it takes for an algorithm to execute.
 
+Big O notation describes the worst-case scenario or the maximum amount of resources (time or space) an algorithm might use for a given input size. It provides an upper limit on the growth rate, which means the actual performance of the algorithm will not exceed the described complexity.
+
 ## O(1)
 
 For a single input the Big O is O(1) and if the number of inputs is 10,000 the Big O is O(10000).  
@@ -21,6 +23,8 @@ O(1) is of good complexity
 This is also known as logarithmic time.
 
 The algorithm's performance grows logarithmically with the size of the input.
+
+Usually searching algorithms have log n if they are sorted (Binary Search).
 
 O(log n) is of good complexity.
 
