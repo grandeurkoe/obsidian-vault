@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b0867a7865077ced",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf"
-              }
-            }
-          },
-          {
-            "id": "183a5e84881a6459",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +156,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0867a7865077ced",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
