@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d7f655a8e9e148b",
+        "id": "316e96c0eeb75290",
         "type": "tabs",
         "children": [
           {
-            "id": "96e4a9f383b830bb",
+            "id": "9af2d63de931c867",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md"
+                "file": "Data Structure and Algorithms/Big O/What is Big O.md"
               }
             }
           },
@@ -156,10 +156,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "96e4a9f383b830bb",
+  "active": "9af2d63de931c867",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
+    "Data Structure and Algorithms/Big O/Big O Exercise.md",
+    "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
+    "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
+    "Data Structure and Algorithms/Big O/What is Big O.md",
+    "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Scope.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 012 - Scope/Day 012 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 011 - The Blackjack Capstone Project/Day 011 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Day 010 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Function with Outputs and Docstrings.md",
@@ -182,10 +187,8 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Number Manipulation and F String.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
-    "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "day-080-t-tests-and-distributions",
@@ -201,8 +204,6 @@
     "Attachments/2020-10-23_11-32-45-1f1c814dd89d9e8102ff7642a53a3ecd.png",
     "Attachments/2020-10-23_11-31-13-b5897c5011eadac9f54e6956b30d4f97.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 079 - Analyzing the Nobel Prize with Plotly, Matplotlib & Seaborn",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn",
     "Attachments/Untitled.canvas"
   ]
 }
