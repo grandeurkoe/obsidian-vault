@@ -3,7 +3,7 @@
 ## Exercise 01
 
 ```python
-def fun_challenge():
+def fun_challenge(input):
     a = 10    # O(1)
     a = 50 + 3    # O(1)
     for i in range(len(input)):    # O(n)
