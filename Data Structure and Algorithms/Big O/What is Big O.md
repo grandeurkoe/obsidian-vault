@@ -57,7 +57,7 @@ O(n log n) is of bad time complexity.
 
 This is also known as quadratic time. Here the number the operation will be square of the number of inputs.  
 
-Common in algorithms with two nested loops.
+Common in algorithms with a nested loop.
 
 The performance is proportional to the square of the size of the input.
 
