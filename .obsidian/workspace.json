@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md"
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
               }
             }
           },
@@ -204,12 +205,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "00755509b66537d3",
+  "active": "b12dd91caa090960",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
-    "Data Structure and Algorithms/Big O/What is Big O.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
