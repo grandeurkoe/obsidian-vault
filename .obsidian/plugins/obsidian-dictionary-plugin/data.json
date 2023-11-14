@@ -6,7 +6,7 @@
   "shouldShowCustomContextMenu": false,
   "apiSettings": {
     "en_US": {
-      "definitionApiName": "Google",
+      "definitionApiName": "Offline Dictionary",
       "synonymApiName": "Google"
     },
     "hi": {
