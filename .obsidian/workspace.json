@@ -176,14 +176,21 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "00755509b66537d3",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +203,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9af2d63de931c867",
+  "active": "00755509b66537d3",
   "lastOpenFiles": [
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
