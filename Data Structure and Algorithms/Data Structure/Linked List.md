@@ -41,7 +41,7 @@ Singly Linked Lists are used when there is a memory constraint.
 
 If you lose track of the head in a Singly List, all the data in the Singly Linked List can be lost to memory.
 
-Singly Linked List has  a faster insert, deletion , searching, etc., in comparison to Doubly Linked List.
+Singly Linked List has a faster insert, deletion , searching, etc., in comparison to Doubly Linked List.
 
 In a Doubly Linked List you can traverse from both the head and the tail.
 
