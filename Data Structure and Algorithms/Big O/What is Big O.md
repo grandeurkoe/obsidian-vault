@@ -15,7 +15,7 @@ Checkout the Big O complexity graph [here](Big%20O%20-%20Know%20Thy%20Complexiti
 
 For a single input the Big O is O(1) and if the number of inputs is 10,000 the Big O is O(10000).  
 
-This is also known as constant time. Here irrespective of the number of inputs the number of operation with remain constant.  
+This is also known as constant time. Here irrespective of the number of inputs the number of operation will remain constant.  
 
 The algorithm's performance is constant, regardless of the input size.
 

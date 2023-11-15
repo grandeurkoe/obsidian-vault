@@ -20,6 +20,45 @@
             }
           }
         ]
+      },
+      {
+        "id": "d1e51988af974c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "548fbd0fd183832c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf"
+              }
+            }
+          },
+          {
+            "id": "3869c39eb4b8a581",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
+              }
+            }
+          },
+          {
+            "id": "fea4b3781e3eb2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structure and Algorithms/Big O/Big O Exercise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Big O/What is Big O.md"
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
               }
             }
           },
@@ -164,13 +203,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9af2d63de931c867",
+  "active": "3869c39eb4b8a581",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/What is Big O.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
@@ -196,7 +235,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 008 - Function Parameters/Day 008 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Day 007 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Python join() method.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 006 - Python Functions/Day 006 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
