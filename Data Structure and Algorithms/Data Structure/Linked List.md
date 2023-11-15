@@ -31,7 +31,7 @@ Doubly Linked List consists of two pointer -
 
 In a doubly linked list we can traverse the list both from the front and the back.
 
-In a lookup operation, if the element to be looked up is closer to the front or the back is known then we can save a lot of time.
+In a lookup operation, if we know whether the element to be looked up is closer to the front or the back, we can save a lot of time.
 
 ## Singly Linked List vs Doubly Linked List
 
