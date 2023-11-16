@@ -29,7 +29,7 @@ Doubly Linked List consists of two pointer -
 1. The 'next' pointer that points to the next node in the Linked List.
 2. The 'previous' pointer that points to the previous node in the Linked List.
 
-In a doubly linked list we can traverse the list both from the front and the back.
+In a doubly linked list, we can traverse the list both from the front and the back.
 
 In a lookup operation, if we know whether the element to be looked up is closer to the front or the back, we can save a lot of time.
 
