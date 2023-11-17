@@ -20,6 +20,30 @@ Abstract Syntax Tree uses the Tree data structure.
 
 ## Binary Tree
 
+A binary tree is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. The topmost node in a binary tree is called the root. The nodes that have no children are called leaves. 
+
+Here's an example of a simple binary tree:
+
+```
+    1
+   / \
+  2   3
+ / \
+4   5
+```
+
+In this example:
+- Node 1 is the root.
+- Node 2 is the left child of the root.
+- Node 3 is the right child of the root.
+- Nodes 4 and 5 are the left and right children of node 2, respectively.
+
+Binary trees can have various forms and structures depending on how nodes are arranged. They are widely used in computer science for various applications, such as representing hierarchical structures, searching, sorting, and expression parsing.
+
+Binary trees can also be classified based on their balance. A balanced binary tree is one in which the height of the two child subtrees of any node differs by no more than one. Examples of balanced binary trees include AVL trees and Red-Black trees.
+
+Understanding binary trees is fundamental to various algorithms and data structures in computer science.
+
 Rules of Binary Tree -
 
 1. Each node can have only 0, 1 or 2 child nodes.
@@ -36,9 +60,36 @@ C[5] --- E[6]
 
 ### Perfect Binary Tree
 
-A Full Binary Tree or Perfect Binary Tree only requires each node to either have 0 or 2 child nodes.
+A full binary tree, also known as a perfect binary tree, is a type of binary tree in which every level is completely filled, except possibly for the last level, and all nodes are as left as possible. In other words, a full binary tree is a binary tree in which each node has either 0 or 2 children. If a node has 1 child, then it must be the left child.
 
-A Perfect Binary Tree is a tree which is full i.e., all the leaf node full. A node either has 0 children or 2 children. Also, the bottom layer is completely filled.
+Here are some characteristics of a full binary tree:
+
+1. **Node Structure:**
+   - Each node in a full binary tree has either 0 or 2 children.
+   - If a node has a child, it must be either a left child or a right child.
+
+2. **Levels:**
+   - All levels of the tree are completely filled except possibly for the last level.
+   - If the last level is not completely filled, all nodes in that level are positioned as left as possible.
+
+3. **Count of Nodes:**
+   - If a full binary tree has height \(h\), then it contains \(2^{h+1} - 1\) nodes.
+   - Here, \(h\) is the height of the tree, where the height of a tree is the length of the longest path from the root node to a leaf node.
+
+4. **Example:**
+   - For example, a binary tree with height \(h=2\) would have \(2^{2+1} - 1 = 2^3 - 1 = 8 - 1 = 7\) nodes if it is a full binary tree.
+
+Here's an example of a full binary tree with height \(h = 2\):
+
+```
+        1
+       / \
+      2   3
+     / \
+    4   5
+```
+
+In this example, every level is filled, and all nodes are as left as possible.
 
 ```mermaid
 flowchart TD
