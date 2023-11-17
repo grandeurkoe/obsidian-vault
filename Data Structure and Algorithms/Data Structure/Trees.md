@@ -25,7 +25,6 @@ Rules of Binary Tree -
 1. Each node can have only 0, 1 or 2 child nodes.
 2. Each child node can have only 1 parent node.
 
-A Full Binary Tree only requires each node to either have 0 or 2 child nodes.
 
 ```mermaid
 flowchart TD
@@ -36,6 +35,8 @@ C[5] --- E[6]
 ```
 
 ### Perfect Binary Tree
+
+A Full Binary Tree or Perfect Binary Tree only requires each node to either have 0 or 2 child nodes.
 
 A Perfect Binary Tree is a tree which is full i.e., all the leaf node full. A node either has 0 children or 2 children. Also, the bottom layer is completely filled.
 
