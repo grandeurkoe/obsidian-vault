@@ -46,7 +46,7 @@ Queues are usually built using Linked Lists.
 
 We don't use Arrays to build Queues because we remove the first element in the array then each subsequent element would have to be shifted which take a long time(O(n)).
 
-In contrast, the time complexity of removing the last element in Linked List is O(1).
+In contrast, the time complexity of removing the first element in Linked List is O(1).
 
 ### Time Complexity
 
