@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md",
+                "file": "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md",
+                "file": "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md",
+                "file": "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md"
+                "file": "Data Structure and Algorithms/Data Structure/What is Data Structure.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
     "Data Structure and Algorithms/Data Structure/Linked List.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
@@ -182,7 +183,6 @@
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Algorithms/Algorithms.md",
-    "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
