@@ -91,16 +91,6 @@ Here's an example of a full binary tree with height \(h = 2\):
 
 In this example, every level is filled, and all nodes are as left as possible.
 
-```mermaid
-flowchart TD
-A[3] --- B[1]
-A[3] --- C[5]
-C[5] --- D[4]
-C[5] --- E[6]
-B[1] --- F[1]
-B[1] --- G[2]
-```
-
 A Perfect Binary tree is very efficient and desirable. The number of nodes double as we go down a level.
 
 Another property is that -
@@ -108,8 +98,10 @@ Another property is that -
 All the nodes above + 1 = Bottom Level
 
 If we consider Perfect Binary Tree in point (a)  
+```
 3 + 1 = 4  
 4 = 4
+```
 
 Which implies about half the nodes are in the last level.
 
@@ -132,18 +124,29 @@ All the child nodes to the left of the current node must be lesser than the curr
 
 Each node can only have up to 2 child nodes because a Binary Search Tree is a Perfect Binary Tree.
 
+Here's an example of a Binary Search Tree:
+
+```
+       8
+      / \
+     3   10
+    / \    \
+   1   6    14
+      / \   /
+     4   7  13
+```
+
+In this example, for any node \(n\), all nodes in its left subtree have values less than \(n\), and all nodes in its right subtree have values greater than \(n\). For instance, the left subtree of the root node (8) contains nodes with values (3, 1, 6, 4, 7), all of which are less than 8.
+
+The BST property ensures efficient searching. For example, to find a value in the tree, you can start at the root and recursively follow the left or right child based on whether the value is less than or greater than the current node's value.
+
 BST(Binary Search Tree) can be either Balanced or Unbalanced.
 
 Unbalanced BST will have a huge chunk of its nodes on one side instead of being spread out.
 
+It's important to note that if a BST becomes unbalanced (i.e., degenerates into a linked list), the time complexity of operations may degrade, and it might be necessary to rebalance the tree using techniques like AVL trees or Red-Black trees. These balancing techniques ensure that the tree remains relatively balanced, maintaining efficient search and update operations.
+
 AVL Tree and Red Black Tree allows us to make sure that are BSTs are balanced.
-
-```mermaid
-flowchart TD
-A[3] --- B[5]
-B[5] --- C[6]
-```
-
 #### Time Complexity
 
 ##### Balanced Binary Search Tree
