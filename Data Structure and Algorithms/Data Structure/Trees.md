@@ -25,7 +25,7 @@ Rules of Binary Tree -
 1. Each node can have only 0, 1 or 2 child nodes.
 2. Each child node can have only 1 parent node.
 
-A Full Binary Tress only requires each node to either have 0 or 2 child nodes.
+A Full Binary Tree only requires each node to either have 0 or 2 child nodes.
 
 ```mermaid
 flowchart TD
