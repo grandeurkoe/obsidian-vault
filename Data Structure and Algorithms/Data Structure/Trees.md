@@ -18,6 +18,40 @@ Every time we write a code and execute it. The machine breaks down the code into
 
 Abstract Syntax Tree uses the Tree data structure.
 
+In a tree data structure, several important terms describe its components and relationships. Here are some key terms:
+
+1. **Node:** A fundamental building block of a tree that contains data and may have a reference to one or more child nodes.
+
+2. **Root:** The topmost node in a tree, from which all other nodes are descended. A tree has only one root.
+
+3. **Parent:** A node in a tree that has one or more child nodes.
+
+4. **Child:** A node in a tree that has a parent node.
+
+5. **Leaf:** A node in a tree that has no children, i.e., it is a terminal node.
+
+6. **Siblings:** Nodes that share the same parent in a tree.
+
+7. **Subtree:** A tree formed by a node and all its descendants.
+
+8. **Depth:** The level or distance of a node from the root. The root is at depth 0, and its children are at depth 1, and so on.
+
+9. **Height:** The length of the longest path from a node to a leaf. The height of the tree is the height of the root node.
+
+10. **Binary Tree:** A tree in which each node has at most two children, typically referred to as the left child and the right child.
+
+11. **Binary Search Tree (BST):** A binary tree in which the left subtree of a node contains only nodes with values less than the node's value, and the right subtree contains only nodes with values greater than the node's value.
+
+12. **Traversal:** The process of visiting all the nodes in a tree in a specific order. Common traversal methods include in-order, pre-order, and post-order.
+
+13. **Balanced Tree:** A tree in which the heights of the two child subtrees of any node differ by at most one.
+
+14. **Forest:** A collection of disjoint trees.
+
+15. **Parental Relationship:** The relationship between a node and its parent.
+
+Understanding these terms is crucial for working with tree data structures and algorithms.
+
 ## Binary Tree
 
 A binary tree is a hierarchical data structure in which each node has at most two children, referred to as the left child and the right child. The topmost node in a binary tree is called the root. The nodes that have no children are called leaves. 
