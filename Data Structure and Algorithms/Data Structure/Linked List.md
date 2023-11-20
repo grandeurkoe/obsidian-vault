@@ -50,6 +50,6 @@ Doubly Linked List is more complex than Singly Linked List.
 ## Implementation
 
 1. Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/linked-list/linked-list)
-2. Implementing a Single Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/linked-list/implementing-a-singly-linked-list)
+2. Implementing a Single Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/ddd45ffe40e2e229c13f576ba84bbb098ba77da4/data-structures/linked-list/implementing-a-singly-linked-list)
 3. Implementing a Doubly Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/linked-list/implementing-a-doubly-linked-list)
 4. Reversing a Singly Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/linked-list/reversing-a-singly-linked-list)
