@@ -1,4 +1,4 @@
-# Hash Tables or Dictionaries
+# [Hash Tables or Dictionaries](Python%20Dictionaries)
 
 Hash Tables or Hash Maps are referred to as dictionaries in python.
 
