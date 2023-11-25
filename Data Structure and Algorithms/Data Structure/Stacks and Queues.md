@@ -34,7 +34,7 @@ The limitation of using Array to build stacks is that they can only hold so many
 ### Implementation
 
 1. Implementing a Stack using Array - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/8accd2356b1eb33a3a73913aeb1e9bb63c4918d0/data-structures/stacks-and-queues/implementing-a-stack-using-array)
-2. Implementing a Stack using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/8f3a82f9c8b81871946cc08accb74b00a3078276/data-structures/stacks-and-queues/implementing-a-stack-using-linked-list)
+2. Implementing a Stack using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/89e2a794d97c1cfd1a8bdedbb6a63722c0bc7c84/data-structures/stacks-and-queues/implementing-a-stack-using-linked-list)
 
 ## Queues
 
