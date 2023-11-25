@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
+                "file": "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
+                "file": "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md",
+                "file": "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Linked List.md"
+                "file": "Data Structure and Algorithms/Data Structure/Stacks and Queues.md"
               }
             }
           },
@@ -166,10 +166,10 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
     "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
-    "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Data Structure/Array.md",
