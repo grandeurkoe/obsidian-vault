@@ -20,6 +20,6 @@
 
 ## Implementation
 
-1. Arrays or List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/bb0d99f7e627e0e650577908db651a33f441344b/data-structures/arrays-or-lists/arrays-or-lists)
-2. Implementing an Array - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/d56f72cf86ecfb8c8a5a59eabd4296cae6d263a9/data-structures/arrays-or-lists/implementing-an-array)
+1. Arrays or List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/c651da944dc46d5321d4a69ea3a45c9c95fbeeb7/data-structures/arrays-or-lists/arrays-or-lists)
+2. Implementing an Array - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/ff55371da841b5f52588fdfbb6bdde081efb7ebf/data-structures/arrays-or-lists/implementing-an-array)
 3. Reverse String - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/912024d64a32c74b25099a2d21ca255ed02c5e7e/data-structures/arrays-or-lists/reverse-a-string)
