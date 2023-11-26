@@ -34,6 +34,6 @@ There are a lot of methods to resolve hash collision like Cuckoo hashing, Hopsco
 
 ## Implementation
 
-1. First Recurring Character - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/f4d80bd2f3d9036d751f3e511d832239f97fb9c1/data-structures/hash-tables-or-dictionaries/first-recurring-character)
+1. First Recurring Character - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/85054015d27e987661f0c28e19df4cb374b9d9c9/data-structures/hash-tables-or-dictionaries/first-recurring-character)
 2. Hash Table or Dictionaries - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/7178cd324f55e2c084f43addae5d539609c66ac8/data-structures/hash-tables-or-dictionaries/hash-tables-or-dictionaries)
-3. Implementing a Hash Table - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/f5d4589de4dfe993a88c5c189942c4aa8ae59150/data-structures/hash-tables-or-dictionaries/implementing-a-hash-table)
+3. Implementing a Hash Table - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/fa6cff6dc7e2c389b8b1ffa9732bc56360dfbb1e/data-structures/hash-tables-or-dictionaries/implementing-a-hash-table)
