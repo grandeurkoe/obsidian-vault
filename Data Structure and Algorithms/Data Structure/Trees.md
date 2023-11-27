@@ -207,7 +207,7 @@ AVL Tree and Red Black Tree allows us to make sure that are BSTs are balanced.
 
 #### Implementation
 
-1. Implementing a Binary Search Tree - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/14eca8b788c1c2c7eeb26019018cfc57e9481478/data-structures/trees/implementing-a-binary-search-tree)
+1. Implementing a Binary Search Tree - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/9950bc930b477e8e608e7bf87b2ebd11e33c0221/data-structures/trees/implementing-a-binary-search-tree)
 
 ## Binary Heap
 
