@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +164,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fea4b3781e3eb2f9",
+  "active": "ca14253c45e25a5f",
   "lastOpenFiles": [
     "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
