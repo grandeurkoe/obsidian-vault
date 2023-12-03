@@ -1,6 +1,6 @@
 # Introduction to Python
 
-Machine code is a low-level programming language that directly represents the instructions executed by a computer's central processing unit (CPU). It is the lowest-level representation of a program that a computer can execute, and it consists of binary code, which is a series of 0s and 1s. Each instruction in machine code corresponds to a specific operation that the CPU can perform.
+**Machine code** is a low-level programming language that directly represents the instructions executed by a computer's central processing unit (CPU). It is the lowest-level representation of a program that a computer can execute, and it consists of binary code, which is a series of 0s and 1s. Each instruction in machine code corresponds to a specific operation that the CPU can perform.
 
 Python is an interpreted language, which means that it is not compiled into machine code like languages such as C or C++. Instead, Python code is executed directly by the Python interpreter.
 
