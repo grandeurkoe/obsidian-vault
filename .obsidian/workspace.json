@@ -11,11 +11,9 @@
             "id": "fea4b3781e3eb2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md",
-                "mode": "source",
-                "source": false
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md",
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Data Structure/Trees.md"
+                "file": "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf"
               }
             }
           },
@@ -165,11 +163,11 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
     "Data Structure and Algorithms/Data Structure/Array.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
-    "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
