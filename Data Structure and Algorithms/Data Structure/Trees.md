@@ -14,7 +14,9 @@ Trees can also have sub-trees.
 
 Every website is built using Tree data structure.
 
-Every time we write a code and execute it. The machine breaks down the code into Abstract Syntax Tree, so it can understand what we wrote down. Abstract Syntax Tree uses the Tree data structure. In a tree data structure, several important terms describe its components and relationships. 
+Every time we write a code and execute it. The machine breaks down the code into Abstract Syntax Tree, so it can understand what we wrote down. Abstract Syntax Tree uses the Tree data structure. 
+
+In a tree data structure, several important terms describe its components and relationships. 
 
 Here are some key terms:
 
