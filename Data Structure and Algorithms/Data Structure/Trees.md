@@ -18,6 +18,7 @@ Every time we write a code and execute it. The machine breaks down the code into
 
 In a tree data structure, several important terms describe its components and relationships. 
 
+
 Here are some key terms:
 
 1. **Node:** A fundamental building block of a tree that contains data and may have a reference to one or more child nodes.
