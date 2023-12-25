@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 069 - Blog Capstone Project/Day 069 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Day 068 - Implementation.md",
@@ -195,7 +196,6 @@
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
-    "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
