@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Day 027 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Day 027 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Day 027 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Day 027 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md"
               }
             }
           },
@@ -165,6 +165,15 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Visualizing Distributions and Testing for Statistical Significance.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 078 - Linear Regression and Data Visualization with Seaborn/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Learning Points & Summary.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Parsing HTML and Making Soup.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 045 - Web Scraping with BeautifulSoup/Web Scraping with BeautifulSoup.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 030 - Errors, Exceptions and JSON/Day 030 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 030 - Errors, Exceptions and JSON/JSON Data.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Day 027 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Day 066 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 081 - Predict House Prices/Learning Points.md",
@@ -182,17 +191,8 @@
     "Data Structure and Algorithms/Data Structure/Hash Tables or Dictionaries.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 007 - Hangman Capstone Project/Python join() method.md",
-    "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
-    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
-    "Data Structure and Algorithms/Data Structure/Array.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
-    "Data Structure and Algorithms/Big O/What is Big O.md",
-    "Data Structure and Algorithms/Big O/Big O Exercise.md",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Many Positional Arguments.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 027 - Tkinter and Creating GUI Programs/Many Keyword Arguments.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
