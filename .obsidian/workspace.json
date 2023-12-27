@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "151a0ced3159b7cb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,7 +174,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fea4b3781e3eb2f9",
+  "active": "151a0ced3159b7cb",
   "lastOpenFiles": [
     "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
