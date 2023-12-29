@@ -5,6 +5,7 @@
 Function with Outputs are necessary when you want to retrieve results from a function on execution.
 
 The syntax for Function with Outputs looks something like this -
+
 ```python
 def my_function() :
 	result = 3 * 2
