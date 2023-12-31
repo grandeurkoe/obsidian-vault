@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
+                "file": "Data Structure and Algorithms/Data Structure/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
+                "file": "Data Structure and Algorithms/Data Structure/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
+                "file": "Data Structure and Algorithms/Data Structure/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md"
+                "file": "Data Structure and Algorithms/Data Structure/Array.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
     "Data Structure and Algorithms/Data Structure/Array.md",
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "Data Structure and Algorithms/Big O/What is Big O.md",
@@ -176,7 +177,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Debugging.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Day 013 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Function with Outputs and Docstrings.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 009 - Dictionaries and Nesting/Python Dictionaries.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Day 010 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
