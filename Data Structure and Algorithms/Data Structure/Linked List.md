@@ -21,6 +21,7 @@ Since we have to traverse the nodes if we want to search for a value, insert a v
 3. LOOKUP - O(n)
 4. INSERT - O(n)
 5. DELETE - O(n)
+6. 
 
 ## Doubly Linked List
 
