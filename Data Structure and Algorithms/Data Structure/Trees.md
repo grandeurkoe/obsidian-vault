@@ -176,6 +176,7 @@ The BST property ensures efficient searching. For example, to find a value in th
 
 BST(Binary Search Tree) can be either Balanced or Unbalanced.
 
+
 Unbalanced BST will have a huge chunk of its nodes on one side instead of being spread out.
 
 It's important to note that if a BST becomes unbalanced (i.e., degenerates into a linked list), the time complexity of operations may degrade, and it might be necessary to rebalance the tree using techniques like AVL trees or Red-Black trees. These balancing techniques ensure that the tree remains relatively balanced, maintaining efficient search and update operations.
