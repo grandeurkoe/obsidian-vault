@@ -229,7 +229,9 @@ In a Min Heap, the root values are smaller.
 
 Heaps are used in any algorithm where ordering is important.
 
-Heaps are commonly used in Priority Queues.
+Heaps are commonly used in Priority Queues, data storage and sorting algorithms.
+
+Binary Heaps are good at doing comparative operations.
 
 Insertion in Binary Heap happens from left to right.
 
