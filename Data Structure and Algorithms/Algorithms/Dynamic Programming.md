@@ -12,7 +12,7 @@ How to figure out if a problem requires dynamic programming -
 
 ![[Pasted image 20231010175845.png|500]]
 
-With Dynamic programming, we can reduce the time complexity from O(2^n) to O(n) in fibonacci.
+With Dynamic programming, we can reduce the time complexity from O(2^n) to O(n) in Fibonacci.
 
 The drawback of dynamic programming is that space complexity increases(hash table).
 

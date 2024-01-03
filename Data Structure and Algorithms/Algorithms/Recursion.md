@@ -1,6 +1,6 @@
 # Recursion
 
-Recursion is not an algorithm but like more of a concept that is we'll use throughout this section.
+Recursion is not an algorithm but like more of a concept that we'll use throughout this section.
 
 Recursion is defining something in terms of itself.
 
