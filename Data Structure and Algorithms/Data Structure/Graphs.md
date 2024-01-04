@@ -89,4 +89,4 @@ graph = [
 
 ## Implementation
 
-Implementing a Graph using Adjacency List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/data-structures/graphs/implementing-a-graph-using-adjacent-list)
+Implementing a Graph using Adjacency List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/450ac5d11eb4c3a9ba922317cf39357b608c4f56/data-structures/graphs/implementing-a-graph-using-adjacent-list)
