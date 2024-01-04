@@ -36,7 +36,7 @@ In undirected graphs, movements are bidirectional.
 
 ### Weighted and Unweighted Graphs
 
-Values can be assigned to various aspects of a graph. Just has how we can assign a value to each node, we can also assign values to the edges of a graph.
+Values can be assigned to various aspects of a graph. Just as how we can assign a value to each node, we can also assign values to the edges of a graph.
 
 ![[Pasted image 20231010152830.png|500]]
 
