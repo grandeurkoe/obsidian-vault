@@ -6,6 +6,7 @@ Recursion is defining something in terms of itself.
 
 Recursive function is a function that refers to itself within the function.
 
+
 The biggest drawback of recursion is stack overflow.
 
 A recursive function looks something like this -
