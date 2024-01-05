@@ -13,7 +13,7 @@ A recursive function looks something like this -
 ```python
 def my_function():
 	print("Hi!")
-my_function()
+ my_function()
 ```
 
 The `my_function()` call within the function definition of `my_function()` will keep calling my_function. This is what it means for a function to be recursive.
