@@ -30,7 +30,7 @@ A base case is the stopping point for a recursive function.
 The three most important step of recursion is -
 
 1. Identify the base case.
-2. Identify the recursive case i.e., return my_function().
+2. Identify the recursive case i.e., return `my_function()`.
 3. Get closer and closer and return when needed. Usually has two returns
 
 ## Recursive vs Iterative
