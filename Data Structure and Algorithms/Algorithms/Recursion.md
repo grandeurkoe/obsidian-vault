@@ -17,7 +17,7 @@ def my_function():
 my_function()
 ```
 
-The `my_function()` call within the function definition of `my_function()` will keep calling my_function. This is what it means for a function to be recursive.
+The `my_function()` call within the function definition of `my_function()` will keep calling `my_function`. This is what it means for a function to be recursive.
 
 When we make a call to `my_function()`,  the compiler will keep printing "Hi!" on the console repeatedly until it crashes.
 
