@@ -39,7 +39,7 @@ Anything that can be implemented recursively can also be implemented iteratively
 
 Recursion makes your code much more readable.
 
-Recursion also keeps your code DRY i.e., Don't Repeat Yourself.
+Recursion also keeps your code **DRY** i.e., Don't Repeat Yourself.
 
 However, it creates a large stack of function call that eats up a lot of memory.
 
