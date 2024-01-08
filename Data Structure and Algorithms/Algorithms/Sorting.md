@@ -46,6 +46,7 @@ In bubble sort, we create a bubble of consecutive pairs. compare them and then a
 
 We keep doing this until the list is completely sorted.
 
+
 Time complexity for bubble sort is O(n^2).
 
 [Bubble-sort with Hungarian ("Csángó") folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4)
