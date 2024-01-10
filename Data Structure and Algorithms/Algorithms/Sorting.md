@@ -6,6 +6,7 @@ The drawback of using the in-built `sort()` function is that it would not be eff
 
 The time complexity of the built-in `sort(`) function in various languages can be different because of the way they are implemented.
 
+
 Time complexity of built-in `sort()` function in python is O(N log N).
 
 Built-in Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/builtin-sort)
