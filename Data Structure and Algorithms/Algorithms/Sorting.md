@@ -9,7 +9,6 @@ The time complexity of the built-in `sort(`) function in various languages can b
 Time complexity of built-in `sort()` function in python is O(N log N).
 
 
-
 Built-in Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/builtin-sort)
 
 ## Stable vs Unstable Algorithms
