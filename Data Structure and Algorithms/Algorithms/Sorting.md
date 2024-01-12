@@ -16,6 +16,7 @@ A sorting algorithm is said to be stable if two objects with equal keys appear i
 
 Background: A "stable" sorting algorithm keeps the items with the same sorting key in order. 
 
+
 Suppose we have a list of 5-letter words:
 
 ```
