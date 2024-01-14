@@ -1,4 +1,3 @@
-
 # Sorting
 
 Python has an in-build `sort()` function.
