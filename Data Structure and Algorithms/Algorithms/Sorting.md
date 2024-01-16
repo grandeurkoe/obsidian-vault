@@ -18,6 +18,7 @@ Background: A "stable" sorting algorithm keeps the items with the same sorting k
 
 Suppose we have a list of 5-letter words:
 
+
 ```
 peach  
 straw  
