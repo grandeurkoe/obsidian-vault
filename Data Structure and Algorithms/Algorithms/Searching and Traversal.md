@@ -17,7 +17,6 @@ Time complexity for graph and tree traversal is O(n) because we are visiting eve
 
 Linear Search or Sequential Search is the method of finding a target value within a list.
 
-
 In Linear Search, it sequentially searches the list for the target value until it is found or you reach the end of the list.
 
 Time complexity of linear search is O(n) if the target value is at the end of the list.
