@@ -9,7 +9,6 @@ The following are the different kinds of search -
 3. Depth First Search.
 4. Breadth First Search.
 
-
 Traversal is the process of visiting every node in the tree or a graph.
 
 Time complexity for graph and tree traversal is O(n) because we are visiting every node.
