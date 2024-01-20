@@ -23,7 +23,6 @@ Time complexity of linear search is O(n) if the target value is at the end of th
 
 In the best case scenario, the time complexity is O(1).
 
-
 ## Binary Search
 
 Binary Search involves searching in an already sorted list.
