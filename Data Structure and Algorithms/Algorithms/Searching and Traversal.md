@@ -11,7 +11,6 @@ The following are the different kinds of search -
 
 Traversal is the process of visiting every node in the tree or a graph.
 
-
 Time complexity for graph and tree traversal is O(n) because we are visiting every node.
 
 ## Linear Search
