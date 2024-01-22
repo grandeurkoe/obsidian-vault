@@ -57,7 +57,6 @@ Time complexity of an already sorted binary search tree is O(log n) because it u
 
 Depth First Search has a lower memory requirement than Breadth First Search because it is not necessary to store pointers for each child at every level.
 
-
 DFS can be implemented in three different ways -
 
 ![[Pasted image 20231010174525.png|500]]
