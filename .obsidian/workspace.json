@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
@@ -190,7 +191,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 014 - Higher Lower Game Project/Day 014 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Debugging.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Day 013 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 010 - Function with Outputs/Function with Outputs and Docstrings.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
