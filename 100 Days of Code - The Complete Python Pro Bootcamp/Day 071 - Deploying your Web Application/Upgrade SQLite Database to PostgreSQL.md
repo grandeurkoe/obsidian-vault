@@ -11,7 +11,6 @@ But it's also a weakness because once it's deployed with a hosting provider (lik
 So we've got to put on our big-boy/big-girl pants and upgrade our simple SQLite database to PosgreSQL, a database that can handle millions of data entries and reliably delivers data to users.
 
 Luckily, because we used SQLAlchemy to create our Flask app, there's nothing we need to change in terms of code. We just need to set up the PostgreSQL database.
-
 ## Create a new Postgres Database
 
 Create a new Postgres database from the website menu.
