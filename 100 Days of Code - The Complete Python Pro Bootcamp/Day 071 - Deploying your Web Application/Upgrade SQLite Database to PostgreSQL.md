@@ -16,6 +16,7 @@ Luckily, because we used SQLAlchemy to create our Flask app, there's nothing we 
 
 Create a new Postgres database from the website menu.
 
+
 ![[Pasted image 20231010123404.png|500]]
 
 Next, you will see a form. All you need to do is pick a name for the database and create it.
