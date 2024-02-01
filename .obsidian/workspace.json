@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "fea4b3781e3eb2f9",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
@@ -192,7 +193,6 @@
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "Data Structure and Algorithms/Big O/What is Big O.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 018 - Turtle Graphics and the GUI/Day 018 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 018 - Turtle Graphics and the GUI/Turtle Graphics and the GUI.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
