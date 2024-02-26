@@ -2,7 +2,7 @@
 
 Often times you will want to sum rows that belong to a particular category. For example, which category of degrees has the highest average salary? Is it STEM, Business or HASS (Humanities, Arts, and Social Science)? 
 
-To answer this question we need to learn to use the .groupby() method. This allows us to manipulate data similar to a Microsoft Excel Pivot Table.
+To answer this question we need to learn to use the `.groupby()` method. This allows us to manipulate data similar to a Microsoft Excel Pivot Table.
 
 We have three categories in the 'Group' column: STEM, HASS and Business. Let's count how many majors we have in each category:
 
