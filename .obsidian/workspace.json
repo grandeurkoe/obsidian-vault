@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md",
+                "file": "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md",
+                "file": "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md",
+                "file": "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Algorithms.md"
+                "file": "Data Structure and Algorithms/Algorithms/Dynamic Programming.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "238242b53a892536",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Algorithms/Algorithms.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 028 - Tkinter and Dynamic Typing/Dynamic Typing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
@@ -191,7 +192,6 @@
     "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
-    "Data Structure and Algorithms/Algorithms/Algorithms.md",
     "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
     "Data Structure and Algorithms/Data Structure/Linked List.md",
