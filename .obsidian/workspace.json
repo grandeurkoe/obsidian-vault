@@ -11,11 +11,9 @@
             "id": "238242b53a892536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
-                "mode": "source",
-                "source": false
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structure and Algorithms/Algorithms/Sorting.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
               }
             }
           },
@@ -166,6 +164,7 @@
   },
   "active": "238242b53a892536",
   "lastOpenFiles": [
+    "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Data Structure and Algorithms/Algorithms/Algorithms.md",
@@ -189,7 +188,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
-    "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Data Structure/Trees.md",
