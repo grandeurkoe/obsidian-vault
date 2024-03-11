@@ -11,9 +11,11 @@
             "id": "238242b53a892536",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md"
               }
             }
           },
@@ -164,6 +166,7 @@
   },
   "active": "238242b53a892536",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
@@ -180,7 +183,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Day 013 - Implementation.md",
@@ -192,7 +194,6 @@
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
-    "Data Structure and Algorithms/Data Structure/Linked List.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
