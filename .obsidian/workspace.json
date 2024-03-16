@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 200
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,8 +166,8 @@
   },
   "active": "238242b53a892536",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
