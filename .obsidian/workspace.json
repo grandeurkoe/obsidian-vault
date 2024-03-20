@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "73edc792984a6d81",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +175,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "238242b53a892536",
+  "active": "73edc792984a6d81",
   "lastOpenFiles": [
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
