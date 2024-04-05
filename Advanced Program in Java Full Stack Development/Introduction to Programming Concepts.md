@@ -4,4 +4,8 @@ Computer is an electronic device used for storing and processing information. Mo
 
 A computer consists of several components such as keyboard, a mouse, a monitor, a printer and a Central Processing Unit(CPU). Each component participates in either one of the input, process, or output phases.
 
-For example, the keyboard and mouse are used for input. The CPU and the memory inside the CPU are used for processing. The monitor and printer are used for output
+For example, the keyboard and mouse are used for input. The CPU and the memory inside the CPU are used for processing. The monitor and printer are used for output.
+
+The following figure depicts the I-P-O cycle :-
+
+![[Pasted image 20240405204608.png]]
