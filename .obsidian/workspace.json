@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87daf6cf1cb9e43e",
+            "id": "62cc5b0d463c5845",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf"
+                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
+                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
+                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf"
+                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md"
               }
             }
           },
@@ -162,10 +164,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "87daf6cf1cb9e43e",
+  "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
-    "Advanced Program in Java Full Stack Development/Term 1- Foundation/Topics Covered.md",
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
+    "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
+    "Advanced Program in Java Full Stack Development/Term 1- Foundation/Topics Covered.md",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "Advanced Program in Java Full Stack Development",
@@ -194,7 +197,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
-    "Data Structure and Algorithms/Data Structure/Trees.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",

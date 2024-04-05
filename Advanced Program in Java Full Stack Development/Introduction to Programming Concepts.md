@@ -1,0 +1,1 @@
+Computer is an electronic device used for storing and processing information. Most computers follow the basic principle of input, process, and output for any problem. To perform these input, process, and output activities, computers need a set of instruction called a program.
