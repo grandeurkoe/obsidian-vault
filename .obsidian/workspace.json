@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "30d85b3280fd0d11",
+        "id": "72013b1625145857",
         "type": "tabs",
         "children": [
           {
-            "id": "238242b53a892536",
+            "id": "87daf6cf1cb9e43e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64aafcd686e4282b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md"
+                "file": "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf"
               }
             }
           },
@@ -175,9 +162,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "64aafcd686e4282b",
+  "active": "87daf6cf1cb9e43e",
   "lastOpenFiles": [
+    "Advanced Program in Java Full Stack Development/Term 1- Foundation/Topics Covered.md",
+    "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
+    "Advanced Program in Java Full Stack Development/Term 1- Foundation",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+    "Advanced Program in Java Full Stack Development",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
@@ -204,14 +195,10 @@
     "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Data Structure/Trees.md",
-    "Data Structure and Algorithms/Data Structure/Stacks and Queues.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
-    "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Gihub Git Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 054 - Web Development with Flask/Flask Cheat Sheet.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
