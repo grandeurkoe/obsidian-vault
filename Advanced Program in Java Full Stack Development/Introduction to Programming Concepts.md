@@ -9,3 +9,7 @@ For example, the keyboard and mouse are used for input. The CPU and the memory i
 The following figure depicts the I-P-O cycle :-
 
 ![[Pasted image 20240405204608.png]]
+
+## Programs and Programming Languages
+
+A computer needs a set of instructions called a program to perform the I-P-O cycle. A program needs to be written in a specific language called programming language, so that computer can understand the instructions.
