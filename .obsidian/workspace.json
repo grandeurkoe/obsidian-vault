@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
+    "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
     "Attachments/Pasted image 20240405204608.png",
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
-    "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation/Topics Covered.md",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
@@ -211,7 +211,6 @@
     "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
     "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
     "Attachments/2020-10-23_11-32-45-1f1c814dd89d9e8102ff7642a53a3ecd.png",
-    "Attachments/2020-10-23_11-31-13-b5897c5011eadac9f54e6956b30d4f97.png",
     "Attachments/Untitled.canvas"
   ]
 }
