@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Day 002 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
     "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
     "Attachments/Pasted image 20240405204608.png",
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
@@ -197,7 +199,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
     "Data Structure and Algorithms/Algorithms/Recursion.md",
-    "Data Structure and Algorithms/Data Structure/Graphs.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
