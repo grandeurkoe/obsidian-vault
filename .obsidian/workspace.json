@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md"
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md"
               }
             }
           },
@@ -166,6 +166,11 @@
   },
   "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
+    "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
+    "C++/Chapter 1 - Introduction of OOP",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
+    "C++",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Day 002 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
     "Advanced Program in Java Full Stack Development/Introduction to Programming Concepts.md",
@@ -196,13 +201,8 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Day 013 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Upgrade SQLite Database to PostgreSQL.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Sign up to a hosting provider and create your web service.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Setup WSGI server with gunicorn.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 071 - Deploying your Web Application/Day 071 - Implementation.md",
-    "Data Structure and Algorithms/Algorithms/Recursion.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Miscellaneous/How to Solve Coding Problems - Cheat Sheet.pdf",
-    "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
