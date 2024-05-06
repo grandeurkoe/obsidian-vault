@@ -3,7 +3,7 @@ The major motivating factor in the invention of object-oriented approach is to r
 OOP treats data as a critical element in the program development and does not allow it to flow freely around the
 system. It ties data more closely to the function that operate on it, and protects it from accidental modification from outside function. 
 
-OOP allows decomposition of a problem into a number of entities called objects and then builds data and function around these objects. The organization of data and function in object-oriented programs is shown in the figure below. The data of an object can be accessed only by the function associated with that object. However, function of one object can access the function of other objects.
+OOP allows decomposition of a problem into a number of entities called **objects** and then builds data and function around these objects. The organization of data and function in object-oriented programs is shown in the figure below. The data of an object can be accessed only by the function associated with that object. However, function of one object can access the function of other objects.
 
 ![[Pasted image 20240506203208.png|500]]
 
