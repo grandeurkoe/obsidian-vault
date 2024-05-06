@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Paradigm.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md"
+                "file": "C++/Chapter 1 - Introduction of OOP/Object Oriented Paradigm.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   "lastOpenFiles": [
     "C++/Chapter 1 - Introduction of OOP/Procedure Oriented Programming.md",
     "C++/Chapter 1 - Introduction of OOP/Object Oriented Programming (OOP).md",
+    "C++/Chapter 1 - Introduction of OOP/Object Oriented Paradigm.md",
+    "Attachments/Pasted image 20240506203208.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
     "Attachments/Pasted image 20240506200207.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Day 001 - Implementation.md",
@@ -200,8 +202,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 004 - Randomization and Python Lists/Python List.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Python format() method.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 013 - Debugging/Day 013 - Implementation.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
@@ -211,7 +211,6 @@
     "Attachments/2020-10-23_14-49-58-3961b13cff88b2866bba7da183716a04.png",
     "Attachments/2020-10-23_14-39-42-eb859925d7e636d7244c6b410bad919b.png",
     "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
-    "Attachments/2020-10-23_11-48-48-f1ea588ddc802796ce504f8cae08a844.png",
     "Attachments/Untitled.canvas"
   ]
 }
