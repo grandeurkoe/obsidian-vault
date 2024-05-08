@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md"
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md"
               }
             }
           },
@@ -164,11 +164,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "1ff0498e7f961865",
   "lastOpenFiles": [
+    "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
     "C++/Chapter 1 - Introduction to OOP/Procedure Oriented Programming.md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
-    "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
     "Attachments/Pasted image 20240506203208.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
     "Attachments/Pasted image 20240506200207.png",
