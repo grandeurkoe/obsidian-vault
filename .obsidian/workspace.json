@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md"
               }
             }
           },
@@ -166,10 +166,12 @@
   },
   "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Heading Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
@@ -200,8 +202,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Data Structure and Algorithms/Algorithms/Sorting.md",
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
-    "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
-    "Data Structure and Algorithms/Algorithms/Algorithms.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
