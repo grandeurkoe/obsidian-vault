@@ -2,7 +2,7 @@
 
 HTML Boilerplate allows us to understand the structure of our website.
 
-`<!DOCTYPE html>` tells the browser what version of HTML the  file was written in. The current version of HTML being used is HTML5.
+`<!DOCTYPE html>` tells the browser what version of HTML the file was written in. The current version of HTML being used is HTML5.
 
 `<html lang="en"></html>` is the root of the HTML file. Every element is encompassed within the html element. The`lang`attribute tells the browser what language the content is written in.
 
