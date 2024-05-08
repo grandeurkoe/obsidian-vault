@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "document object",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md"
               }
             }
           },
@@ -165,8 +164,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "68b0ef6996ebb6e4",
+  "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
@@ -176,8 +177,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Day 042 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/The List Elements.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
     "C++/Chapter 1 - Introduction to OOP/Procedure Oriented Programming.md",
