@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md"
               }
             }
           },
@@ -166,14 +166,17 @@
   },
   "active": "62cc5b0d463c5845",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Heading Element.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Day 042 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/The List Elements.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
     "C++/Chapter 1 - Introduction to OOP/Procedure Oriented Programming.md",
@@ -199,10 +202,7 @@
     "Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Data Structure and Algorithms/Algorithms/Algorithms.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Grouping and Pivoting Data with Pandas.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 028 - Tkinter and Dynamic Typing/Dynamic Typing.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 005 - Python Loops/Day 005 - Implementation.md",
     "Data Structure and Algorithms/Big O/Big O - Know Thy Complexities.pdf",
     "Data Structure and Algorithms/Big O/Big O - Cheat Sheet.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
