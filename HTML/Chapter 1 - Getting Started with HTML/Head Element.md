@@ -15,4 +15,10 @@ The following elements are present with the `<head>` section of your HTML docume
 ***
 ## `<title>`
 
-The `<title` tag defines the title of the document that appears in the title bar of the browser window. This title will be used in the search engine results
+The `<title` tag defines the title of the document that appears in the title bar of the browser window. This title will serve not only as a descriptor in search engine results but also as the designated name when saving the webpage as a favorite in your browser.
+
+Code Snippet - 
+
+```html
+
+```
