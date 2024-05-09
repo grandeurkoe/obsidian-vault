@@ -20,5 +20,11 @@ The `<title` tag defines the title of the document that appears in the title bar
 Code Snippet - 
 
 ```html
-
+<head>
+	<title> Book Your Hotel </title>
+</head>
 ```
+
+Output - 
+
+![[Pasted image 20240509205203.png|500]]
