@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md"
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "950d95dd5abde8e5",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+    "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
     "[[How do Websites Work.md]].md",
@@ -194,7 +196,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Day 042 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/The List Elements.md",
@@ -209,7 +210,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
     "C++",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Day 002 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 003 - Control Flow and Logical Operators/Day 003 - Implementation.md",
     "Attachments/Pasted image 20240405204608.png",
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation",
