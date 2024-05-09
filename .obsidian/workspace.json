@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing.md"
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md"
               }
             }
           },
@@ -167,7 +167,7 @@
   "active": "950d95dd5abde8e5",
   "lastOpenFiles": [
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
-    "HTML/Chapter 1 - Getting Started with HTML/Introducing.md",
+    "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
     "HTML/Chapter 1 - Getting Started with HTML",
     "HTML",
