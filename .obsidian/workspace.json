@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md"
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "950d95dd5abde8e5",
   "lastOpenFiles": [
-    "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
+    "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
+    "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
@@ -197,7 +198,6 @@
     "C++/Chapter 1 - Introduction to OOP",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
     "C++",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Day 002 - Implementation.md",
     "Attachments/Pasted image 20240405204608.png",
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation",

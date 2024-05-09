@@ -8,4 +8,3 @@ HTML contains the following structure tags :-
 2. `<html>`
 3. `<head>`
 4. `<body>`
-
