@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Head Element.md"
+                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md"
               }
             }
           },
@@ -166,9 +166,11 @@
   },
   "active": "950d95dd5abde8e5",
   "lastOpenFiles": [
+    "C++/Chapter 1 - Introduction to OOP/Procedure Oriented Programming.md",
+    "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
+    "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
     "Attachments/Pasted image 20240509205203.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
-    "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
     "HTML/Chapter 1 - Getting Started with HTML/Untitled.md",
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
@@ -190,9 +192,7 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Day 042 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/The List Elements.md",
-    "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
-    "C++/Chapter 1 - Introduction to OOP/Procedure Oriented Programming.md",
     "Attachments/Pasted image 20240506203208.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
     "Attachments/Pasted image 20240506200207.png",
@@ -211,7 +211,6 @@
     "Attachments/2020-10-23_14-59-53-0b2eb0809a34c6eb94983086e631800c.png",
     "Attachments/2020-10-23_14-49-58-3961b13cff88b2866bba7da183716a04.png",
     "Attachments/2020-10-23_14-39-42-eb859925d7e636d7244c6b410bad919b.png",
-    "Attachments/2020-10-23_12-27-28-063144e4acbc37b96bfd66f6f25f75f3.png",
     "Attachments/Untitled.canvas"
   ]
 }
