@@ -11,11 +11,9 @@
             "id": "950d95dd5abde8e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
-                "mode": "source",
-                "source": false
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf"
               }
             }
           },
@@ -166,6 +164,11 @@
   },
   "active": "950d95dd5abde8e5",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Class Constructors and the __init__() Function.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Adding Methods to a Class.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Creating your own Class.md",
+    "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
     "C++/Chapter 1 - Introduction to OOP/Procedure Oriented Programming.md",
     "C++/Chapter 1 - Introduction to OOP/Object Oriented Programming (OOP).md",
     "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
@@ -190,11 +193,7 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Day 042 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/The List Elements.md",
-    "C++/Chapter 1 - Introduction to OOP/Object Oriented Paradigm.md",
     "Attachments/Pasted image 20240506203208.png",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 075 - Google Trends Data - Resampling and Visualizing Time Series/Data Cleaning - Resampling Time Series Data.md",
     "Attachments/Pasted image 20240506200207.png",
     "C++/Chapter 1 - Introduction to OOP",
     "C++",
