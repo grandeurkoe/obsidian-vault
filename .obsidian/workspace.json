@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md"
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "d9b4675d265e9259",
   "lastOpenFiles": [
-    "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
+    "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
+    "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "Java/Programming with Java - A Primer, 3e.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
@@ -214,7 +215,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Heading Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
     "Attachments/Pasted image 20240506203208.png",
     "Attachments/Pasted image 20240506200207.png",
     "C++/Chapter 1 - Introduction to OOP",
