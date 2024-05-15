@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "72013b1625145857",
+        "id": "345618aa523f66df",
         "type": "tabs",
         "children": [
           {
-            "id": "950d95dd5abde8e5",
+            "id": "d9b4675d265e9259",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -162,8 +160,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "950d95dd5abde8e5",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
+    "Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
+    "Java",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Class Constructors and the __init__() Function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Adding Methods to a Class.md",
@@ -192,7 +192,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Paragraph Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Image Element.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Nesting and Indentation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/Day 041 - Implementation.md",
     "Attachments/Pasted image 20240506203208.png",
     "Attachments/Pasted image 20240506200207.png",
     "C++/Chapter 1 - Introduction to OOP",
@@ -203,7 +202,6 @@
     "Advanced Program in Java Full Stack Development",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 072 - Data Exploration with Pandas/Pandas Cheat Sheet.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
