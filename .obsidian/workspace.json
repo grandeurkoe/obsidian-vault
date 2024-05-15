@@ -11,9 +11,11 @@
             "id": "d9b4675d265e9259",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Java/Programming with Java - A Primer, 3e.pdf"
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Programming with Java - A Primer, 3e.pdf",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Programming with Java - A Primer, 3e.pdf",
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Programming with Java - A Primer, 3e.pdf"
+                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md"
               }
             }
           },
@@ -178,10 +180,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "d9b4675d265e9259",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "Java/Programming with Java - A Primer, 3e.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
     "Java",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
