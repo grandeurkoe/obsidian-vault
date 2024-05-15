@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md"
+                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d9b4675d265e9259",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
+    "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
+    "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
     "Java/Programming with Java - A Primer, 3e.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
@@ -197,7 +199,6 @@
     "Attachments/Pasted image 20240509205203.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
     "HTML/Chapter 1 - Getting Started with HTML/Untitled.md",
-    "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
@@ -221,7 +222,6 @@
     "Attachments/Pasted image 20240405204608.png",
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation",
-    "Advanced Program in Java Full Stack Development",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
