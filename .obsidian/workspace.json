@@ -11,8 +11,26 @@
             "id": "d9b4675d265e9259",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Java/Programming with Java - A Primer, 3e.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "28aeee72dc1ab222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63437673421c6a9c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Java/Programming with Java - A Primer, 3e.pdf"
+              }
             }
           }
         ]
@@ -65,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 200
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -81,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
+                "file": "Java/Programming with Java - A Primer, 3e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
+                "file": "Java/Programming with Java - A Primer, 3e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf"
+                "file": "Java/Programming with Java - A Primer, 3e.pdf"
               }
             }
           },
@@ -162,6 +180,8 @@
   },
   "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
+    "Java/Programming with Java - A Primer, 3e.pdf",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
     "Java",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
@@ -200,8 +220,6 @@
     "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
     "Advanced Program in Java Full Stack Development/Term 1- Foundation",
     "Advanced Program in Java Full Stack Development",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/12 Rules to Learn to Code.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
