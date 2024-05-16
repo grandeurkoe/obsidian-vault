@@ -11,24 +11,6 @@
             "id": "d9b4675d265e9259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "28aeee72dc1ab222",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63437673421c6a9c",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
                 "file": "Java/Programming with Java - A Primer, 3e.pdf"
@@ -101,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
+                "file": "Java/Programming with Java - A Primer, 3e.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
+                "file": "Java/Programming with Java - A Primer, 3e.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md"
+                "file": "Java/Programming with Java - A Primer, 3e.pdf"
               }
             }
           },
@@ -182,8 +164,8 @@
   },
   "active": "d9b4675d265e9259",
   "lastOpenFiles": [
-    "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
+    "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "Java/Programming with Java - A Primer, 3e.pdf",
