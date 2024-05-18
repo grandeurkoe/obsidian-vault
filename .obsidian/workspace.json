@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -164,7 +165,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a8b1d1476d1c1d62",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Why do we need CSS.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
