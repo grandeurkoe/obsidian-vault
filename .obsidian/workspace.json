@@ -20,6 +20,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "2059b66cf2a587b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66cbb9afbd7b6b4f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Advanced Program in Java Full Stack Development/Java/Programming with Java - A Primer, 3e.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,8 +184,8 @@
   "lastOpenFiles": [
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
     "Advanced Program in Java Full Stack Development/Java/Programming with Java - A Primer, 3e.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
     "Advanced Program in Java Full Stack Development/Java",
     "Advanced Program in Java Full Stack Development",
