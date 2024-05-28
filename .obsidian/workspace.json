@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "830773b36f9ba8da",
+        "id": "3feb29e319b5add3",
         "type": "tabs",
         "children": [
           {
-            "id": "a8b1d1476d1c1d62",
+            "id": "3ba9f3ba92eadc95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2059b66cf2a587b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66cbb9afbd7b6b4f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Advanced Program in Java Full Stack Development/Java/Programming with Java - A Primer, 3e.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,7 +156,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a8b1d1476d1c1d62",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
