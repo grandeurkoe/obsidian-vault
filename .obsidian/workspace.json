@@ -11,8 +11,12 @@
             "id": "3ba9f3ba92eadc95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 270.5
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md"
+              }
             }
           },
           {
@@ -156,17 +164,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "3ba9f3ba92eadc95",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Why do we need CSS.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.1 Introduction.md",
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming/1.2 Object Oriented Paradigm.md",
     "Advanced Program in Java Full Stack Development/Java/Programming with Java - A Primer, 3e.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/CSS Selectors.md",
     "Advanced Program in Java Full Stack Development/Java/Chapter 1 - Fundamentals of Object-Oriented Programming",
     "Advanced Program in Java Full Stack Development/Java",
     "Advanced Program in Java Full Stack Development",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Why do we need CSS.md",
     "HTML/Chapter 1 - Getting Started with HTML/Head Element.md",
     "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
