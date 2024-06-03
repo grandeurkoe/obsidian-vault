@@ -1,3 +1,5 @@
+## What Is Java?
+
 Java is a class-based, object-oriented programming language.
 
 Java is intended to let application developers **write once, and run anywhere (WORA)**, meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
@@ -7,3 +9,9 @@ Java is widely used for developing applications for desktop, web, and mobile dev
 Java is known for its *simplicity, robustness, and security features*, making it a popular choice for enterprise-level applications.
 
 Java was developed by **James Gosling** at **Sun Microsystem Inc** in the year and later acquired by Oracle Corporation.
+
+## How It Works?
+
+There are three execution phases of a program :-
+
+1. Create a text file and save it with a *.java* extension
