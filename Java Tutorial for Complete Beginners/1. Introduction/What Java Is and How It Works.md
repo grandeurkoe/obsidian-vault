@@ -15,4 +15,4 @@ Java was developed by **James Gosling** at **Sun Microsystem Inc** in the year a
 There are three execution phases of a program :-
 
 1. Create a text file, write source code, and save it with a *.java* extension.
-2. The compilation (conversion of source code to bytecode) of the source code is done by the *javac* compiler which is a primary Java compiler included in the *Java Development Kit*(JDK).
+2. The compilation (conversion of source code to bytecode i.e., binary files) of the source code is done by the *javac* compiler which is a primary Java compiler included in the *Java Development Kit JDK)*. For every, class in the java source code a binary file will be created by the javac compiler. These binary files will have the extension *.class*. Bytecode or binary files are not directly understandable by your computer
