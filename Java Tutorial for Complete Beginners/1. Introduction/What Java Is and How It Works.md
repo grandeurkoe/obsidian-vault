@@ -4,4 +4,6 @@ Java is intended to let application developers **write once, and run anywhere (W
 
 Java is widely used for developing applications for desktop, web, and mobile devices.
 
-Java is known for its *simplicity, robustness, and security features, making it a popular choice for enterprise-level applications.
+Java is known for its *simplicity, robustness, and security features*, making it a popular choice for enterprise-level applications.
+
+Java was developed by **James Gosling** at **Sun Microsystem Inc** in the year and later acquired by Oracle Corporation.
