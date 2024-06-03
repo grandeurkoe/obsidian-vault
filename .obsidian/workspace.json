@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
+                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
+                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
+                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md"
+                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md"
               }
             }
           },
@@ -164,8 +164,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b0184cc8ead6c2e",
+  "active": "3ba9f3ba92eadc95",
   "lastOpenFiles": [
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
+    "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
+    "Java Tutorial for Complete Beginners/1. Introduction",
     "Java Tutorial for Complete Beginners",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Why do we need CSS.md",
@@ -199,13 +202,10 @@
     "HTML/Chapter 1 - Getting Started with HTML",
     "HTML",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/HTML Void Elements.md",
     "Attachments/Pasted image 20240506203208.png",
     "Attachments/Pasted image 20240506200207.png",
     "C++/Chapter 1 - Introduction to OOP",
-    "C++",
     "Attachments/Pasted image 20240405204608.png",
-    "Advanced Program in Java Full Stack Development/Advanced Program in Java Full Stack Development.pdf",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
     "Attachments/2020-10-23_15-00-50-d951f463f0f6b86e096672a3d6a05e77.png",
