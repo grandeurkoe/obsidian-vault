@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,8 +167,9 @@
   },
   "active": "3ba9f3ba92eadc95",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
     "Java Tutorial for Complete Beginners/1. Introduction",
     "Java Tutorial for Complete Beginners",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/How to add CSS.md",
@@ -184,7 +186,6 @@
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Class Constructors and the __init__() Function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Adding Methods to a Class.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Creating your own Class.md",
