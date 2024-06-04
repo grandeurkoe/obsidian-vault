@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3feb29e319b5add3",
+        "id": "f8004cebbb52067a",
         "type": "tabs",
         "children": [
           {
-            "id": "3ba9f3ba92eadc95",
+            "id": "719f35690487fc6d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf"
+                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b56b5c3e9b35ff62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
+                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
+                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf"
+                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md"
               }
             }
           },
@@ -162,10 +176,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3ba9f3ba92eadc95",
+  "active": "719f35690487fc6d",
   "lastOpenFiles": [
-    "The Complete Web Development Bootcamp/Section 1. Front-End Development/Course Syllabus.pdf",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
+    "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
+    "The Complete Web Development Bootcamp/Section 1. Front-End Development/Course Syllabus.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development",
     "The Complete Web Development Bootcamp",
@@ -186,7 +203,6 @@
     "HTML/Chapter 1 - Getting Started with HTML/Identifying the Basic Structure of an HTML page.md",
     "HTML/Chapter 1 - Getting Started with HTML/Introducing HTML.md",
     "Data Structure and Algorithms/Data Structure/What is Data Structure.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Python Syntax Cheat Sheet.pdf",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Class Constructors and the __init__() Function.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Adding Methods to a Class.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 017 - The Benefits of OOP/Creating your own Class.md",
@@ -196,9 +212,7 @@
     "Attachments/Pasted image 20240509205203.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/HTML Boilerplate.md",
     "HTML/Chapter 1 - Getting Started with HTML/Untitled.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/What is HTML.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How do Websites Work.md",
     "[[How do Websites Work.md]].md",
     "[[How do Websites Work]].md",
     "Attachments/Pasted image 20240506203208.png",
