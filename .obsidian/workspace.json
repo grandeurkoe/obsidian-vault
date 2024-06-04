@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md"
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md"
               }
             }
           },
@@ -165,10 +164,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "68b0ef6996ebb6e4",
+  "active": "3ba9f3ba92eadc95",
   "lastOpenFiles": [
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
     "Java Tutorial for Complete Beginners/1. Introduction",
     "Java Tutorial for Complete Beginners",
