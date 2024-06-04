@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 200
   },
   "right": {
     "id": "f479e276279d4a40",
@@ -164,8 +164,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3ba9f3ba92eadc95",
+  "active": "3b0184cc8ead6c2e",
   "lastOpenFiles": [
+    "The Complete Web Development Bootcamp/Section 1 - Front End Development",
+    "The Complete Web Development Bootcamp",
     "Java Tutorial for Complete Beginners/1. Introduction/What Java Is and How It Works.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 001 - Working with Variables in Python/Introduction to Python.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 043 - Introduction to CSS/Day 043 - Implementation.md",
@@ -201,10 +203,8 @@
     "[[How do Websites Work]].md",
     "HTML/Chapter 1 - Getting Started with HTML",
     "HTML",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 042 - Intermediate HTML/Anchor Element.md",
     "Attachments/Pasted image 20240506203208.png",
     "Attachments/Pasted image 20240506200207.png",
-    "C++/Chapter 1 - Introduction to OOP",
     "Attachments/Pasted image 20240405204608.png",
     "Attachments/2020-10-23_15-21-50-a2cee16c7b72811c007ed921900d481f.gif",
     "Attachments/2020-10-23_15-25-37-28877dab514343720243ddca867f7da4.png",
