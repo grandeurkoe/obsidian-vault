@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dfe1dabf522384e8",
+        "id": "fb6d9f0365995062",
         "type": "tabs",
         "children": [
           {
-            "id": "4b45ce374a174bd2",
+            "id": "9c2ec95c56d37c81",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,7 +156,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4b45ce374a174bd2",
+  "active": "9c2ec95c56d37c81",
   "lastOpenFiles": [
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 041 - Introduction to HTML/How does the internet work.md",
