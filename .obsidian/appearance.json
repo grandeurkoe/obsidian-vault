@@ -1,6 +1,4 @@
 {
-  "accentColor": "",
-  "baseFontSize": 12,
-  "translucency": false,
-  "cssTheme": "Obsidianite"
+  "theme": "obsidian",
+  "cssTheme": "Things"
 }
