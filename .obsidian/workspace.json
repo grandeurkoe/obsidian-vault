@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2304dea7da0e1bc2",
+        "id": "d1a180366111aeef",
         "type": "tabs",
         "children": [
           {
-            "id": "e64f4669d4623bac",
+            "id": "71afec66b0ca1759",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e64f4669d4623bac",
+  "active": "71afec66b0ca1759",
   "lastOpenFiles": [
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/Course Syllabus.pdf",
