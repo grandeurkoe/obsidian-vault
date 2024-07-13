@@ -1,4 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Obsidianite"
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "Comic Sans MS",
+  "interfaceFontFamily": "Comic Sans MS",
+  "baseFontSize": 13
 }
