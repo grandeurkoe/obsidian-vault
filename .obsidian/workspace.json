@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d1a180366111aeef",
+        "id": "cc83a8f0a94cea74",
         "type": "tabs",
         "children": [
           {
-            "id": "71afec66b0ca1759",
+            "id": "564eb73f60f1e771",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +141,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71afec66b0ca1759",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/Course Syllabus.pdf",
