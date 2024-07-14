@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc83a8f0a94cea74",
+        "id": "4109aa16cca37209",
         "type": "tabs",
         "children": [
           {
-            "id": "564eb73f60f1e771",
+            "id": "f9618e18bd76a902",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,11 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "564eb73f60f1e771",
+  "active": "f9618e18bd76a902",
   "lastOpenFiles": [
-    "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/Course Syllabus.pdf",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
+    "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
     "Data Structure and Algorithms/Miscellaneous/Technical Interview Mind Map.pdf",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
     "Data Structure and Algorithms/Miscellaneous/Interview Mind Map.pdf",
