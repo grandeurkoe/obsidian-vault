@@ -11,8 +11,12 @@
             "id": "f9618e18bd76a902",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
+                "staged": false,
+                "hash": "fd94be94cacdf5bf0be677ae2331f61955ad5b84"
+              }
             }
           }
         ]
