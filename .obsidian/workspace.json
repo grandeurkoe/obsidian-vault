@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4109aa16cca37209",
+        "id": "92fba011d7142e71",
         "type": "tabs",
         "children": [
           {
-            "id": "f9618e18bd76a902",
+            "id": "36b3bb21735ca217",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "100 Days of Code - The Complete Python Pro Bootcamp/Day 002 - Data Types and String Manipulation/Mathematical Operation.md",
-                "staged": false,
-                "hash": "fd94be94cacdf5bf0be677ae2331f61955ad5b84"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -122,23 +118,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2a75697977e106b",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
+              "state": {
+                "file": "2024-07-15.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,8 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9618e18bd76a902",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-07-15.md",
+    "Untitled 1.canvas",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/Course Syllabus.pdf",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/12 Rules to Learn to Code 2nd Edition.pdf",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
