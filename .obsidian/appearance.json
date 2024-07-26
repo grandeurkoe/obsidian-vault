@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "textFontFamily": "Comic Sans MS",
-  "interfaceFontFamily": "Comic Sans MS",
+  "textFontFamily": "Segoe UI,Comic Sans MS",
+  "interfaceFontFamily": "Segoe UI,Comic Sans MS",
   "baseFontSize": 13
 }
