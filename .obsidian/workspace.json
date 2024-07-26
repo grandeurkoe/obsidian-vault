@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92fba011d7142e71",
+        "id": "f3e396b3b3cbde83",
         "type": "tabs",
         "children": [
           {
-            "id": "36b3bb21735ca217",
+            "id": "71df0c687ad11e98",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,14 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "9a8b7528eb72582e",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9126421cb5d902",
+  "active": "71df0c687ad11e98",
   "lastOpenFiles": [
+    "2024-07-26.md",
     "Untitled.canvas",
     "2024-07-15.md",
     "Untitled 1.canvas",
