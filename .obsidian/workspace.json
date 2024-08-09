@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md"
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md"
               }
             }
           },
@@ -158,7 +158,9 @@
   },
   "active": "71df0c687ad11e98",
   "lastOpenFiles": [
+    "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md",
+    "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.6 Relational Operators.md",
     "Attachments/Pasted image 20240809212125.png",
     "Attachments/Pasted image 20240809211109.png",
@@ -171,8 +173,6 @@
     "Attachments/Pasted image 20240809204721.png",
     "Attachments/Pasted image 20240809204636.png",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.5 Steps for Creating an ER Diagram.md",
-    "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
-    "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.1 Database Management System.md",
     "Attachments",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/Attachments",
