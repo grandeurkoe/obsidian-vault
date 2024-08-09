@@ -156,8 +156,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71df0c687ad11e98",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Courses/Digital Vocational Program/Database Management using SQL/Structured Query Language",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.5 Steps for Creating an ER Diagram.md",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md",
     "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md",
@@ -204,7 +205,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Day 067 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Day 066 - Implementation.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 066 - RESTful Routing/Building Your Own API with RESTful Routing.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Installing packages and the requirements.txt.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Flask WTForm.md"
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 061 - Building Forms using Flask WTForms/Installing packages and the requirements.txt.md"
   ]
 }
