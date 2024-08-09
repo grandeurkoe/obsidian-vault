@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.1 Database Management System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.1 Database Management System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.1 Database Management System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md"
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.1 Database Management System.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "71df0c687ad11e98",
   "lastOpenFiles": [
+    "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
     "Attachments/Pasted image 20240809160745.png",
     "Attachments",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/Attachments/Pasted image 20240809160522.png",
@@ -167,7 +168,6 @@
     "Pasted image 20240809160110.png",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.2 Data Models.md",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.1 Database Management System.md",
-    "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.3 Object-Based Logical Model.md",
     "[[1.3 Object-Based Logical Model.md",
     "1.3.md",
     "Courses/Digital Vocational Program/Database Management using SQL/Data Models/Untitled.md",
@@ -190,7 +190,6 @@
     "Attachments/Pasted image 20231010121057.png",
     "Attachments/Pasted image 20231010121045.png",
     "Attachments/Pasted image 20231010120959.png",
-    "Attachments/Pasted image 20231010120946.png",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Cloning.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Branching and Merging.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 069 - Blog Capstone Project/Day 069 - Implementation.md",
