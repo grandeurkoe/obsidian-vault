@@ -9,4 +9,4 @@ Management of data involves:
 
 The main advantage of using DBMS are:
 - It provides an efficient and easy way to store, update, and retrieve data from a database.
-- It manages information about the users who interact with DBMS and task
+- It manages information about the users who interact with DBMS and tasks that these users can perform on the data.
