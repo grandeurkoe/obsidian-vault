@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/3 Structured Query Language/3.1 Introduction to SQL.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/3 Structured Query Language/3.1 Introduction to SQL.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/3 Structured Query Language/3.1 Introduction to SQL.md",
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program/Database Management using SQL/3 Structured Query Language/3.1 Introduction to SQL.md"
+                "file": "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "71df0c687ad11e98",
   "lastOpenFiles": [
-    "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md",
     "Courses/Digital Vocational Program/Database Management using SQL/3 Structured Query Language/3.1 Introduction to SQL.md",
+    "Courses/Digital Vocational Program/Database Management using SQL/2 Database Design/2.1 Keys.md",
     "Courses/Digital Vocational Program/Database Management using SQL/3 Structured Query Language",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.5 Steps for Creating an ER Diagram.md",
     "Courses/Digital Vocational Program/Database Management using SQL/1 Data Models/1.4 Record-Based Logical Model.md",
