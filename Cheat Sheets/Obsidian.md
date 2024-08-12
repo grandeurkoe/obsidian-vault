@@ -3,9 +3,9 @@
 - Ctrl + E: toggle edit mode
 - Ctrl + enter: toggle checkbox
 - Ctrl + shift + F: search among all files
-- Ctrl + P: command pannel
+- Ctrl + P: command panel
 - Ctrl + [ or ] : change indentation of a list item
-- Alt + click to make multiple cursos
+- Alt + click to make multiple cursor
 
 ### Internal linking
 
