@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.3 First Java Program.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+                "file": "Cheat Sheets/Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+                "file": "Cheat Sheets/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md"
+                "file": "Cheat Sheets/Obsidian.md"
               }
             }
           },
@@ -168,12 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db6a7cc6b9ff5e79",
+  "active": "13a565674ee68c59",
   "lastOpenFiles": [
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.1 Introduction to Java.md",
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
-    "Cheat Sheets/Obsidian.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.3 First Java Program.md",
+    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.1 Introduction to Java.md",
+    "Cheat Sheets/Obsidian.md",
     "Cheat Sheets",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.3 Object-Based Logical Model.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.2 Data Models.md",
