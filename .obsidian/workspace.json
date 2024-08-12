@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5,
-    "collapsed": true
+    "width": 397.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -171,11 +170,11 @@
   },
   "active": "db6a7cc6b9ff5e79",
   "lastOpenFiles": [
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.5 Difference between JDK, JRE, and JVM.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.4 Internal Details of HelloWorld.java.md",
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.3 First Java Program.md",
     "Cheat Sheets/Obsidian.md",
+    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.5 Difference between JDK, JRE, and JVM.md",
+    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.3 First Java Program.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.1 Introduction to Java.md",
     "Attachments/Pasted image 20240809160745.png",
     "Attachments/Pasted image 20240809173746.png",
