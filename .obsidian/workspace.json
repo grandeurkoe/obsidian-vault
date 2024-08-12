@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md"
+                "file": "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/Untitled.md"
               }
             }
           },
@@ -171,8 +170,9 @@
   },
   "active": "db6a7cc6b9ff5e79",
   "lastOpenFiles": [
-    "Cheat Sheets/Obsidian.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.2 Features of Java.md",
+    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/Untitled.md",
+    "Cheat Sheets/Obsidian.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.1 Introduction to Java.md",
     "Cheat Sheets",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.3 Object-Based Logical Model.md",
@@ -217,7 +217,6 @@
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Salting Passwords.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Hacking Password 101.md",
     "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Encryption and Hashing.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Day 068 - Implementation.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 067 - Blog Capstone Project RESTful Routing/Day 067 - Implementation.md"
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 068 - Authentication with Flask/Day 068 - Implementation.md"
   ]
 }
