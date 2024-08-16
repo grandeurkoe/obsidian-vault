@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 381.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Courses/Udemy/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9126421cb5d902",
+  "active": "b22b790acba9c61b",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp",
     "Courses/Udemy/Untitled.md",
     "Courses/Udemy",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.7 Data types.md",
@@ -198,7 +197,6 @@
     "Untitled 1.canvas",
     "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
     "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Cloning.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Branching and Merging.md"
+    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Cloning.md"
   ]
 }
