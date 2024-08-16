@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Udemy/Untitled.md"
+              }
             }
           },
           {
@@ -150,6 +152,7 @@
   },
   "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Courses/Udemy/Untitled.md",
     "Courses/Udemy",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.7 Data types.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics/1.6 Variable.md",
@@ -182,7 +185,6 @@
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/3. Structured Query Language",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.5 Steps for Creating an ER Diagram.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.4 Record-Based Logical Model.md",
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/2. Database Design",
     "Attachments/Pasted image 20240809211109.png",
     "Attachments/Pasted image 20240809211052.png",
     "Attachments/Pasted image 20240809210531.png",
