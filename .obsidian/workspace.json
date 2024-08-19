@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   },
   "active": "b22b790acba9c61b",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Attachments/Pasted image 20240819103237.png",
     "Attachments/Pasted image 20240819100724.png",
     "Attachments",
@@ -167,7 +168,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/4. HTML Heading Elements.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/3. What is HTML.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 04 ~ Multi-Page Websites",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML",
@@ -201,7 +201,6 @@
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.5 Steps for Creating an ER Diagram.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.4 Record-Based Logical Model.md",
     "Attachments/Pasted image 20240809211109.png",
-    "Attachments/Pasted image 20240809211052.png",
     "[[1.3 Object-Based Logical Model.md",
     "1.3.md",
     "Untitled.canvas",
