@@ -11,8 +11,12 @@
             "id": "b22b790acba9c61b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags.md"
+              }
             }
           },
           {
@@ -148,8 +156,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b9126421cb5d902",
+  "active": "b22b790acba9c61b",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/5. HTML Paragraph Elements.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/4. HTML Heading Elements.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/3. What is HTML.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 04 ~ Multi-Page Websites",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML",
@@ -178,7 +192,6 @@
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/3. Object Class",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/2. Control Statements",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Implementing OOPS using Java/1. Java Basics",
-    "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/1. Data Models/1.6 Relational Operators.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/2. Database Design/2.1 Keys.md",
     "Courses/Digital Vocational Program/Advanced Program in Java Full Stack Development/Term 1 - Foundation/Database Management using SQL/3. Structured Query Language/3.1 Introduction to SQL.md",
@@ -191,12 +204,7 @@
     "[[1.3 Object-Based Logical Model.md",
     "1.3.md",
     "Courses/Digital Vocational Program/Database Management using SQL/Data Models/Untitled.md",
-    "2024-07-26.md",
     "Untitled.canvas",
-    "2024-07-15.md",
-    "Untitled 1.canvas",
-    "The Complete Web Development Bootcamp/Section 1. Front-End Development/How Does the Internet Actually Work.md",
-    "Data Structure and Algorithms/Miscellaneous/Resume Cheat Sheet.md",
-    "100 Days of Code - The Complete Python Pro Bootcamp/Day 070 - Git, Github and Version Control/Cloning.md"
+    "Untitled 1.canvas"
   ]
 }
