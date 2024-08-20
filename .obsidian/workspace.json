@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.5
+    "width": 377.5,
+    "collapsed": true
   },
   "right": {
     "id": "78616291ab416094",
@@ -156,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b22b790acba9c61b",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/10. Image Elements.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 04 ~ Multi-Page Websites/11. Computer File Paths.md",
