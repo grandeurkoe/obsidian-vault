@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1895f3633f6450fd",
+        "id": "ab46bf8950bfe6fb",
         "type": "tabs",
         "children": [
           {
-            "id": "80d814a7bb93f30c",
+            "id": "92e02062359249db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md"
               }
             }
           },
@@ -156,10 +156,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80d814a7bb93f30c",
+  "active": "92e02062359249db",
   "lastOpenFiles": [
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/24. CSS Float.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/23. CSS Display.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/22. CSS Positioning.md",
@@ -185,10 +190,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/5. HTML Paragraph Elements.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/9. Anchor Elements.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/8. Nesting and Indentation.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/7. The List Element.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags or HTML Void Elements.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/3. What is HTML.md",
     "Attachments/Pasted image 20240819103237.png",
     "Attachments/Pasted image 20240819100724.png",
     "Attachments",
@@ -196,7 +197,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 04 ~ Multi-Page Websites",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development",
     "Attachments/jdk2.png",
     "Attachments/jre2.png",
     "Attachments/Pasted image 20240809160745.png",
