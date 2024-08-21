@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md"
               }
             }
           },
@@ -158,9 +158,9 @@
   },
   "active": "92e02062359249db",
   "lastOpenFiles": [
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/22. CSS Positioning.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
