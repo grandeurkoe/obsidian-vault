@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md"
               }
             }
           },
@@ -156,18 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92e02062359249db",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 14 ~ Introduction to JavaScript ES6",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Untitled.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/30. Flex Sizing.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/29. Flex Layout.md",
     "This.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/22. CSS Positioning.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/24. CSS Float.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/23. CSS Display.md",
@@ -196,7 +196,6 @@
     "Pasted image 20240819100632.png",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 04 ~ Multi-Page Websites",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML",
     "Attachments/jdk2.png",
     "Attachments/jre2.png",
     "Attachments/Pasted image 20240809160745.png",
