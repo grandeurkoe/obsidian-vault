@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/21. Combining CSS Selectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/21. Combining CSS Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/21. Combining CSS Selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/21. Combining CSS Selectors.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "ade8dea0fbcc4a3c",
   "lastOpenFiles": [
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 05 ~ Introduction to CSS/15. CSS Selectors.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/22. CSS Positioning.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 05 ~ Introduction to CSS/15. CSS Selectors.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/21. Combining CSS Selectors.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/22. CSS Positioning.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/19. The CSS Box Model - Margin, Padding and Border.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/18. Inspecting CSS.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/17. Font Properties.md",
