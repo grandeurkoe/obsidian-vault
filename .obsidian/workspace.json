@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/28. Flex Direction.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "ade8dea0fbcc4a3c",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ CSS Flexbox/27. Flex.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/24. CSS Float.md",
@@ -184,7 +185,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/4. HTML Heading Elements.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/3. What is HTML.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced/Hibernate and Spring Framework",
     "Courses/Digital Vocational Program (DVOC)",
