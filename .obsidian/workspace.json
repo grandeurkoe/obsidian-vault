@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md"
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "24a49b663c0a1422",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/26. Media Queries.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/27. Flex.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/30. Flex Sizing.md",
@@ -184,7 +185,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/9. Anchor Elements.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/8. Nesting and Indentation.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/7. The List Element.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags or HTML Void Elements.md",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced/Hibernate and Spring Framework",
     "Courses/Digital Vocational Program (DVOC)",
