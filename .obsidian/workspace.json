@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "034b568d44c630e9",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
