@@ -11,8 +11,12 @@
             "id": "24a49b663c0a1422",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/20. The Cascade - Specificity and Inheritance.md"
+              }
             }
           },
           {
