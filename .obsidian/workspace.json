@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md"
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "bf74a12153cbc92e",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240830105202.png",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.5 Implementation.md",
+    "Attachments/Pasted image 20240830105202.png",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.2 Relational Data Structure.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
@@ -187,7 +189,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 04 ~ Multi-Page Websites/12. The HTML Boilerplate.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/16. CSS Colors.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 05 ~ Introduction to CSS/14. How to add CSS.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 05 ~ Introduction to CSS/13. Why do we need CSS.md",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced/Hibernate and Spring Framework",
     "Courses/Digital Vocational Program (DVOC)",
@@ -203,7 +204,6 @@
     "Attachments/Pasted image 20240809173746.png",
     "Attachments/Pasted image 20240809212125.png",
     "Attachments/javacodecompile.png",
-    "Attachments/Pasted image 20240809211109.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
