@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 379.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -156,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf74a12153cbc92e",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.5 Setting Up a Hibernate Project in Eclipse with Maven.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
