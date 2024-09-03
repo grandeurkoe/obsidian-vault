@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md"
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md"
               }
             }
           },
@@ -158,16 +158,16 @@
   },
   "active": "bf74a12153cbc92e",
   "lastOpenFiles": [
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.6 Hibernate Configuration and Code Example.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.2 Relational Data Structure.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.6 Hibernate Configuration and Code Example.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.5 Setting Up a Hibernate Project in Eclipse with Maven.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.9 Employee and Address Aggregate Management with Hibernate.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.8 Department and Employee Join Management with Hibernate.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/hibernate.cfg.xml.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.2 Relational Data Structure.md",
     "Attachments/Pasted image 20240830115759.png",
     "Attachments/Pasted image 20240830105202.png",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
