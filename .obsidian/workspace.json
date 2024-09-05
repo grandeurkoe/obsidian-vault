@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md"
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md"
               }
             }
           },
@@ -156,8 +156,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf74a12153cbc92e",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 11 ~ REST API with Spring",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.2 Relational Data Structure.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.5 Setting Up a Hibernate Project in Eclipse with Maven.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.6 Hibernate Configuration and Code Example.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.8 Department and Employee Join Management with Hibernate.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.9 Employee and Address Aggregate Management with Hibernate.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/33. Grid Item Placement.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/31. Display Grid.md",
@@ -174,16 +184,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 03 ~ Intermediate HTML/7. The List Element.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/6. Self Closing Tags or HTML Void Elements.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/5. HTML Paragraph Elements.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/4. HTML Heading Elements.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 02 ~ Introduction to HTML/3. What is HTML.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.6 Hibernate Configuration and Code Example.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.5 Setting Up a Hibernate Project in Eclipse with Maven.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.9 Employee and Address Aggregate Management with Hibernate.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.8 Department and Employee Join Management with Hibernate.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.4  Java Persistence API (JPA).md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
     "Attachments/Pasted image 20240830115759.png",
     "Attachments/Pasted image 20240830105202.png",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework",
