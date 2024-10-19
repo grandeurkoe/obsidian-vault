@@ -16,10 +16,25 @@
                 "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "25. How to Create Responsive Websites"
+            }
+          },
+          {
+            "id": "30f23b19d6a9a0b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 25. How to Create Responsive Websites"
             }
           },
           {
@@ -105,7 +128,9 @@
                 "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 25. How to Create Responsive Websites"
             }
           },
           {
@@ -116,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +153,9 @@
               "type": "outline",
               "state": {
                 "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 08 ~ Advanced CSS/25. How to Create Responsive Websites.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 25. How to Create Responsive Websites"
             }
           },
           {
@@ -134,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
-              "state": {}
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
             }
           }
         ],
@@ -157,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b9126421cb5d902",
+  "active": "30f23b19d6a9a0b6",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 07 ~ Intermediate CSS/21. Combining CSS Selectors.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 05 ~ Introduction to CSS/14. How to add CSS.md",
