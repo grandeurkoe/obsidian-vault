@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
-    "collapsed": true
+    "width": 374.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -152,8 +151,8 @@
             "state": {
               "type": "dictionary-view",
               "state": {},
-              "icon": "quote-glyph",
-              "title": "Dictionary"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
