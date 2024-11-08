@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "33. Grid Item Placement"
             }
+          },
+          {
+            "id": "3c248f790e253aa0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,14 +167,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "532b6840d5a1d204",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf74a12153cbc92e",
+  "active": "3c248f790e253aa0",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
