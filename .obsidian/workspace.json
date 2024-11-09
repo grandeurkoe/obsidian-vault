@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "33. Grid Item Placement"
             }
-          },
-          {
-            "id": "3c248f790e253aa0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c248f790e253aa0",
+  "active": "bf74a12153cbc92e",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
