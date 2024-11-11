@@ -11,10 +11,14 @@
             "id": "e716d286764ba2f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/University of Helsinki’s MOOCs/Java Programming I/Part 1/1. Getting started with programming.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Getting started with programming"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 265.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -166,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b9126421cb5d902",
+  "active": "e716d286764ba2f3",
   "lastOpenFiles": [
+    "Courses/University of Helsinki’s MOOCs/Java Programming I/Part 1/1. Getting started with programming.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/33. Grid Item Placement.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid/32. Grid Sizing.md",
@@ -208,7 +214,6 @@
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.2 Relational Data Structure.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 11 ~ REST API with Spring",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.8 Department and Employee Join Management with Hibernate.md",
     "Attachments/Pasted image 20240830115759.png",
     "Attachments/Pasted image 20240830105202.png",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework",
