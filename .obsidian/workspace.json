@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "29. Flex Layout"
             }
+          },
+          {
+            "id": "f214344d99280274",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e716d286764ba2f3",
+  "active": "f214344d99280274",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/27. Flex.md",
