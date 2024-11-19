@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38fdc917d2809b19",
+        "id": "83b27b0662dc20b7",
         "type": "tabs",
         "children": [
           {
-            "id": "e716d286764ba2f3",
+            "id": "fad042b72f186b98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2. How Do Websites Actually Work"
+              "title": "New tab"
             }
           }
         ]
@@ -185,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e716d286764ba2f3",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/University of Helsinki’s MOOCs/Java Programming I/Part 1/1. Getting started with programming.md",
     "Courses/University of Helsinki’s MOOCs/Java Programming I/Part 1/4. Variables.md",
