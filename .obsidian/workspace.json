@@ -11,10 +11,14 @@
             "id": "fad042b72f186b98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. How Does the Internet Actually Work"
             }
           }
         ]
@@ -181,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b9126421cb5d902",
+  "active": "fad042b72f186b98",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/2. How Do Websites Actually Work.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
