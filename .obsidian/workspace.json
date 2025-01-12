@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f43b0081324843e",
+        "id": "8c82e7de4e4524c1",
         "type": "tabs",
         "children": [
           {
-            "id": "9da47249729a9ca0",
+            "id": "633246f7c25bea55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "29. Flex Layout"
+              "title": "New tab"
             }
           }
         ]
@@ -185,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9da47249729a9ca0",
+  "active": "633246f7c25bea55",
   "lastOpenFiles": [
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
+    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/27. Flex.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/17. Font Properties.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/16. CSS Colors.md",
