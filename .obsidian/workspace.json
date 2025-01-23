@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "887b9ce9e03692f8",
+        "id": "744750877c087084",
         "type": "tabs",
         "children": [
           {
-            "id": "d3278a11f0a902cd",
+            "id": "058e9a25bf5b052f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3278a11f0a902cd",
+  "active": "058e9a25bf5b052f",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
