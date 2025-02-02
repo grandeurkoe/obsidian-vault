@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "744750877c087084",
+        "id": "bd6aff25f2e33323",
         "type": "tabs",
         "children": [
           {
-            "id": "058e9a25bf5b052f",
+            "id": "9374a15ced2d7abc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -184,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "058e9a25bf5b052f",
+  "active": "9374a15ced2d7abc",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
