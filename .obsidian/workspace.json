@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f72fd08426ef3f",
+        "id": "a0cc4b428da18f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "62475d79ab5c4a74",
+            "id": "5cff087451205117",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Plugin Updates"
             }
           }
         ]
@@ -182,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62475d79ab5c4a74",
+  "active": "5cff087451205117",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
