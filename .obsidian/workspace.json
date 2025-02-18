@@ -158,8 +158,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81d5b9c704a5846a",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/29. Flex Layout.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/28. Flex Direction.md",
