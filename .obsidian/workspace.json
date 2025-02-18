@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
+                "file": "Courses/Udemy/100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing Births & Deaths at Vienna Hospital.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Searching and Traversal"
+              "title": "Analyzing Births & Deaths at Vienna Hospital"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 604.5
   },
   "right": {
     "id": "78616291ab416094",
@@ -185,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81d5b9c704a5846a",
+  "active": "4b9126421cb5d902",
   "lastOpenFiles": [
+    "Courses/Udemy/Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Recursion.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Algorithms.md",
@@ -225,7 +226,6 @@
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 09 ~ Flexbox/27. Flex.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/17. Font Properties.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/16. CSS Colors.md",
-    "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 01 ~ Front-End Web Development/1. How Does the Internet Actually Work.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 11 ~ REST API with Spring",
     "Courses/Digital Vocational Program (DVOC)/Term 3 ~ Advanced/Hibernate and Spring Framework/Hibernate Framework",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 10 ~ Grid",
