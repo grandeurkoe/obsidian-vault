@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a545f981d50dd2",
+        "id": "2b9bd1a17426f484",
         "type": "tabs",
         "children": [
           {
-            "id": "81d5b9c704a5846a",
+            "id": "bd65923cf88820f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Udemy/100 Days of Code - The Complete Python Pro Bootcamp/Day 080 - The Tragic Discovery of Handwashing - t-Tests & Distributions/Analyzing Births & Deaths at Vienna Hospital.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Analyzing Births & Deaths at Vienna Hospital"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 277.5
   },
   "right": {
     "id": "78616291ab416094",
