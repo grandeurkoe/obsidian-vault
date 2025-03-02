@@ -11,14 +11,12 @@
             "id": "6a5875aab232905b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/2020-10-20_17-08-21-9a93fed328b9fcb987fe7f1fe891213a.png"
               },
-              "icon": "lucide-file",
-              "title": "14.7 Introduction to Angular"
+              "icon": "lucide-image",
+              "title": "2020-10-20_17-08-21-9a93fed328b9fcb987fe7f1fe891213a"
             }
           }
         ]
@@ -188,11 +186,18 @@
   },
   "active": "6a5875aab232905b",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240819100724.png",
+    "Attachments/Pasted image 20240819103237.png",
+    "Attachments/Pasted image 20240830105202.png",
+    "Attachments/Pasted image 20240830115759.png",
+    "Attachments/Pasted image 20250302145456.png",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.8 Angular Folder Structure.md",
+    "Attachments/Folder Structure (Part 1).jpg",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
     "Attachments/Angular Installation.jpg",
     "Attachments/Features of Angular.jpg",
     "Attachments/Angular Architecture.jpg",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.1 Introduction to TypeScript.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.5 Typescript Class Constructor.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.6 Typescript Class Inheritance.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.4 TypeScript Classes.md",
@@ -206,7 +211,6 @@
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.3 JSX Expression.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.2 Components in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.1 Introduction to ReactJS.md",
-    "Attachments/Pasted image 20250302145456.png",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.3 Object-Relational Mapping (ORM).md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.1 Some Important Keywords.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework/10.7 Employee Management with Hibernate.md",
@@ -218,14 +222,8 @@
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Recursion.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
-    "Courses/Udemy/Data Structure and Algorithms/Algorithms/Algorithms.md",
     "Attachments/Pasted image 20240604120430.png",
     "Attachments/Pasted image 20240509205203.png",
-    "Attachments/Pasted image 20240506203208.png",
-    "Attachments/Pasted image 20240506200207.png",
-    "Attachments/Pasted image 20240405204608.png",
-    "Attachments/Pasted image 20231010175845.png",
-    "Attachments/Pasted image 20231010175816.png",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development",
     "Courses/Digital Vocational Program (DVOC)",
