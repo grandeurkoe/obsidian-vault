@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "666bb2781a6c2984",
+        "id": "2f9a76339b8a5aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "ba709a7bae88943f",
+            "id": "f3b936610ea8f928",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.7 CRUD in ReactJS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "13.7 CRUD in ReactJS"
+              "title": "New tab"
             }
           }
         ]
@@ -186,8 +182,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba709a7bae88943f",
+  "active": "f3b936610ea8f928",
   "lastOpenFiles": [
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.21 Angular Forms.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.9 Angular Modules.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.8 Angular Folder Structure.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.1 Introduction to TypeScript.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.7 CRUD in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.5 Form in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.4 Lists in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.3 JSX Expression.md",
@@ -195,10 +197,7 @@
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.1 Introduction to ReactJS.md",
     "Courses/Udemy/Java Tutorial for Complete Beginners/Section 1 - Introduction",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.2 Typescript Basic Programming Rules.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.1 Introduction to TypeScript.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.7 CRUD in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.6 Routing in ReactJS.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.21 Angular Forms.md",
     "Attachments/Form Module.jpg",
     "Attachments/Template-Driven Forms.jpg",
     "Attachments/Angular Forms.jpg",
@@ -223,8 +222,6 @@
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.15 ngFor Structural Directive.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.13 Attribute Directives.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.5 Typescript Class Constructor.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.4 TypeScript Classes.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.3 TypeScript Function.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 10 ~ Hibernate and Spring Framework",
