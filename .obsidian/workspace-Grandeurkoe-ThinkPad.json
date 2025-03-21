@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc42f0417b8f7ff",
+        "id": "532b076b88fd6476",
         "type": "tabs",
         "children": [
           {
-            "id": "d56fa05409f911aa",
+            "id": "c85bb7699a6c0fea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "14.7 Introduction to Angular"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 413.5
   },
   "right": {
     "id": "7c288a559c6ed28b",
@@ -166,12 +170,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56fa05409f911aa",
+  "active": "c85bb7699a6c0fea",
   "lastOpenFiles": [
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.23 HttpClient.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
-    "Attachments/HttpClient (Part 2).jpg",
-    "Attachments/HttpClient (Part 1).jpg",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.1 Introduction to TypeScript.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.7 CRUD in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.1 Introduction to ReactJS.md",
@@ -181,6 +181,7 @@
     "Attachments/Observable (Part 1).jpg",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.21 Angular Forms.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.20 Angular Services.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/19. The CSS Box Model - Margin, Padding and Border.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/18. Inspecting CSS.md",
     "Courses/Udemy/The Complete 2024 Web Development Bootcamp/Section 06 ~ CSS Properties/17. Font Properties.md",
