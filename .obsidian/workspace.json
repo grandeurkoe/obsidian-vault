@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1dc42f0417b8f7ff",
+        "id": "305a87dac08bae32",
         "type": "tabs",
         "children": [
           {
-            "id": "d56fa05409f911aa",
+            "id": "7fa90bc6eeb47cc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.23 HttpClient.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "14.23 HttpClient"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 380.5
   },
   "right": {
     "id": "7c288a559c6ed28b",
@@ -166,10 +162,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d56fa05409f911aa",
+  "active": "bc458a05b8b4e318",
   "lastOpenFiles": [
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.1 Introduction to TypeScript.md",
