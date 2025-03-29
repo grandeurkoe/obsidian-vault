@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,6 +173,10 @@
   "active": "1399d530ac982c2b",
   "lastOpenFiles": [
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.19 Observable.md",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.20 HttpClient.md",
+    "Attachments/HttpClient (Part 1).jpg",
+    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.9 Angular Modules.md",
+    "Attachments/Angular Modules (Part 3).jpg",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.18 Angular Forms.md",
     "Attachments/Template-Driven Form Example (Part 7).jpg",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.17 Angular Services.md",
@@ -188,11 +192,9 @@
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.5 Typescript Class Constructor.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.8 Angular Folder Structure.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.7 Introduction to Angular.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.9 Angular Modules.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.10 Angular Component.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.11 Angular Data Binding.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.13 Attribute Directives.md",
-    "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.20 HttpClient.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.17 ngIf Structural Directive.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.16 ngSwitch Structural Directive.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 14 ~ Angular/14.15 ngFor Structural Directive.md",
@@ -204,8 +206,6 @@
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.7 CRUD in ReactJS.md",
     "Courses/Digital Vocational Program (DVOC)/Advanced Program in Java Full Stack Development/Section 13 ~ React/13.6 Routing in ReactJS.md",
     "Attachments/HttpClient (Part 2).jpg",
-    "Attachments/HttpClient (Part 1).jpg",
-    "Attachments/RxJS Observable (Part 1).jpg",
-    "Attachments/Observable (Part 2).jpg"
+    "Attachments/RxJS Observable (Part 1).jpg"
   ]
 }
