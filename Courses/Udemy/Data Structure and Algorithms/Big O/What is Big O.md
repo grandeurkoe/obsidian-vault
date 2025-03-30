@@ -1,82 +1,133 @@
-# What is Big O?
+### **What is Big O?**
 
-Another term for Big O is Asymptotic Analysis.
+Big O, also known as **Asymptotic Analysis**, is a way of describing the performance or complexity of an algorithm. It helps in understanding how the algorithm will scale as the size of the input grows.
 
-Good code is readable and scalable(speed or time complexity + memory or space complexity).
+Good code is not only readable but also **scalable** — meaning it handles both **speed (time complexity)** and **memory (space complexity)** efficiently.
 
-Big O helps us to ascertain the scalability of a executable code.
+Big O notation specifically focuses on **how long it takes for an algorithm to execute** relative to the size of the input.
 
-Big O notation is used to figure out how long it takes for an algorithm to execute.
+It describes the **worst-case scenario** or the **maximum amount of resources (time or space)** an algorithm might use, regardless of how the input changes. It sets an **upper limit** on the growth rate, ensuring that the algorithm's performance will not exceed the described complexity.
 
-Big O notation describes the worst-case scenario or the maximum amount of resources (time or space) an algorithm might use for a given input size. It provides an upper limit on the growth rate, which means the actual performance of the algorithm will not exceed the described complexity.
+For a more detailed overview of Big O complexities, you can check the Big O Complexity Graph.
 
-Checkout the Big O complexity graph [here](Big%20O%20-%20Know%20Thy%20Complexities.pdf).
-## [O(1)](Big%20O%20-%20Cheat%20Sheet.pdf)
+---
 
-For a single input the Big O is O(1) and if the number of inputs is 10,000 the Big O is O(10000).  
+### **Common Big O Notations**
 
-This is also known as constant time. Here irrespective of the number of inputs the number of operation will remain constant.  
+#### **O(1) - Constant Time**
 
-The algorithm's performance is constant, regardless of the input size.
+- **Description**: The algorithm's performance is constant, meaning it takes the same time regardless of the size of the input.
+    
+- **Example**: Accessing an element in an array by index.
+    
+- **When it occurs**: No loops or recursive calls.
+    
+- **Complexity**: **Good complexity** because it doesn’t depend on input size.
+    
+- **Real-life Example**: Checking if a number is odd or even.
+    
 
-This has no loops.
+#### **O(log n) - Logarithmic Time**
 
-O(1) is of good complexity
+- **Description**: The algorithm's performance grows logarithmically with the size of the input. This often happens when the input is reduced by half with each step (e.g., in binary search).
+    
+- **Example**: Binary Search (on a sorted list).
+    
+- **When it occurs**: Algorithms that repeatedly divide the input in half.
+    
+- **Complexity**: **Good complexity** because it grows very slowly as the input size increases.
+    
+- **Real-life Example**: Searching in a sorted array (binary search).
+    
 
-## [O(log n)](Big%20O%20-%20Cheat%20Sheet.pdf)
+#### **O(n) - Linear Time**
 
-This is also known as logarithmic time.
+- **Description**: The algorithm’s performance grows directly in proportion to the input size. As the number of inputs increases, the operations increase linearly.
+    
+- **Example**: Looping through each element in an array or list.
+    
+- **When it occurs**: Algorithms with a single loop or recursion over all input items.
+    
+- **Complexity**: **Fair complexity** because it scales with input size.
+    
+- **Real-life Example**: Finding the maximum value in an unsorted array.
+    
 
-The algorithm's performance grows logarithmically with the size of the input.
+#### **O(n log n) - Linearithmic Time**
 
-Usually searching algorithms have log n if they are sorted (Binary Search).
+- **Description**: This is a combination of linear and logarithmic growth. Common in efficient sorting algorithms.
+    
+- **Example**: Merge Sort, Heap Sort.
+    
+- **When it occurs**: Often in algorithms that divide the data and perform a linear operation on each division.
+    
+- **Complexity**: **Bad time complexity**, but still relatively efficient for large datasets.
+    
+- **Real-life Example**: Sorting large datasets efficiently.
+    
 
-O(log n) is of good complexity.
+#### **O(n²) - Quadratic Time**
 
-## [O(n)](Big%20O%20-%20Cheat%20Sheet.pdf)
+- **Description**: The algorithm’s performance is proportional to the square of the input size. This typically happens in algorithms with nested loops.
+    
+- **Example**: Bubble Sort, Insertion Sort.
+    
+- **When it occurs**: Algorithms with nested loops or recursive calls that iterate over all combinations of input.
+    
+- **Complexity**: **Horrible complexity** because performance degrades rapidly as the input size grows.
+    
+- **Real-life Example**: Comparing every pair of elements in an array.
+    
 
-This is also known as linear time. Here n is an arbitrary variable. So, as the number of inputs increase the number of operations also increase linearly.  
+#### **O(2ⁿ) - Exponential Time**
 
-O(n) is the most common Big O notation you will find.
+- **Description**: The algorithm’s performance doubles with each additional element in the input. This is common in recursive algorithms that solve a problem by dividing it into multiple smaller subproblems.
+    
+- **Example**: Solving the Travelling Salesman Problem (Brute Force).
+    
+- **When it occurs**: Often in recursive algorithms that try all possibilities for each input.
+    
+- **Complexity**: **Horrible complexity**, as the performance becomes infeasible for large inputs.
+    
+- **Real-life Example**: Certain recursive algorithms for solving combinatorial problems.
+    
 
-The performance is directly proportional to the size of the input.
+#### **O(n!) - Factorial Time**
 
-Common in algorithms with a `for` or a `while` loop.
+- **Description**: The algorithm’s performance grows factorially with the size of the input. This typically happens in algorithms that have nested loops where each loop depends on the size of the input.
+    
+- **Example**: Solving the Travelling Salesman Problem (Brute Force with all possible permutations).
+    
+- **When it occurs**: Algorithms that generate all permutations or combinations of input.
+    
+- **Complexity**: **Horrible complexity**, often the result of a poorly optimized solution.
+    
+- **Real-life Example**: Finding all permutations of a string.
+    
 
-O(n) is of fair complexity.
+---
 
-## [O(n log n)](Big%20O%20-%20Cheat%20Sheet.pdf)
+### **Summary of Complexity Rankings**:
 
-This is also known as linearithmic time.
+- **O(1)**: Constant time (best).
+    
+- **O(log n)**: Logarithmic time (good).
+    
+- **O(n)**: Linear time (fair).
+    
+- **O(n log n)**: Linearithmic time (bad, but still efficient for large datasets).
+    
+- **O(n²)**: Quadratic time (horrible).
+    
+- **O(2ⁿ)**: Exponential time (horrible).
+    
+- **O(n!)**: Factorial time (horrible).
+    
 
-Common in efficient sorting algorithms like merge sort and heap sort.
+---
 
-O(n log n) is of bad time complexity.
+By understanding Big O, you can better assess and choose algorithms based on the problem at hand. Efficient code ensures scalability and handles large input sizes with minimal resource usage.
 
-## [O(n^2)](Big%20O%20-%20Cheat%20Sheet.pdf)
+For further study, check out the Big O Cheat Sheet for more in-depth examples and explanations.
 
-This is also known as quadratic time. Here the number the operation will be square of the number of inputs.  
-
-Common in algorithms with a nested loop.
-
-The performance is proportional to the square of the size of the input.
-
-O(n^2) is of horrible complexity.
-
-## [O (2^n)](Big%20O%20-%20Cheat%20Sheet.pdf)
-
-This is also known as exponential time.
-
-Common in recursive algorithm that solve a problem of size N.
-
-The performance doubles with each additional element in the input.
-
-O(2^n) is of horrible complexity.
-
-## [O(n!)](Big%20O%20-%20Cheat%20Sheet.pdf)
-
-This is known as factorial time. Here the number of nested loops increase for every input.  
-
-The performance grows factorially with the size of the input.
-
-O(n!) is of horrible complexity. If you're doing this you've fucked up.
+Let me know if you'd like more details or need help with anything specific!
