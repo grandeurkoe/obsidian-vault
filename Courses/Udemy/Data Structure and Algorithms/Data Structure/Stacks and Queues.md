@@ -1,70 +1,123 @@
-# Stacks and Queues
+# **Stacks and Queues**
 
-Stacks and Queues are what we call Linear Data Structure.
+**Stacks** and **Queues** are linear data structures that are built to handle data in a specific order. These data structures are commonly used to manage data where operations need to follow strict rules regarding access to elements (either the beginning or the end of the structure). Both stacks and queues can be implemented using arrays or linked lists and are widely used in various applications such as undo operations, scheduling tasks, or managing resources.
 
-Linear Data Structure allows us to traverse data elements sequentially.
+## **What are Linear Data Structures?**
 
-Stacks and Queues are only used to run commands like push, pop, peek i.e. commands that deal with data element at the beginning and the end.
+Linear data structures allow elements to be accessed sequentially, one after the other. Both stacks and queues operate in a linear fashion, but they differ in the specific order in which elements are added or removed.
 
-Stacks and Queues are higher level data structure, which means that they are built on top of lower level data structure like Arrays and Linked Lists.
+---
 
-Sometimes it is useful to limit the number of operations that can be performed on a data structure.
+## **Stacks**
 
-## Stacks
+Stacks follow the **Last In, First Out (LIFO)** principle, meaning that the last element added to the stack is the first one to be removed.
 
-Stacks follow Last In First Out(LIFO).
+- **Use Cases**:
+    
+    - Undo functionality in applications (like text editors).
+        
+    - Function call management (e.g., call stack in programming languages).
+        
+    - Browsing history in web browsers.
+        
 
-Most programming languages are built based on the concept of Stacks.
+### **Operations on a Stack**:
 
-The process of undoing changes also makes use of Stacks.
+1. **PUSH**: Add an element to the top of the stack.
+    
+2. **POP**: Remove the element from the top of the stack.
+    
+3. **PEEK**: Look at the top element without removing it.
+    
+4. **LOOKUP**: Search for an element (O(n) complexity).
+    
 
-Stacks can be built using either Arrays or Linked Lists.
+### **Time Complexity**:
 
-Since Arrays are stored in the memory right next to each other, it is faster to access array elements. However, Linked List elements are scattered all over memory and thus accessing them takes a longer time.
+- **LOOKUP**: O(n)
+    
+- **POP**: O(1)
+    
+- **PUSH**: O(1)
+    
+- **PEEK**: O(1)
+    
 
-The limitation of using Array to build stacks is that they can only hold so many elements before they run out of memory at which point we will have to create another array to hold the extra elements.
+### **Implementation**:
 
-### Time Complexity
+1. **Implementing a Stack using an Array**:
+    
+    - [GitHub Link: Implementing a Stack using Array](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/82453132e845d75608172b124978b20bab83517c/data-structures/stacks-and-queues/implementing-a-stack-using-array)
+        
+2. **Implementing a Stack using Linked List**:
+    
+    - [GitHub Link: Implementing a Stack using Linked List](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/89e2a794d97c1cfd1a8bdedbb6a63722c0bc7c84/data-structures/stacks-and-queues/implementing-a-stack-using-linked-list)
+        
 
-1. LOOKUP - O(n).
-2. POP - O(1).
-3. PUSH - O(1).
-4. PEEK - O(1) - To get the first element of the stack or the element at the top of the stack.
+---
 
-### Implementation
+## **Queues**
 
-1. Implementing a Stack using Array - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/82453132e845d75608172b124978b20bab83517c/data-structures/stacks-and-queues/implementing-a-stack-using-array)
-2. Implementing a Stack using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/89e2a794d97c1cfd1a8bdedbb6a63722c0bc7c84/data-structures/stacks-and-queues/implementing-a-stack-using-linked-list)
+Queues follow the **First In, First Out (FIFO)** principle, meaning that the first element added to the queue is the first one to be removed.
 
-## Queues
+- **Use Cases**:
+    
+    - Task scheduling in operating systems (e.g., CPU scheduling).
+        
+    - Message queue systems.
+        
+    - Print job management in printers.
+        
 
-Queues follow First In First Out(FIFO).
+### **Operations on a Queue**:
 
-Arrays are not used to build queues because they are inefficient.
+1. **ENQUEUE**: Add an element to the end of the queue.
+    
+2. **DEQUEUE**: Remove an element from the front of the queue.
+    
+3. **PEEK**: Look at the front element without removing it.
+    
+4. **LOOKUP**: Search for an element (O(n) complexity).
+    
 
-Queues are usually built using Linked Lists.
+### **Time Complexity**:
 
-We don't use Arrays to build Queues because we remove the first element in the array then each subsequent element would have to be shifted which take a long time(O(n)).
+- **LOOKUP**: O(n)
+    
+- **ENQUEUE**: O(1)
+    
+- **DEQUEUE**: O(1)
+    
+- **PEEK**: O(1)
+    
 
-In contrast, the time complexity of removing the first element in Linked List is O(1).
+### **Implementation**:
 
-### Time Complexity
+1. **Implementing a Queue using Linked List**:
+    
+    - [GitHub Link: Implementing a Queue using Linked List](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/9eae60e307700b04dde6fe551c7b2e9165d44258/data-structures/stacks-and-queues/implementing-a-queue-using-linked-list)
+        
 
-1. LOOKUP - O(n).
-2. ENQUEUE - O(1).
-3. DEQUEUE - O(1).
-4. PEEK - O(1).
+---
 
-### Implementation
+## **Advantages and Disadvantages of Stacks and Queues**
 
-Implementing a Queue using Linked List - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/9eae60e307700b04dde6fe551c7b2e9165d44258/data-structures/stacks-and-queues/implementing-a-queue-using-linked-list)
+### **Advantages**:
 
-## What are Stacks + Queues good for?
+1. **Fast Operations**: Both stacks and queues provide fast operations such as **PUSH**, **POP**, **ENQUEUE**, and **DEQUEUE** (usually O(1)).
+    
+2. **Fast Peek**: You can quickly check the top element of a stack or the front element of a queue without removing them.
+    
+3. **Ordered**: Both stacks and queues are ordered structures, meaning elements are processed in a specific sequence.
+    
 
-1. Fast operations.
-2. Fast peek.
-3. Ordered.
+### **Disadvantages**:
 
-## What are Stacks + Queues bad for?
+1. **Slow Lookup**: Since elements are added or removed from one end (or both ends), searching for an element in a stack or queue takes linear time, O(n), since traversal is required.
+    
 
-1. Slow lookup.
+---
+
+## **Conclusion**
+
+Stacks and queues are foundational data structures that offer efficient operations in specific scenarios. While stacks are great for handling data in a LIFO manner, and queues are ideal for FIFO operations, both can be used in a variety of applications. Understanding their properties, strengths, and limitations is essential for selecting the right data structure for a given problem.
