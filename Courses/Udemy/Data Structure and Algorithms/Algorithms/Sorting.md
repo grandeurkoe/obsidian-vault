@@ -1,22 +1,30 @@
-# Sorting
+# **Sorting Algorithms**
 
-Python has an in-build `sort()` function.
+Sorting is the process of arranging data in a particular order (e.g., ascending or descending). Python has a built-in `sort()` function, but for large data sets, more efficient sorting algorithms might be necessary.
 
-The drawback of using the in-built `sort()` function is that it would not be efficient when we are dealing with large data sets.
+## **Built-in Sort Function**
 
-The time complexity of the built-in `sort(`) function in various languages can be different because of the way they are implemented.
+- Python's built-in `sort()` function has a time complexity of **O(N log N)**, which is efficient for most cases.
+    
+- However, the built-in sort might not be the most efficient for extremely large datasets.
+    
+- **GitHub Link**: [Built-in Sort](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/builtin-sort)
 
-Time complexity of built-in `sort()` function in python is O(N log N).
+---
 
-Built-in Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/builtin-sort)
+## **Stable vs Unstable Sorting Algorithms**
 
-## Stable vs Unstable Algorithms
+- **Stable sorting algorithm**: Keeps elements with equal keys in the same relative order they appeared in the input list.
+    
+    - Examples of stable sorting algorithms: **Insertion Sort**, **Merge Sort**, **Bubble Sort**.
+        
+- **Unstable sorting algorithm**: Does not guarantee to preserve the order of equal elements.
+    
+    - Examples of unstable sorting algorithms: **Quick Sort**, **Heap Sort**.
 
-A sorting algorithm is said to be stable if two objects with equal keys appear in the same order in sorted output as they appear in the input array to be sorted. Some sorting algorithms are stable by nature like Insertion sort, Merge Sort, Bubble Sort, etc. And some sorting algorithms are not, like Heap Sort, Quick Sort, etc.
+**Example**:
 
-Background: A "stable" sorting algorithm keeps the items with the same sorting key in order. 
-
-Suppose we have a list of 5-letter words:
+Given the list of 5-letter words:
 
 ```
 peach  
@@ -25,121 +33,170 @@ apple
 spork
 ```
 
-If we sort the list by just the first letter of each word then a stable-sort would produce:
+- **Stable sort** by the first letter would produce:
+    
+    ```
+    apple  
+    peach  
+    straw  
+    spork
+    ```
+    
+- **Unstable sort** could produce any order, like:
+    
+    ```
+    apple  
+    straw  
+    peach  
+    spork
+    ```
 
-```
-apple  
-peach  
-straw  
-spork
-```
+---
 
-In an unstable sort algorithm, straw or spork may be interchanged, but in a stable one, they stay in the same relative positions (that is, since straw appears before spork in the input, it also appears before spork in the output).
+## **Sorting Algorithms**
 
-## Bubble Sort
+### **Bubble Sort**
 
-Bubble sort is an elementary sort algorithm.
+- **Description**: The simplest sorting algorithm, Bubble Sort compares each pair of adjacent elements and swaps them if they are in the wrong order. The largest element "bubbles" to the end of the list in each iteration.
+    
+- **Time Complexity**:
+    
+    - Worst and Average Case: **O(n²)**
+        
+    - Best Case (already sorted): **O(n)** (if optimized to detect no swaps).
+        
+- **Drawback**: **Inefficient** for large datasets.
+    
+- **GitHub Link**: [Bubble Sort](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/bubble-sort)
 
-Bubble sort is the simplest and least efficient sorting algorithm.
+---
 
-In bubble sort, we create a bubble of consecutive pairs. compare them and then arrange the two in ascending order. This will eventually bubble up the largest number to the end of the list.
+### **Selection Sort**
 
-We keep doing this until the list is completely sorted.
+- **Description**: In Selection Sort, we repeatedly find the smallest element in the unsorted portion of the list and swap it with the first unsorted element.
+    
+- **Time Complexity**:
+    
+    - Worst and Average Case: **O(n²)**
+        
+    - Best Case: **O(n²)** (no optimization possible).
+        
+- **GitHub Link**: [Selection Sort](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/selection-sort)
 
-Time complexity for bubble sort is O(n^2).
+---
 
-[Bubble-sort with Hungarian ("Csángó") folk dance](https://www.youtube.com/watch?v=lyZQPjUT5B4)
+### **Insertion Sort**
 
-### Implementation
+- **Description**: In Insertion Sort, we build the sorted list one element at a time by inserting the current element into the correct position in the already sorted portion of the list.
+    
+- **Time Complexity**:
+    
+    - Worst and Average Case: **O(n²)**
+        
+    - Best Case (already sorted): **O(n)**.
+        
+- **Best Use Case**: When the list is nearly sorted or the list size is small.
+    
+- **GitHub Link**: [Insertion Sort](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/insertion-sort)
 
-Bubble Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/bubble-sort)
+---
 
-## Selection Sort
+### **Merge Sort**
 
-Selection sort is an elementary sort algorithm.
+- **Description**: Merge Sort is a divide-and-conquer algorithm. It divides the list into two halves, recursively sorts each half, and then merges the two sorted halves.
+    
+- **Time Complexity**: **O(n log n)** (consistent in all cases).
+    
+- **Space Complexity**: **O(n)** due to the additional space needed for the merged lists.
+    
+- **GitHub Link**: [Merge Sort](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/merge-sort)
 
-In selection sort, we scan for the smallest element and then swap that element with the first position element. We repeat this till be reach the end of the list.
+---
 
-Time complexity for selection sort is O(n^2).
+### **Quick Sort**
 
-[Select-sort with Gypsy folk dance](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+- **Description**: Quick Sort is a divide-and-conquer algorithm that selects a pivot element, partitions the list around the pivot, and recursively sorts the left and right sublists.
+    
+- **Time Complexity**:
+    
+    - Best and Average Case: **O(n log n)**
+        
+    - Worst Case (if pivot is poorly chosen): **O(n²)**.
+        
+- **Space Complexity**: **O(log n)** (for the recursive call stack).
+    
+- **GitHub Link**: [Quick Sort](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/quick-sort)
 
-### Implementation
+---
 
-Selection Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/selection-sort)
+### **Counting and Radix Sort**
 
-## Insertion Sort
+- **Counting Sort**: Counts the frequency of each element and uses that information to place elements in their correct position in the output array. Works only for non-negative integers.
+    
+- **Radix Sort**: Sorts numbers by processing individual digits. It works by sorting the elements based on each digit, starting from the least significant digit (LSD) or most significant digit (MSD).
+    
+- **Time Complexity**:
+    
+    - Counting Sort: **O(n + k)** (where k is the range of the input).
+        
+    - Radix Sort: **O(nk)** (where k is the number of digits in the maximum number).
+        
+- **Key Advantage**: These are **non-comparison sorts** and can be faster than comparison-based algorithms when the range of numbers is small.
+    
 
-Insertion sort is an elementary sort algorithm.
+---
 
-Insertion sort is useful when you know that the list is almost or fully sorted.
+## **Which Sort Should You Use?**
 
-In the best-case scenario you can get a time complexity of O(n).
+- **Insertion Sort**:
+    
+    - Best for small datasets or nearly sorted lists.
+        
+    - **Time Complexity**: **O(n²)**, but with space complexity **O(1)**.
+        
+- **Bubble Sort and Selection Sort**:
+    
+    - These are **not recommended** for large datasets due to their poor **O(n²)** time complexity. They are mainly used for educational purposes.
+        
+- **Merge Sort**:
+    
+    - Great for large datasets with consistent **O(n log n)** time complexity.
+        
+    - **Drawback**: High **space complexity (O(n))** due to recursion and merging.
+        
+- **Quick Sort**:
+    
+    - The most widely used sorting algorithm due to its **O(n log n)** time complexity and **O(log n)** space complexity.
+        
+    - **Drawback**: Worst-case time complexity of **O(n²)** if the pivot selection is poor.
+        
+- **Counting Sort and Radix Sort**:
+    
+    - These non-comparison sorts are very efficient when sorting numbers or strings with a fixed range, with time complexities often better than comparison sorts in specific situations.
+        
 
-[Insert-sort with Romanian folk dance](https://www.youtube.com/watch?v=ROalU379l3U)
+---
 
-### Implementation
+## **Sorting Algorithm Summary**
 
-Insertion Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/insertion-sort)
+|Algorithm|Best Time Complexity|Worst Time Complexity|Space Complexity|Stable|
+|---|---|---|---|---|
+|**Bubble Sort**|**O(n)**|**O(n²)**|**O(1)**|Yes|
+|**Selection Sort**|**O(n²)**|**O(n²)**|**O(1)**|No|
+|**Insertion Sort**|**O(n)**|**O(n²)**|**O(1)**|Yes|
+|**Merge Sort**|**O(n log n)**|**O(n log n)**|**O(n)**|Yes|
+|**Quick Sort**|**O(n log n)**|**O(n²)**|**O(log n)**|No|
+|**Counting Sort**|**O(n + k)**|**O(n + k)**|**O(k)**|Yes|
+|**Radix Sort**|**O(nk)**|**O(nk)**|**O(n + k)**|No|
 
-## Merge Sort
+---
 
-Time complexity of Merge Sort is O(n log n).
+These algorithms offer a range of options depending on the size and nature of the data being sorted. The choice of algorithm often depends on:
 
-However, the space complexity of merge sort is O(n) because of function call stack.
-
-Merge sort utilizes a divide and conquer approach i.e., recursion.
-
-[Merge-sort with Transylvanian-saxon (German) folk dance](https://www.youtube.com/watch?v=XaqR3G_NVoo)
-
-### Implementation
-
-Merge Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/merge-sort)
-
-## Quick Sort
-
-Quick sort utilizes a divide and conquer approach i.e., recursion.
-
-In quick sort, we pick a randomly pick a pivot, then we push all elements less than the pivot to the left and all the elements greater than the pivot to the right.
-
-Then we divide the list w.r.t the pivot into two sub lists and then we perform the above step on them recursively.
-
-Quick and merge sort are the most commonly used sorting algorithms.
-
-Time complexity of quick sort is O(n log n).
-
-Space complexity of quick sort is O(n log n).
-
-If the pivot is the largest element in the list then the time complexity will be increase to O(n^2).
-
-[Quick-sort with Hungarian (Küküllőmenti legényes) folk dance](https://www.youtube.com/watch?v=ywWBy6J5gz8)
-
-### Implementation
-
-Quick Sort - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/sorting/quick-sort)
-
-## Counting and Radix Sort
-
-Bubble sort, Selection sort, Insertion sort, Merge sort and Quick sort are examples of comparison sort.
-
-Counting and Radix sort do not use comparisons. Hence, they are called non-comparison sort.
-
-In these sorting, we leverage the way numbers and data is stored on computers as 0's and 1's. We use this to sort our data.
-
-Counting and Radix sort only works with numbers specifically integers or string with fixed-size keys in a restricted range. For example, in the range from 0 - 100.
-
-## Which Sort is the Best?
-
-Insertion sort should be used when inputs are small or items are mostly sorted.
-
-Insertion sort uses very little space i.e., O(1) and is very easy to implement.
-
-Bubble sort and Selection sort are never really used. Its uses are limited to educational purposes.
-
-Merge sort uses the divide and conquer approach. Its time complexity is O(n log n) for all cases(best, average and worst).
-
-But if memory is important for you then perhaps merge sort might not be a good choice as it has a space complexity of O(n).
-
-Quick sort is overall better than merge sort because it has a time complexity of O( n log n) and space complexity of O(n log n).
-
-The only downside of quick sort is that in the worst case it has a time complexity of O(n^2).
+- Whether stability is important.
+    
+- The expected size of the dataset.
+    
+- Memory constraints.
+    
+- The distribution and range of input data.

@@ -1,21 +1,3 @@
-## Bellman Ford and Dijkstra Algorithm
-
-These algorithms are used to find the shortest path.
-
-Since BFS, doesn't consider edge weight. So the shortest path that BFS finds, might not be the most weight efficient path.
-
-Bellman Ford and Dijkstra's Algorithm allows us to find the shortest path that is also weight efficient.
-
-Bellman Ford Algorithm can accommodate negative weight edges.
-
-Dijkstra's Algorithm can't accommodate negative weight edges.
-
-The drawback of Bellman Ford is that it is not the most efficient i.e. time complexity of Bellman Ford is O(V * E) which is greater than the time complexity of Dijkstra's algorithm i.e. O(V^2).
-
-Here's an improved and structured version of your notes on **Searching and Traversal**:
-
----
-
 ### **Searching and Traversal**
 
 Searching and traversal are fundamental operations performed on data structures. These operations help us locate specific values or visit every node in a tree or graph.
@@ -42,7 +24,6 @@ Searching and traversal are fundamental operations performed on data structures.
 - **Best-case time complexity**: **O(1)** (when the target is the first element).
     
 - **Worst-case time complexity**: **O(n)** (when the target is at the end or not in the list).
-    
 
 ---
 
@@ -62,7 +43,6 @@ Searching and traversal are fundamental operations performed on data structures.
     
 
 - **Time complexity**: **O(log n)** (because the list is halved with each comparison).
-    
 
 ---
 
@@ -84,7 +64,6 @@ Searching and traversal are fundamental operations performed on data structures.
 - **Shortest Path**: BFS can find the shortest path in an unweighted graph.
     
 - **Closer Nodes First**: BFS explores the closest nodes first.
-    
 
 **Downside of BFS**:
 
@@ -96,7 +75,6 @@ Searching and traversal are fundamental operations performed on data structures.
 1. [Breadth-First Search (BFS) - GitHub Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search)
     
 2. [Breadth-First Search Recursive - GitHub Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search-recursive)
-    
 
 ---
 
@@ -136,26 +114,22 @@ Searching and traversal are fundamental operations performed on data structures.
 ### **BFS vs DFS Comparison**
 
 - **Time Complexity** for both BFS and DFS: **O(n)** where **n** is the number of nodes.
-    
 
 #### **When to Use BFS**:
 
 1. **Shortest Path**: BFS is ideal for finding the shortest path in an unweighted graph.
     
 2. **Closer Nodes**: BFS explores closer nodes first, which is useful when you need nodes closest to the source.
-    
 
 **Downside of BFS**:
 
 - **Memory-intensive**: It stores pointers for each child node at every level.
-    
 
 #### **When to Use DFS**:
 
 1. **Memory-efficient**: DFS is more memory-efficient as it does not store pointers for every child.
     
 2. **Path Existence**: DFS is useful when determining if a path exists between nodes.
-    
 
 **Downside of DFS**:
 
@@ -177,7 +151,6 @@ Searching and traversal are fundamental operations performed on data structures.
 5. **Determining whether a path exists between two nodes**: **DFS**
     
 6. **Finding the shortest path**: **BFS**
-    
 
 ---
 
@@ -200,8 +173,3 @@ Searching and traversal are fundamental operations performed on data structures.
     - Time complexity: **O(V^2)** in the simplest form, but can be improved to **O(E + V log V)** with a priority queue.
         
     - More efficient than Bellman-Ford when edge weights are positive.
-        
-
----
-
-Let me know if you need more clarification or examples for any of these topics!
