@@ -25,7 +25,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Good complexity** because it doesn’t depend on input size.
     
 - **Real-life Example**: Checking if a number is odd or even.
-    
 
 #### **O(log n) - Logarithmic Time**
 
@@ -38,7 +37,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Good complexity** because it grows very slowly as the input size increases.
     
 - **Real-life Example**: Searching in a sorted array (binary search).
-    
 
 #### **O(n) - Linear Time**
 
@@ -51,7 +49,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Fair complexity** because it scales with input size.
     
 - **Real-life Example**: Finding the maximum value in an unsorted array.
-    
 
 #### **O(n log n) - Linearithmic Time**
 
@@ -64,7 +61,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Bad time complexity**, but still relatively efficient for large datasets.
     
 - **Real-life Example**: Sorting large datasets efficiently.
-    
 
 #### **O(n²) - Quadratic Time**
 
@@ -77,7 +73,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Horrible complexity** because performance degrades rapidly as the input size grows.
     
 - **Real-life Example**: Comparing every pair of elements in an array.
-    
 
 #### **O(2ⁿ) - Exponential Time**
 
@@ -90,7 +85,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Horrible complexity**, as the performance becomes infeasible for large inputs.
     
 - **Real-life Example**: Certain recursive algorithms for solving combinatorial problems.
-    
 
 #### **O(n!) - Factorial Time**
 
@@ -103,7 +97,6 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **Complexity**: **Horrible complexity**, often the result of a poorly optimized solution.
     
 - **Real-life Example**: Finding all permutations of a string.
-    
 
 ---
 
@@ -122,12 +115,7 @@ For a more detailed overview of Big O complexities, you can check the Big O Comp
 - **O(2ⁿ)**: Exponential time (horrible).
     
 - **O(n!)**: Factorial time (horrible).
-    
 
 ---
 
 By understanding Big O, you can better assess and choose algorithms based on the problem at hand. Efficient code ensures scalability and handles large input sizes with minimal resource usage.
-
-For further study, check out the Big O Cheat Sheet for more in-depth examples and explanations.
-
-Let me know if you'd like more details or need help with anything specific!
