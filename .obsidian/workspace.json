@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Udemy/Data Structure and Algorithms/Algorithms/Recursion.md",
+                "file": "Courses/Udemy/Data Structure and Algorithms/Algorithms/Searching and Traversal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recursion"
+              "title": "Searching and Traversal"
             }
           }
         ]
@@ -172,6 +172,7 @@
   },
   "active": "1399d530ac982c2b",
   "lastOpenFiles": [
+    "Courses/Udemy/Data Structure and Algorithms/Algorithms/Recursion.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Dynamic Programming.md",
     "Courses/Udemy/Data Structure and Algorithms/Algorithms/Algorithms.md",
     "Courses/Udemy/Data Structure and Algorithms/Big O/What is Big O.md",

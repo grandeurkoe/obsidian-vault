@@ -1,124 +1,3 @@
-# Searching and Traversal
-
-Searching and Traversal are one of the most important operation you can perform on a data structure.
-
-The following are the different kinds of search -
-
-1. Linear Search.
-2. Binary Search.
-3. Depth First Search.
-4. Breadth First Search.
-
-Traversal is the process of visiting every node in the tree or a graph.
-
-Time complexity for graph and tree traversal is O(n) because we are visiting every node.
-
-## Linear Search
-
-Linear Search or Sequential Search is the method of finding a target value within a list.
-
-In Linear Search, it sequentially searches the list for the target value until it is found or you reach the end of the list.
-
-Time complexity of linear search is O(n) if the target value is at the end of the list.
-
-In the best case scenario, the time complexity is O(1).
-
-## Binary Search
-
-Binary Search involves searching in an already sorted list.
-
-Sorted list can be turned into a binary search tree.
-
-Binary search tree is more efficient than a sorted or unsorted list.
-
-Time complexity of an already sorted binary search tree is O(log n) because it uses the divide and conquer approach.
-
-1. We start by getting the central value in the list.
-2. If the target value is less than or greater than the target value, then we discard elements to the right of the central value or we discard elements to the left of the central value respectively.
-3. The we perform step(2) and step(3) iteratively until we find the target value.
-
-## Breadth First Search(BFS)
-
-1. In Breadth First Search, you start with the root node
-2. Then you move left to right down the level.
-3. You keep doing step(2) until you find the node you're looking for or you've traversed every node.
-
-### Implementation
-
-1. Breadth First Search - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search)
-2. Breadth First Search Recursive - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search-recursive)
-
-## Depth First Search (DFS)
-
-1. In Depth First Search, you start from the root node.
-2. The you traverse by following one branch of the tree down as many level as possible until you've found the target value or you've reached the end of tree branch.
-3. It then goes back to the parent node with an unexplored branch.
-4. Then you iteratively perform step(2) and step(3).
-
-Depth First Search has a lower memory requirement than Breadth First Search because it is not necessary to store pointers for each child at every level.
-
-DFS can be implemented in three different ways -
-
-![[Pasted image 20231010174525.png|500]]
-
-![[Pasted image 20231010174543.png|500]]
-
-### Implementation
-
-Depth First Search - [Github Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/depth-first-search)
-
-## Breadth First Search(BFS) vs Depth First Search (DFS)
-
-Time complexity of both BFS and DFS is O(n).
-
-What is BFS for?
-
-1. Shortest Path.
-2. Closer Nodes - Since in BFS we traverse the closer nodes first.
-
-Downside of BFS?
-
-1. More Memory - Since it has to store pointer for every child at every level.
-
-What is DFS for?
-
-1. Less Memory - Doesn't store pointer for every child at every level.
-2. Does the path exist from the source node to the target node.
-
-Downside of DFS?
-
-1. Can get slow, if the target node is in the rightmost subtree.
-
-Graphs also use BFS and DFS for traversal.
-
-DFS in Graphs can be used in a get out of the maze program.
-
-### Quiz
-
-Q1. If you know a solution is not far from the root of the tree:
-
-BFS
-
-Q2. If the tree is very deep and solutions are rare,
-
-BFS (DFS will take long time. )
-
-Q3. If the tree is very wide:
-
-DFS (BFS will need too much memory)
-
-Q4. If solutions are frequent but located deep in the tree
-
-DFS
-
-Q5. determining whether a path exists between two nodes
-
-DFS
-
-Q6. Finding the shortest path
-
-BFS
-
 ## Bellman Ford and Dijkstra Algorithm
 
 These algorithms are used to find the shortest path.
@@ -132,3 +11,197 @@ Bellman Ford Algorithm can accommodate negative weight edges.
 Dijkstra's Algorithm can't accommodate negative weight edges.
 
 The drawback of Bellman Ford is that it is not the most efficient i.e. time complexity of Bellman Ford is O(V * E) which is greater than the time complexity of Dijkstra's algorithm i.e. O(V^2).
+
+Here's an improved and structured version of your notes on **Searching and Traversal**:
+
+---
+
+### **Searching and Traversal**
+
+Searching and traversal are fundamental operations performed on data structures. These operations help us locate specific values or visit every node in a tree or graph.
+
+#### **Types of Searches:**
+
+1. **Linear Search**
+    
+2. **Binary Search**
+    
+3. **Breadth-First Search (BFS)**
+    
+4. **Depth-First Search (DFS)**
+    
+
+**Traversal** is the process of visiting every node in a tree or graph. The time complexity for tree and graph traversal is **O(n)**, where **n** is the number of nodes.
+
+---
+
+### **Linear Search**
+
+**Linear Search** (also known as Sequential Search) is a method of finding a target value within a list by sequentially checking each element until it is found or the end of the list is reached.
+
+- **Best-case time complexity**: **O(1)** (when the target is the first element).
+    
+- **Worst-case time complexity**: **O(n)** (when the target is at the end or not in the list).
+    
+
+---
+
+### **Binary Search**
+
+**Binary Search** works on a sorted list or array and follows the **divide and conquer** approach. It reduces the search space by half with each comparison.
+
+**Steps:**
+
+1. Start with the middle element of the sorted list.
+    
+2. If the target value is smaller than the middle value, discard the right half of the list.
+    
+3. If the target value is larger, discard the left half.
+    
+4. Repeat steps 2 and 3 until the target value is found or the list is exhausted.
+    
+
+- **Time complexity**: **O(log n)** (because the list is halved with each comparison).
+    
+
+---
+
+### **Breadth-First Search (BFS)**
+
+**Breadth-First Search (BFS)** is used to traverse a tree or graph level by level, visiting all nodes at the present depth level before moving to nodes at the next level.
+
+**Steps:**
+
+1. Start with the **root node** or the **starting node**.
+    
+2. Visit the node and then visit its immediate neighbors (left to right).
+    
+3. Continue to visit the neighbors at each level.
+    
+
+**Use cases of BFS**:
+
+- **Shortest Path**: BFS can find the shortest path in an unweighted graph.
+    
+- **Closer Nodes First**: BFS explores the closest nodes first.
+    
+
+**Downside of BFS**:
+
+- **Memory-intensive**: BFS stores pointers to each child node at every level, making it more memory-heavy.
+    
+
+#### **Implementation**:
+
+1. [Breadth-First Search (BFS) - GitHub Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search)
+    
+2. [Breadth-First Search Recursive - GitHub Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/breadth-first-search-recursive)
+    
+
+---
+
+### **Depth-First Search (DFS)**
+
+**Depth-First Search (DFS)** explores as far as possible along one branch before backtracking to explore other branches.
+
+**Steps:**
+
+1. Start from the **root node** or starting node.
+    
+2. Traverse down a branch, exploring nodes until reaching the deepest level or a dead-end.
+    
+3. Backtrack to the parent node and explore the next unexplored branch.
+    
+4. Repeat steps 2 and 3 until all nodes are visited.
+    
+
+**DFS vs BFS**:
+
+- **Memory efficiency**: DFS requires less memory than BFS because it doesn’t need to store pointers for every child at each level.
+    
+- **Slow for deep solutions**: DFS can be slower when the target node is located deep in the rightmost part of the tree.
+
+
+![[Pasted image 20231010174525.png|500]]
+
+![[Pasted image 20231010174543.png|500]]
+
+#### **DFS Implementation**:
+
+- [Depth-First Search (DFS) - GitHub Link](https://github.com/grandeurkoe/data-structures-and-algorithms/tree/4f0a0409009e63683acc86bdb94471532b085e7e/algorithms/searching/depth-first-search)
+    
+
+---
+
+### **BFS vs DFS Comparison**
+
+- **Time Complexity** for both BFS and DFS: **O(n)** where **n** is the number of nodes.
+    
+
+#### **When to Use BFS**:
+
+1. **Shortest Path**: BFS is ideal for finding the shortest path in an unweighted graph.
+    
+2. **Closer Nodes**: BFS explores closer nodes first, which is useful when you need nodes closest to the source.
+    
+
+**Downside of BFS**:
+
+- **Memory-intensive**: It stores pointers for each child node at every level.
+    
+
+#### **When to Use DFS**:
+
+1. **Memory-efficient**: DFS is more memory-efficient as it does not store pointers for every child.
+    
+2. **Path Existence**: DFS is useful when determining if a path exists between nodes.
+    
+
+**Downside of DFS**:
+
+- **Slower**: If the target node is in the deep rightmost part of the tree, DFS can take longer to find it.
+    
+
+---
+
+### **Quiz**
+
+1. **If you know a solution is not far from the root of the tree**: **BFS**
+    
+2. **If the tree is very deep and solutions are rare**: **DFS** (DFS will take less time, as BFS would require more memory).
+    
+3. **If the tree is very wide**: **DFS** (BFS would require too much memory).
+    
+4. **If solutions are frequent but located deep in the tree**: **DFS**
+    
+5. **Determining whether a path exists between two nodes**: **DFS**
+    
+6. **Finding the shortest path**: **BFS**
+    
+
+---
+
+### **Bellman-Ford vs Dijkstra Algorithm**
+
+**Bellman-Ford Algorithm** and **Dijkstra's Algorithm** are both used to find the shortest path in weighted graphs.
+
+- **Bellman-Ford**:
+    
+    - Can handle **negative edge weights**.
+        
+    - Time complexity: **O(V * E)** where **V** is the number of vertices and **E** is the number of edges.
+        
+    - Slower than Dijkstra’s algorithm.
+        
+- **Dijkstra's Algorithm**:
+    
+    - Cannot handle **negative edge weights**.
+        
+    - Time complexity: **O(V^2)** in the simplest form, but can be improved to **O(E + V log V)** with a priority queue.
+        
+    - More efficient than Bellman-Ford when edge weights are positive.
+        
+
+---
+
+Let me know if you need more clarification or examples for any of these topics!
